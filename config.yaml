@@ -1,0 +1,567 @@
+# Job Tracker Config
+# ===================
+#
+# Edit `companies` to add/remove targets. Each entry needs:
+#   - name: display name
+#   - fetcher: which fetcher to use (see src/fetchers/ for available)
+#   - enabled: true/false to toggle without deleting
+#   - ...fetcher-specific fields (slug, host, tenant, site, etc.)
+#
+# Notes on common ATS systems:
+#   greenhouse:        slug = the URL slug at boards.greenhouse.io/{slug}
+#   lever:             slug = the slug at jobs.lever.co/{slug}
+#   ashby:             slug = the slug at jobs.ashbyhq.com/{slug}
+#   workday:           host + tenant + site (visit careers page, URL gives all three)
+#                      e.g. nvidia.wd5.myworkdayjobs.com / nvidia / NVIDIAExternalCareerSite
+#   smartrecruiters:   slug = the slug at jobs.smartrecruiters.com/{slug}
+#   oracle_cloud:      host + site_number (look in careers page network requests)
+#
+# Companies marked `enabled: false` are tracked here but not polled. To enable,
+# verify the slug/host values (most can be found by visiting the company's
+# careers page and inspecting the URL or network tab in DevTools).
+
+max_workers: 12   # concurrent HTTP fetches
+
+# ---------------- FILTER ----------------
+filter:
+  min_score: 3
+  require_location_match: true
+
+  include_keywords:
+    # Data Science core
+    - data scientist
+    - data science
+    - data analyst
+    - data analytics
+    - product analyst
+    - product data scientist
+    - business intelligence
+    - analytics engineer
+    - quantitative analyst
+    - quant analyst
+    # ML / AI
+    - machine learning
+    - ml engineer
+    - applied scientist
+    - ai engineer
+    - ai/ml
+    - ai research
+    - research engineer
+    - research scientist
+    - deep learning
+    - applied ml
+    # NLP / CV / GenAI
+    - nlp
+    - natural language
+    - computer vision
+    - llm
+    - genai
+    - generative ai
+    - rag
+    - foundation model
+    - responsible ai
+    - ai governance
+    - ai safety
+    - ai integrity
+    # Risk / Fraud / Healthcare overlaps
+    - risk analytics
+    - fraud analytics
+    - model risk
+    - clinical data science
+    - bioinformatics
+    - real-world evidence
+    # Consulting / decision analytics
+    - decision analytics
+    - analytics consultant
+    - data consultant
+
+  exclude_keywords:
+    # Seniority disqualifiers - matched as whole words in title
+    - senior
+    - sr
+    - staff
+    - principal
+    - lead
+    - director
+    - manager
+    - vp
+    - head of
+    - chief
+    - architect
+    - executive
+    # Wrong job families
+    - sales
+    - marketing manager
+    - recruiter
+    - intern
+    - internship
+
+  # Level / level-of-experience boosts
+  level_signals_positive:
+    - new grad
+    - new graduate
+    - university grad
+    - university graduate
+    - early career
+    - early-career
+    - entry level
+    - entry-level
+    - associate
+    - fresher
+    - "0-2 years"
+    - "0 to 2 years"
+    - "1-2 years"
+    - "2026"
+    - "2027"
+    - masters
+    - "master's"
+    - recent graduate
+    - graduate program
+    - rotational
+
+  # Location filter - case-insensitive substring match against job's location field.
+  locations:
+    - united states
+    - usa
+    - "u.s."
+    - " us "
+    - " us,"
+    - remote
+    - new york
+    - new york city
+    - "ny,"
+    - " ny "
+    - new jersey
+    - "nj,"
+    - " nj "
+    - san francisco
+    - bay area
+    - california
+    - "ca,"
+    - boston
+    - "ma,"
+    - seattle
+    - "wa,"
+    - chicago
+    - "il,"
+    - austin
+    - "tx,"
+    - atlanta
+    - "ga,"
+    - washington
+    - "dc,"
+    - virginia
+    - "va,"
+    - north carolina
+    - "nc,"
+
+# ---------------- COMPANIES ----------------
+companies:
+
+  # ===== TIER 1: BIG TECH =====
+  - name: Amazon
+    fetcher: amazon
+    enabled: true
+
+  - name: Microsoft
+    fetcher: microsoft
+    enabled: true
+
+  - name: Google
+    fetcher: google
+    enabled: true
+
+  - name: Meta
+    fetcher: meta
+    enabled: true
+
+  - name: Apple
+    fetcher: apple
+    enabled: true
+
+  - name: NVIDIA
+    fetcher: workday
+    host: nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+    enabled: true
+
+  - name: IBM
+    fetcher: ibm
+    enabled: true
+
+  - name: Oracle
+    fetcher: oracle_cloud
+    host: eeho.fa.us2.oraclecloud.com
+    site_number: "CX_1001"   # VERIFY: visit careers.oracle.com, inspect XHR for siteNumber
+    enabled: false  # verify site_number first
+
+  - name: Salesforce
+    fetcher: workday
+    host: salesforce.wd12.myworkdayjobs.com
+    tenant: salesforce
+    site: External_Career_Site
+    enabled: true
+
+  - name: Adobe
+    fetcher: workday
+    host: adobe.wd5.myworkdayjobs.com
+    tenant: adobe
+    site: external_experienced
+    enabled: true
+
+  - name: Databricks
+    fetcher: greenhouse
+    slug: databricks
+    enabled: true
+
+  - name: Snowflake
+    fetcher: greenhouse
+    slug: snowflakecomputing
+    enabled: true
+
+  - name: Palantir
+    fetcher: greenhouse
+    slug: palantir
+    enabled: true
+
+  # ===== TIER 2: FINANCE / FINTECH =====
+  - name: JPMorgan Chase
+    fetcher: oracle_cloud
+    host: jpmc.fa.oraclecloud.com
+    site_number: "CX_1002"
+    public_url_base: "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002"
+    enabled: true
+
+  - name: Goldman Sachs
+    fetcher: workday
+    host: goldmansachs.wd1.myworkdayjobs.com
+    tenant: goldmansachs
+    site: GS_EXTERNAL_CAREERS
+    enabled: false  # NOTE: Goldman actually uses higher.gs.com (custom system, not Workday).
+                    # Would need a custom fetcher. Apply via https://higher.gs.com manually for now.
+
+  - name: Morgan Stanley
+    fetcher: workday
+    host: ms.wd5.myworkdayjobs.com
+    tenant: ms
+    site: External
+    enabled: true
+
+  - name: Citi
+    fetcher: workday
+    host: citi.wd5.myworkdayjobs.com
+    tenant: citi
+    site: "2"
+    enabled: true
+
+  - name: Bank of America
+    fetcher: workday
+    host: ghr.wd1.myworkdayjobs.com
+    tenant: ghr
+    site: Lateral-US
+    enabled: true
+
+  - name: Capital One
+    fetcher: workday
+    host: capitalone.wd1.myworkdayjobs.com
+    tenant: capitalone
+    site: Capital_One
+    enabled: true
+
+  - name: American Express
+    fetcher: workday
+    host: aexp.wd1.myworkdayjobs.com
+    tenant: aexp
+    site: AmericanExpress
+    enabled: true
+
+  - name: Bloomberg
+    fetcher: bloomberg
+    enabled: true
+
+  - name: BlackRock
+    fetcher: workday
+    host: blackrock.wd1.myworkdayjobs.com
+    tenant: blackrock
+    site: BlackRock_Professional
+    enabled: true
+
+  - name: Mastercard
+    fetcher: workday
+    host: mastercard.wd1.myworkdayjobs.com
+    tenant: mastercard
+    site: CorporateCareers
+    enabled: true
+
+  - name: Visa
+    fetcher: smartrecruiters
+    slug: Visa
+    enabled: true
+
+  - name: PayPal
+    fetcher: workday
+    host: paypal.wd1.myworkdayjobs.com
+    tenant: paypal
+    site: jobs
+    enabled: true
+
+  - name: Stripe
+    fetcher: greenhouse
+    slug: stripe
+    enabled: true
+
+  - name: Coinbase
+    fetcher: greenhouse
+    slug: coinbase
+    enabled: true
+
+  # ===== TIER 3: CONSULTING =====
+  - name: Deloitte
+    fetcher: deloitte
+    enabled: true
+
+  - name: Accenture
+    fetcher: accenture
+    enabled: true
+
+  - name: PwC (Experienced)
+    fetcher: workday
+    host: pwc.wd3.myworkdayjobs.com
+    tenant: pwc
+    site: Global_Experienced_Careers
+    enabled: true
+
+  - name: PwC (Campus)
+    fetcher: workday
+    host: pwc.wd3.myworkdayjobs.com
+    tenant: pwc
+    site: Global_Campus_Careers
+    enabled: true
+
+  - name: EY
+    fetcher: workday
+    host: ey.wd5.myworkdayjobs.com
+    tenant: ey
+    site: EY_Careers
+    enabled: false  # VERIFY
+
+  - name: KPMG
+    fetcher: workday
+    host: kpmg.wd5.myworkdayjobs.com
+    tenant: kpmg
+    site: KPMG_Careers
+    enabled: false  # VERIFY
+
+  - name: BCG X
+    fetcher: greenhouse
+    slug: bcgdv  # BCG Digital Ventures / BCG X
+    enabled: false  # VERIFY slug
+
+  - name: McKinsey QuantumBlack
+    fetcher: greenhouse
+    slug: quantumblack
+    enabled: false  # VERIFY
+
+  - name: Bain Advanced Analytics
+    fetcher: greenhouse
+    slug: bainandcompany
+    enabled: false  # VERIFY
+
+  - name: ZS Associates
+    fetcher: workday
+    host: zs.wd5.myworkdayjobs.com
+    tenant: zs
+    site: ZS_Associates_Careers
+    enabled: false  # VERIFY
+
+  - name: Fractal Analytics
+    fetcher: workday
+    host: fractal.wd3.myworkdayjobs.com
+    tenant: fractal
+    site: FractalCareers
+    enabled: false  # VERIFY
+
+  - name: Tiger Analytics
+    fetcher: greenhouse
+    slug: tigeranalytics
+    enabled: false  # VERIFY
+
+  - name: EXL
+    fetcher: workday
+    host: exlservice.wd1.myworkdayjobs.com
+    tenant: exlservice
+    site: External
+    enabled: false  # VERIFY
+
+  # ===== TIER 4: HEALTHCARE / BIOTECH =====
+  - name: Johnson & Johnson
+    fetcher: workday
+    host: jnj.wd5.myworkdayjobs.com
+    tenant: jnj
+    site: jnjcareers
+    enabled: false  # VERIFY
+
+  - name: Merck
+    fetcher: workday
+    host: msd.wd5.myworkdayjobs.com
+    tenant: msd
+    site: External
+    enabled: false  # VERIFY
+
+  - name: Pfizer
+    fetcher: workday
+    host: pfizer.wd1.myworkdayjobs.com
+    tenant: pfizer
+    site: PfizerCareers
+    enabled: false  # VERIFY
+
+  - name: Roche/Genentech
+    fetcher: workday
+    host: roche.wd3.myworkdayjobs.com
+    tenant: roche
+    site: roche
+    enabled: false  # VERIFY
+
+  - name: Novartis
+    fetcher: workday
+    host: novartis.wd3.myworkdayjobs.com
+    tenant: novartis
+    site: Novartis_Careers
+    enabled: false  # VERIFY
+
+  - name: Regeneron
+    fetcher: workday
+    host: regeneron.wd5.myworkdayjobs.com
+    tenant: regeneron
+    site: Regeneron_External
+    enabled: false  # VERIFY
+
+  - name: Tempus AI
+    fetcher: greenhouse
+    slug: tempus
+    enabled: true
+
+  - name: Flatiron Health
+    fetcher: greenhouse
+    slug: flatironhealth
+    enabled: true
+
+  - name: Memorial Sloan Kettering
+    fetcher: workday
+    host: mskcc.wd1.myworkdayjobs.com
+    tenant: mskcc
+    site: MSKCC
+    enabled: false  # VERIFY
+
+  # ===== TIER 5: AI STARTUPS =====
+  - name: OpenAI
+    fetcher: ashby
+    slug: openai
+    enabled: true
+
+  - name: Anthropic
+    fetcher: greenhouse
+    slug: anthropic
+    enabled: true
+
+  - name: Scale AI
+    fetcher: greenhouse
+    slug: scaleai
+    enabled: true
+
+  - name: Figma
+    fetcher: greenhouse
+    slug: figma
+    enabled: true
+
+  - name: Notion
+    fetcher: greenhouse
+    slug: notion
+    enabled: true
+
+  - name: Canva
+    fetcher: lever
+    slug: canva
+    enabled: true
+
+  - name: Hugging Face
+    fetcher: greenhouse
+    slug: huggingface
+    enabled: true
+
+  - name: Perplexity AI
+    fetcher: ashby
+    slug: perplexity
+    enabled: true
+
+  - name: Cohere
+    fetcher: greenhouse
+    slug: cohere
+    enabled: true
+
+  - name: Sierra AI
+    fetcher: ashby
+    slug: sierra
+    enabled: false  # VERIFY ashby slug
+
+  # ===== TIER 6: NY / EAST COAST =====
+  - name: MSCI
+    fetcher: workday
+    host: msci.wd1.myworkdayjobs.com
+    tenant: msci
+    site: MSCI_Careers
+    enabled: false  # VERIFY
+
+  - name: S&P Global
+    fetcher: workday
+    host: spgi.wd5.myworkdayjobs.com
+    tenant: spgi
+    site: SPGI_Careers
+    enabled: false  # VERIFY
+
+  - name: Moody's
+    fetcher: workday
+    host: moodys.wd5.myworkdayjobs.com
+    tenant: moodys
+    site: Moodys_Careers
+    enabled: false  # VERIFY
+
+  - name: FactSet
+    fetcher: workday
+    host: factset.wd5.myworkdayjobs.com
+    tenant: factset
+    site: FactSetCareers
+    enabled: false  # VERIFY
+
+  - name: Two Sigma
+    fetcher: greenhouse
+    slug: twosigma
+    enabled: true
+
+  - name: Jane Street
+    fetcher: greenhouse
+    slug: janestreet
+    enabled: true
+
+  - name: The Voleon Group
+    fetcher: greenhouse
+    slug: voleon
+    enabled: false  # VERIFY
+
+  - name: Spotify
+    fetcher: lever
+    slug: spotify
+    enabled: false  # VERIFY (may be custom)
+
+  - name: Etsy
+    fetcher: workday
+    host: etsy.wd5.myworkdayjobs.com
+    tenant: etsy
+    site: Etsy_Careers
+    enabled: false  # VERIFY
+
+  - name: The New York Times
+    fetcher: greenhouse
+    slug: thenewyorktimes
+    enabled: false  # VERIFY
