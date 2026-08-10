@@ -1253,6 +1253,13 @@
       "title": "Product Manager",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Product-Manager_R170920-1"
     },
+    "Adobe:R170985": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382037+00:00",
+      "location": "2 Locations",
+      "title": "Product Manager - International Strategy",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Product-Manager---International-Strategy_R170985"
+    },
     "Adobe:R171033": {
       "alerted": false,
       "first_seen": "2026-08-06T15:32:47.344343+00:00",
@@ -18983,6 +18990,20 @@
       "location": "Tel Aviv-Yafo, Tel Aviv, ISR",
       "title": "DFT Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10496508/dft-engineer"
+    },
+    "Amazon:10496540": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.381995+00:00",
+      "location": "Seoul, KOR",
+      "title": "Delivery Consultant, Security, Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10496540/delivery-consultant-security-professional-services"
+    },
+    "Amazon:10496564": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.381913+00:00",
+      "location": "Shanghai, CHN",
+      "title": "Software Development Engineer, Early Career - 2027, Shanghai",
+      "url": "https://www.amazon.jobs/en/jobs/10496564/software-development-engineer-early-career-2027-shanghai"
     },
     "Anthropic:4017331008": {
       "alerted": false,
@@ -107947,12 +107968,33 @@
       "title": "BANAMEX -CAJERO DE SUCURSAL ZONAS SUR Y PENINSULAR",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Campeche-Campeche-Mexico/BANAMEX--CAJERO-DE-SUCURSAL-ZONAS-SUR-Y-PENINSULAR_26985418"
     },
+    "Citi:26985424": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382923+00:00",
+      "location": "Chiyoda-ku Tokyo Japan",
+      "title": "Vice President, Banker, Financial Institutions, Corporate Banking",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Vice-President--Banker--Financial-Institutions--Corporate-Banking_26985424"
+    },
+    "Citi:26985430": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382999+00:00",
+      "location": "Kowloon  Hong Kong",
+      "title": "Officer, Cash Securities Settlement",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement_26985430"
+    },
     "Citi:26985431": {
       "alerted": false,
       "first_seen": "2026-08-07T03:31:47.645586+00:00",
       "location": "Hong Kong  Hong Kong",
       "title": "Business Execution Manager - Senior Vice President - SG/HK",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Business-Execution-Manager---Senior-Vice-President---SG-HK_26985431"
+    },
+    "Citi:26985432": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383043+00:00",
+      "location": "Kowloon  Hong Kong",
+      "title": "Officer, Cash Securities Settlement Intermediate Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement-Intermediate-Analyst_26985432"
     },
     "Citi:26985464": {
       "alerted": false,
@@ -110264,13 +110306,6 @@
       "title": "Senior Manager, Infrastructure Data Science",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002"
     },
-    "Databricks:7642125002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003074+00:00",
-      "location": "London, United Kingdom",
-      "title": "Lead Solutions Architect  - Strategic Customers",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002"
-    },
     "Databricks:7642799002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.004215+00:00",
@@ -111048,13 +111083,6 @@
       "title": "Senior Manager, Product Security",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8148273002"
     },
-    "Databricks:8176503002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003091+00:00",
-      "location": "Vancouver, Canada",
-      "title": "Manager, Engineering - AI/BI",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002"
-    },
     "Databricks:8178287002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.004111+00:00",
@@ -111419,13 +111447,6 @@
       "title": "Senior Solutions Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002"
     },
-    "Databricks:8240507002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003080+00:00",
-      "location": "Sao Paulo, Brazil",
-      "title": "Legal Counsel (Latin America)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8240507002"
-    },
     "Databricks:8243219002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.003691+00:00",
@@ -111741,13 +111762,6 @@
       "title": "Enterprise Account Executive - Manufacturing ",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8349357002"
     },
-    "Databricks:8349447002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003093+00:00",
-      "location": "Japan",
-      "title": "Manager, Enterprise Presales - Kansai Region",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8349447002"
-    },
     "Databricks:8350956002": {
       "alerted": false,
       "first_seen": "2026-06-26T05:57:20.802681+00:00",
@@ -111824,13 +111838,6 @@
       "location": "Chicago, Illinois",
       "title": "Solutions Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8359542002"
-    },
-    "Databricks:8360067002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003105+00:00",
-      "location": "Sao Paulo, Brazil",
-      "title": "Manager, Field Engineering",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8360067002"
     },
     "Databricks:8362737002": {
       "alerted": false,
@@ -111915,13 +111922,6 @@
       "location": "Singapore",
       "title": "Staff Forward Deployment Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8373538002"
-    },
-    "Databricks:8374096002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003116+00:00",
-      "location": "Remote - Italy",
-      "title": "Manager, Field Engineering Italy",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374096002"
     },
     "Databricks:8374611002": {
       "alerted": false,
@@ -112105,13 +112105,6 @@
       "title": "Director, Field Engineering",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397552002"
     },
-    "Databricks:8397556002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003112+00:00",
-      "location": "Illinois; Massachusetts; New York; North Carolina",
-      "title": "Manager, Field Engineering - Healthcare and Life Sciences (HLS)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397556002"
-    },
     "Databricks:8397558002": {
       "alerted": false,
       "first_seen": "2026-08-09T07:33:00.332437+00:00",
@@ -112188,13 +112181,6 @@
       "location": "Hesse, Germany",
       "title": "Director, Strategic Accounts - Logistics & Tech, m/f/d",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8403550002"
-    },
-    "Databricks:8403943002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003069+00:00",
-      "location": "London, United Kingdom",
-      "title": "Lead Solutions Architect (Digital Natives Business)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002"
     },
     "Databricks:8406090002": {
       "alerted": false,
@@ -112447,13 +112433,6 @@
       "location": "Sao Paulo, Brazil",
       "title": "Technical Program Manager, Professional Services - LATAM",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423289002"
-    },
-    "Databricks:8423291002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003063+00:00",
-      "location": "United States",
-      "title": "Lead Engagement Manager, Professional Servicws - Digital Native Business (DNB)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423291002"
     },
     "Databricks:8423296002": {
       "alerted": false,
@@ -112728,13 +112707,6 @@
       "title": "Solutions Architect",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437074002"
     },
-    "Databricks:8437076002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003070+00:00",
-      "location": "Tokyo, Japan",
-      "title": "Lead Solutions Architect (Pre-sales) \u2013 Public Sector",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437076002"
-    },
     "Databricks:8437449002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.003807+00:00",
@@ -112763,26 +112735,12 @@
       "title": "Solutions Architect (Indonesia)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438763002"
     },
-    "Databricks:8438767002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003099+00:00",
-      "location": "Singapore",
-      "title": "Manager, Field Engineering",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438767002"
-    },
     "Databricks:8438777002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.003656+00:00",
       "location": "Mumbai, India",
       "title": "Solutions Architect",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438777002"
-    },
-    "Databricks:8438779002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003101+00:00",
-      "location": "Bengaluru, India",
-      "title": "Manager, Field Engineering",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438779002"
     },
     "Databricks:8438791002": {
       "alerted": false,
@@ -112825,13 +112783,6 @@
       "location": "London, United Kingdom",
       "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002"
-    },
-    "Databricks:8439078002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003082+00:00",
-      "location": "Paris, France",
-      "title": "Manager, Big Data Architecture \u2013 Professional Services (DWH, Data Engineering & Migrations)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002"
     },
     "Databricks:8439170002": {
       "alerted": false,
@@ -113049,13 +113000,6 @@
       "location": "Mountain View, California; New York City, New York; San Francisco, California",
       "title": "Finance Manager",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8449854002"
-    },
-    "Databricks:8449856002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003095+00:00",
-      "location": "Costa Rica",
-      "title": "Manager, Executive Support",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8449856002"
     },
     "Databricks:8449860002": {
       "alerted": false,
@@ -113659,13 +113603,6 @@
       "title": "Sr. Solutions Architect - Financial Services (Wealth and Asset Management)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8480646002"
     },
-    "Databricks:8480815002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003067+00:00",
-      "location": "Munich, Germany",
-      "title": "Lead Solutions Architect",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8480815002"
-    },
     "Databricks:8480817002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.003545+00:00",
@@ -113819,13 +113756,6 @@
       "location": "Remote - Virginia",
       "title": "Strategic Core Account Executive - CPG",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8490858002"
-    },
-    "Databricks:8491126002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003107+00:00",
-      "location": "Paris, France",
-      "title": "Manager, Field Engineering France",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8491126002"
     },
     "Databricks:8491947002": {
       "alerted": false,
@@ -114387,20 +114317,6 @@
       "title": "Sr. Solutions Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516307002"
     },
-    "Databricks:8517059002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003087+00:00",
-      "location": "London, United Kingdom",
-      "title": "Manager, Delivery Solutions Architects",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517059002"
-    },
-    "Databricks:8517065002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003109+00:00",
-      "location": "Paris, France",
-      "title": "Manager, Field Engineering France  - Specialist Solutions Architects",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002"
-    },
     "Databricks:8517068002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.003528+00:00",
@@ -114541,13 +114457,6 @@
       "title": "Sr. Solutions Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8527655002"
     },
-    "Databricks:8527663002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003097+00:00",
-      "location": "Mexico City",
-      "title": "Manager, Field Engineering",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8527663002"
-    },
     "Databricks:8528597002": {
       "alerted": false,
       "first_seen": "2026-06-26T09:28:26.739991+00:00",
@@ -114631,13 +114540,6 @@
       "location": "Singapore",
       "title": "Sr. Forward Deployed Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8534142002"
-    },
-    "Databricks:8534469002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003103+00:00",
-      "location": "Sydney, Australia",
-      "title": "Manager, Field Engineering",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8534469002"
     },
     "Databricks:8534472002": {
       "alerted": false,
@@ -114730,13 +114632,6 @@
       "title": "Director, Enterprise Sales, Public Sector",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8538833002"
     },
-    "Databricks:8538884002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003076+00:00",
-      "location": "Central - United States; Northeast - United States; Southeast - United States; West Coast - United States",
-      "title": "Lead Technical Program Manager, Professional Services - Retail",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8538884002"
-    },
     "Databricks:8538914002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.003760+00:00",
@@ -114800,13 +114695,6 @@
       "title": "Sr. Solutions Architect - AI Natives Business",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8541221002"
     },
-    "Databricks:8541319002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003114+00:00",
-      "location": "Central - United States",
-      "title": "Manager, Field Engineering - Health Payer and Provider(Hunter)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8541319002"
-    },
     "Databricks:8543937002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.003773+00:00",
@@ -114828,13 +114716,6 @@
       "title": "Specialist Solutions Architect - AI/ML",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8544533002"
     },
-    "Databricks:8545248002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003084+00:00",
-      "location": "Milan, Italy",
-      "title": "Manager, Delivery Solutions Architects",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8545248002"
-    },
     "Databricks:8546365002": {
       "alerted": true,
       "first_seen": "2026-06-02T17:12:33.033039+00:00",
@@ -114848,13 +114729,6 @@
       "location": "United States",
       "title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
-    },
-    "Databricks:8548502002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003065+00:00",
-      "location": "United States",
-      "title": "Lead GTM Enablement & Scale Architect, Lakebase",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548502002"
     },
     "Databricks:8548505002": {
       "alerted": false,
@@ -115171,26 +115045,12 @@
       "title": "Senior Designated Support Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002"
     },
-    "Databricks:8564394002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003078+00:00",
-      "location": "London, United Kingdom",
-      "title": "Legal Counsel, EMEA Commercial",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564394002"
-    },
     "Databricks:8565278002": {
       "alerted": false,
       "first_seen": "2026-05-29T05:55:20.938334+00:00",
       "location": "Montr\u00e9al, Canada",
       "title": "Sr. Solutions Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8565278002"
-    },
-    "Databricks:8565280002": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.003089+00:00",
-      "location": "Georgia; Illinois; New York; Washington, D.C.",
-      "title": "Manager, Delivery Solutions Architects - Financial Services",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8565280002"
     },
     "Databricks:8567320002": {
       "alerted": false,
@@ -118034,12 +117894,26 @@
       "title": "Field Engineering Manager, Specialist Solutions Architects - Nordics",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002"
     },
+    "Databricks:8679970002": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.381229+00:00",
+      "location": "Bengaluru, India",
+      "title": "SAP Functional SME",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679970002"
+    },
     "Databricks:8679974002": {
       "alerted": false,
       "first_seen": "2026-08-07T19:11:48.022721+00:00",
       "location": "Mountain View, California; San Francisco, California",
       "title": "Staff Product Manager, SAP",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679974002"
+    },
+    "Databricks:8679980002": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.381845+00:00",
+      "location": "Bengaluru, India",
+      "title": "Sr SAP Developer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002"
     },
     "Databricks:8681148002": {
       "alerted": false,
@@ -119713,6 +119587,13 @@
       "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
       "title": "Strategic Finance, AI Innovation",
       "url": "https://boards.greenhouse.io/figma/jobs/6112961004?gh_jid=6112961004"
+    },
+    "Figma:6113161004": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382557+00:00",
+      "location": "Singapore",
+      "title": "Technical Account Manager (Singapore)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6113161004?gh_jid=6113161004"
     },
     "Figma:6114301004": {
       "alerted": false,
@@ -190323,6 +190204,13 @@
       "title": "Senior Manager of Infrastructure Engineering - Networking, Firewall, Proxy",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210771107"
     },
+    "JPMorgan Chase:210771108": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383081+00:00",
+      "location": "NY, United States",
+      "title": "Software Engineer III: Frontend Developer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210771108"
+    },
     "JPMorgan Chase:210771117": {
       "alerted": false,
       "first_seen": "2026-07-20T16:10:16.094685+00:00",
@@ -201201,6 +201089,13 @@
       "title": "Settlements Manager (Fix Income & Equities)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210776262"
     },
+    "JPMorgan Chase:210776263": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383130+00:00",
+      "location": "Hackensack, NJ, United States",
+      "title": "Part Time (30 Hours) Associate Banker, Riverfront Plaza Branch, Hackensack, NJ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210776263"
+    },
     "JPMorgan Chase:210776264": {
       "alerted": false,
       "first_seen": "2026-08-07T12:08:57.727599+00:00",
@@ -202727,6 +202622,13 @@
       "title": "Senior Internal Auditor - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777300"
     },
+    "JPMorgan Chase:210777308": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383177+00:00",
+      "location": "Winter Haven, FL, United States",
+      "title": "Full Time (40 Hours) Associate Banker, Winter Haven Downtown, Winter Haven, FL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777308"
+    },
     "JPMorgan Chase:210777317": {
       "alerted": false,
       "first_seen": "2026-08-07T14:35:42.003106+00:00",
@@ -202950,6 +202852,13 @@
       "location": "Philadelphia, PA, United States",
       "title": "Part Time (30 Hours) Associate Banker, Chestnut Hill Branch, Philadelphia, PA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777513"
+    },
+    "JPMorgan Chase:210777528": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383215+00:00",
+      "location": "Wilmington, DE, United States",
+      "title": "In-Business Controls and Governance Lead",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777528"
     },
     "JPMorgan Chase:210777541": {
       "alerted": false,
@@ -203252,6 +203161,13 @@
       "title": "Branch Manager - SC St Louis Market - St Louis, MO",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777808"
     },
+    "JPMorgan Chase:210777809": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383261+00:00",
+      "location": "Briarcliff Manor, NY, United States",
+      "title": "Part Time (30 Hours) Associate Banker, Osage Branch, Briarcliff, NY",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777809"
+    },
     "JPMorgan Chase:210777815": {
       "alerted": false,
       "first_seen": "2026-08-06T09:25:25.837590+00:00",
@@ -203307,6 +203223,13 @@
       "location": "New York, NY, United States",
       "title": "Global Credit Trading \u2013 Emerging Markets Credit Trader \u2013 Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777896"
+    },
+    "JPMorgan Chase:210777909": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383310+00:00",
+      "location": "Minneapolis, MN, United States",
+      "title": "Part Time (20 Hours) Associate Banker, Washington and Harvard Branch, Minneapolis, MN",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777909"
     },
     "JPMorgan Chase:210777935": {
       "alerted": false,
@@ -203475,6 +203398,13 @@
       "location": "LONDON, LONDON, United Kingdom",
       "title": "Investment Banking - EMEA Business Services - Analyst / Associate - London",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778148"
+    },
+    "JPMorgan Chase:210778156": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383350+00:00",
+      "location": "Malaysia",
+      "title": "Technology Support III - Markets Technology",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778156"
     },
     "JPMorgan Chase:210778160": {
       "alerted": false,
@@ -203797,6 +203727,13 @@
       "location": "Cork, Ireland",
       "title": "Workplace Solutions - Client Service Delivery Lead, Cork",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778730"
+    },
+    "JPMorgan Chase:210778752": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.383391+00:00",
+      "location": "Louisville, KY, United States",
+      "title": "Relationship Banker - Louisville, KY - Louisville Market",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778752"
     },
     "JPMorgan Chase:210778778": {
       "alerted": false,
@@ -225399,6 +225336,13 @@
       "location": "Mumbai, India",
       "title": "Asia Derivatives Sales Assistant, Senior Associate, Institutional Equity Division",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Asia-Derivatives-Sales-Assistant--Senior-Associate--Institutional-Equity-Division_JR038174-1"
+    },
+    "Morgan Stanley:JR038185": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382085+00:00",
+      "location": "Hong Kong, Hong Kong",
+      "title": "Asia Wealth Management, AMT Risk, Vice President, Hong Kong",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Hong-Kong-Hong-Kong/Asia-Wealth-Management--AMT-Risk--Vice-President--Hong-Kong_JR038185-1"
     },
     "Morgan Stanley:JR038192": {
       "alerted": false,
@@ -247821,6 +247765,13 @@
       "title": "System Product Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/System-Product-Engineer_JR2020798"
     },
+    "NVIDIA:JR2020799": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382674+00:00",
+      "location": "Taiwan, Hsinchu",
+      "title": "Data Systems Analyst",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Data-Systems-Analyst_JR2020799"
+    },
     "NVIDIA:JR2020800": {
       "alerted": false,
       "first_seen": "2026-07-10T10:40:25.516434+00:00",
@@ -252042,6 +251993,13 @@
       "title": "Senior System Software Engineer - CPU SoC Boot Firmware",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---CPU-SoC-Boot-Firmware_JR2022325-1"
     },
+    "NVIDIA:JR2022327": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382606+00:00",
+      "location": "2 Locations",
+      "title": "AI Computing Software Development Engineer, TensorRT-LLM",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Engineer--TensorRT-LLM_JR2022327"
+    },
     "NVIDIA:JR2022332": {
       "alerted": false,
       "first_seen": "2026-08-04T15:55:30.526203+00:00",
@@ -252630,6 +252588,13 @@
       "title": "Senior Architect, NVLink",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Architect--NVLink_JR2022626"
     },
+    "NVIDIA:JR2022628": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382796+00:00",
+      "location": "2 Locations",
+      "title": "Senior Director, Global Risk and Compliance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Global-Risk-and-Compliance_JR2022628"
+    },
     "NVIDIA:JR2022632": {
       "alerted": false,
       "first_seen": "2026-08-05T22:28:48.776756+00:00",
@@ -252749,6 +252714,13 @@
       "title": "ASIC Physical Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer_JR2022692"
     },
+    "NVIDIA:JR2022695": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382716+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior Mechanical Engineer, Manufacturing Development",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Mechanical-Engineer--Manufacturing-Development_JR2022695"
+    },
     "NVIDIA:JR2022699": {
       "alerted": false,
       "first_seen": "2026-08-04T09:46:46.789787+00:00",
@@ -252762,6 +252734,13 @@
       "location": "China, Shanghai",
       "title": "Silicon Performance, Power and Binning Tools Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Performance--Power-and-Binning-Tools-Engineer_JR2022703"
+    },
+    "NVIDIA:JR2022705": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382640+00:00",
+      "location": "2 Locations",
+      "title": "Firmware Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-Engineer_JR2022705"
     },
     "NVIDIA:JR2022708": {
       "alerted": false,
@@ -252875,6 +252854,13 @@
       "title": "Systems Software Engineer - Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783"
     },
+    "NVIDIA:JR2022786": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382876+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "DGX Cloud Automation Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Automation-Engineer_JR2022786"
+    },
     "NVIDIA:JR2022790": {
       "alerted": false,
       "first_seen": "2026-08-07T00:29:59.546328+00:00",
@@ -252909,6 +252895,13 @@
       "location": "2 Locations",
       "title": "Custom SOC IP Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2022813"
+    },
+    "NVIDIA:JR2022827": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382757+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, DGX Cloud Orchestration",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Orchestration_JR2022827"
     },
     "NVIDIA:JR2022828": {
       "alerted": false,
@@ -253042,6 +253035,13 @@
       "location": "6 Locations",
       "title": "Senior Mask Design Engineer \u2013 Hardware",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mask-Design-Engineer---Hardware_JR2022912"
+    },
+    "NVIDIA:JR2022919": {
+      "alerted": false,
+      "first_seen": "2026-08-10T02:56:57.382838+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer - Scientific Evaluation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Scientific-Evaluation_JR2022919-1"
     },
     "NVIDIA:JR2022928": {
       "alerted": false,
