@@ -18487,6 +18487,41 @@
       "title": "Applied Science Manager, AWS Startups, AWS Startups",
       "url": "https://www.amazon.jobs/en/jobs/10497736/applied-science-manager-aws-startups-aws-startups"
     },
+    "Amazon:10497766": {
+      "alerted": true,
+      "first_seen": "2026-08-10T20:09:41.413138+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Applied Scientist, Stores Economics & Science (SEAS)",
+      "url": "https://www.amazon.jobs/en/jobs/10497766/applied-scientist-stores-economics-science-seas"
+    },
+    "Amazon:10497769": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.413234+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Sr. Software Dev Engineer, Healthcare AI",
+      "url": "https://www.amazon.jobs/en/jobs/10497769/sr-software-dev-engineer-healthcare-ai"
+    },
+    "Amazon:10497777": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.413413+00:00",
+      "location": "New York, New York, USA",
+      "title": "Software Development Engineer, Ads Console Frameworks",
+      "url": "https://www.amazon.jobs/en/jobs/10497777/software-development-engineer-ads-console-frameworks"
+    },
+    "Amazon:10497788": {
+      "alerted": true,
+      "first_seen": "2026-08-10T20:09:41.413353+00:00",
+      "location": "Palo Alto, California, USA",
+      "title": "Applied Scientist II, Search Ranking",
+      "url": "https://www.amazon.jobs/en/jobs/10497788/applied-scientist-ii-search-ranking"
+    },
+    "Amazon:10497796": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.413300+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Prototyping Architect (Physical AI), AWS Prototyping and AI Customer Engineering (PACE)",
+      "url": "https://www.amazon.jobs/en/jobs/10497796/prototyping-architect-physical-ai-aws-prototyping-and-ai-customer-engineering-pace"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006857+00:00",
@@ -23694,6 +23729,13 @@
       "location": "San Francisco, CA | Seattle, WA",
       "title": "Internal Communications Manager, Tech",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383388008"
+    },
+    "Anthropic:5383596008": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424445+00:00",
+      "location": "San Francisco, CA | New York City, NY",
+      "title": "Developer Relations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008"
     },
     "Anthropic:5383610008": {
       "alerted": false,
@@ -47999,12 +48041,33 @@
       "title": "Client Services Representative II- Utica, NY- 2nd Shift",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Utica/Client-Services-Representative-II--Utica--NY--2nd-Shift_26028009"
     },
+    "Bank of America:26028012": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425109+00:00",
+      "location": "3 Locations",
+      "title": "Treasury Product Sales Mgr I",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Treasury-Product-Sales-Mgr-I_26028012"
+    },
     "Bank of America:26028013": {
       "alerted": false,
       "first_seen": "2026-08-07T13:35:57.336708+00:00",
       "location": "New York",
       "title": "Financial Solutions Advisor Registration Candidate - Chinatown-Bayard Financial Center - Bilingual Mandarin Required",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Financial-Solutions-Advisor-Registration-Candidate---Chinatown-Bayard-Financial-Center---Bilingual-Mandarin-Required_26028013"
+    },
+    "Bank of America:26028014": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425323+00:00",
+      "location": "4 Locations",
+      "title": "Relationship Banker - Mass Southeast Market",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Fall-River/Relationship-Banker---Mass-Southeast-Market_26028014"
+    },
+    "Bank of America:26028018": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425360+00:00",
+      "location": "2 Locations",
+      "title": "Relationship Banker - Mass Southeast Market",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Falmouth/Relationship-Banker---Mass-Southeast-Market_26028018"
     },
     "Bank of America:26028020": {
       "alerted": false,
@@ -48061,6 +48124,13 @@
       "location": "San Diego",
       "title": "Financial Solutions Advisor Registration Candidate - Southland Plaza Financial Center",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/San-Diego/Financial-Solutions-Advisor-Registration-Candidate---Southland-Plaza-Financial-Center_26028038-2"
+    },
+    "Bank of America:26028039": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425145+00:00",
+      "location": "Ridgeland",
+      "title": "Wealth Management Client Associate",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Ridgeland/Wealth-Management-Client-Associate_26028039"
     },
     "Bank of America:26028040": {
       "alerted": false,
@@ -48146,6 +48216,13 @@
       "title": "Business Solutions Advisor - Victory Drive Financial Center - Savannah, GA",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Savannah/Business-Solutions-Advisor---Victory-Drive-Financial-Center---Savannah--GA_26028238"
     },
+    "Bank of America:26028239": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425248+00:00",
+      "location": "3 Locations",
+      "title": "Feature Lead - Lead Android Engineer",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Kennesaw/Feature-Lead---Lead-Android-Engineer_26028239"
+    },
     "Bank of America:26028240": {
       "alerted": false,
       "first_seen": "2026-08-07T17:22:39.647411+00:00",
@@ -48194,6 +48271,13 @@
       "location": "Raleigh",
       "title": "Business Solutions Advisor - Greater NC - VA South Market",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Raleigh/Business-Solutions-Advisor---Greater-NC---VA-South-Market_26028248"
+    },
+    "Bank of America:26028256": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425210+00:00",
+      "location": "4 Locations",
+      "title": "Treasury Sales Officer II - Global Payment Solutions - Healthcare Payor / Life Sciences HTSR",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Treasury-Sales-Officer-II---Global-Payment-Solutions---Healthcare-Payor---Life-Sciences-HTSR_26028256"
     },
     "Bank of America:26028257": {
       "alerted": false,
@@ -48271,6 +48355,13 @@
       "location": "2 Locations",
       "title": "Financial Center Assistant Manager - Austin South - Bee Caves area",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Bee-Cave/Financial-Center-Assistant-Manager---Austin-South---Bee-Caves-area_26028330"
+    },
+    "Bank of America:26028333": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425284+00:00",
+      "location": "East Lansing",
+      "title": "Wealth Management Client Associate",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/East-Lansing/Wealth-Management-Client-Associate_26028333"
     },
     "Bank of America:26028336": {
       "alerted": false,
@@ -108738,6 +108829,13 @@
       "title": "Marketing Lead Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Wilmington-Delaware-United-States/Marketing-Lead-Analyst_26985607-1"
     },
+    "Citi:26985631": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424559+00:00",
+      "location": "2 Locations",
+      "title": "AVP, Security Technology Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-Castle-Delaware-United-States/AVP--Security-Technology-Analyst_26985631"
+    },
     "Citi:26985648": {
       "alerted": false,
       "first_seen": "2026-08-07T19:58:39.768654+00:00",
@@ -108849,6 +108947,13 @@
       "location": "Zapopan Jalisco Mexico",
       "title": "Banamex Volante Jr II   Dist. Tlaquepaque",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Zapopan-Jalisco-Mexico/Banamex-Volante-Jr-II---Dist-Tlaquepaque_26986061"
+    },
+    "Citi:26986069": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424522+00:00",
+      "location": "Cuernavaca Morelos Mexico",
+      "title": "Banamex Op. Cajero 4767",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Cuernavaca-Morelos-Mexico/Banamex-Op-Cajero-4767_26986069"
     },
     "Coinbase:6784618": {
       "alerted": false,
@@ -116892,6 +116997,13 @@
       "location": "Florida; Remote - Massachusetts; Remote - New York; Remote - North Carolina; Remote - Pennsylvania; Remote - Virginia",
       "title": "Sr. Solutions Engineer - Digital Native Business, Named Accounts",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8646516002"
+    },
+    "Databricks:8646549002": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.413055+00:00",
+      "location": "United States",
+      "title": "Sr. Delivery Solutions Architect - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8646549002"
     },
     "Databricks:8646989002": {
       "alerted": false,
@@ -128078,6 +128190,13 @@
       "location": "Virginia Beach, VA, United States",
       "title": "Part Time (30 Hours) Associate Banker, Hickman Place Branch, Virginia Beach, VA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210731743"
+    },
+    "JPMorgan Chase:210731753": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424597+00:00",
+      "location": "Miami, FL, United States",
+      "title": "Business Management Associate - Private Bank",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210731753"
     },
     "JPMorgan Chase:210731755": {
       "alerted": false,
@@ -178346,6 +178465,13 @@
       "title": "Part Time (30 Hours) Associate Banker, Stamford Prospect Street Branch, Stamford, CT",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766438"
     },
+    "JPMorgan Chase:210766445": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424640+00:00",
+      "location": "Alhambra, CA, United States",
+      "title": "Private Client Banker - Atlantic & Valley - Alhambra, CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766445"
+    },
     "JPMorgan Chase:210766448": {
       "alerted": false,
       "first_seen": "2026-07-07T15:49:52.107668+00:00",
@@ -183288,6 +183414,13 @@
       "title": "Control Manager \u2013 Vice President \u2013 Card Marketing Growth & Innovation -Rewards/Loyalty",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210768349"
     },
+    "JPMorgan Chase:210768352": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424676+00:00",
+      "location": "Toronto, ON, Canada",
+      "title": "PE- Fund Administration - VP",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210768352"
+    },
     "JPMorgan Chase:210768357": {
       "alerted": false,
       "first_seen": "2026-08-09T20:40:41.677723+00:00",
@@ -186801,6 +186934,13 @@
       "location": "Jersey City, NJ, United States",
       "title": "Principal Software Engineer - AI Foundations",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210769848"
+    },
+    "JPMorgan Chase:210769849": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424714+00:00",
+      "location": "Jersey City, NJ, United States",
+      "title": "Software Engineer III - Scala Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210769849"
     },
     "JPMorgan Chase:210769853": {
       "alerted": false,
@@ -201341,6 +201481,13 @@
       "title": "Part Time (30 Hours) Associate Banker, Village at Westfork Branch, Lithia Springs , GA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210776547"
     },
+    "JPMorgan Chase:210776549": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424756+00:00",
+      "location": "Chicago, IL, United States",
+      "title": "Private Client Banker - Division and Clybourn - Chicago IL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210776549"
+    },
     "JPMorgan Chase:210776555": {
       "alerted": false,
       "first_seen": "2026-08-04T17:41:15.490815+00:00",
@@ -201788,6 +201935,13 @@
       "location": "Metro Manila, National Capital Region, Philippines",
       "title": "Fraud Manager (Vice-President)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210776779"
+    },
+    "JPMorgan Chase:210776783": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424796+00:00",
+      "location": "Houston, TX, United States",
+      "title": "Python Backend Software Engineer II -  Athena / SQL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210776783"
     },
     "JPMorgan Chase:210776785": {
       "alerted": false,
@@ -203175,6 +203329,13 @@
       "title": "Securitized Products Group - Portfolio Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777821"
     },
+    "JPMorgan Chase:210777823": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424844+00:00",
+      "location": "Lyndhurst, OH, United States",
+      "title": "Part Time (20 Hours) Associate Banker, Mayfield Lyndhurst Branch, Lyndhurst, OH",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777823"
+    },
     "JPMorgan Chase:210777829": {
       "alerted": false,
       "first_seen": "2026-08-07T11:27:38.474887+00:00",
@@ -203182,12 +203343,26 @@
       "title": "Branch Manager - Middletown/Newport/Bristol Area, RI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777829"
     },
+    "JPMorgan Chase:210777837": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424891+00:00",
+      "location": "Mount Sterling, OH, United States",
+      "title": "Part Time (30 Hours) Associate Banker Mt Sterling Branch, Mount Sterling, OH",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777837"
+    },
     "JPMorgan Chase:210777848": {
       "alerted": false,
       "first_seen": "2026-08-10T13:53:13.948302+00:00",
       "location": "Maspeth, NY, United States",
       "title": "Part Time (30 Hours) Associate Banker, Grand Ave and 66th St Branch, Maspeth, NY Bilingual Spanish Required",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777848"
+    },
+    "JPMorgan Chase:210777852": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424941+00:00",
+      "location": "Astoria, NY, United States",
+      "title": "Part Time (20 Hours) Associate Banker, Astoria Broadway and 21st St Branch, Astoria, NY",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777852"
     },
     "JPMorgan Chase:210777857": {
       "alerted": false,
@@ -203238,6 +203413,13 @@
       "title": "Control Manager - Program Governance - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777907"
     },
+    "JPMorgan Chase:210777908": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424976+00:00",
+      "location": "Plano, TX, United States",
+      "title": "Project Manager I, Chase Travel",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777908"
+    },
     "JPMorgan Chase:210777909": {
       "alerted": false,
       "first_seen": "2026-08-10T02:56:57.383310+00:00",
@@ -203245,12 +203427,26 @@
       "title": "Part Time (20 Hours) Associate Banker, Washington and Harvard Branch, Minneapolis, MN",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777909"
     },
+    "JPMorgan Chase:210777911": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425021+00:00",
+      "location": "Akron, OH, United States",
+      "title": "Part Time (30 Hours) Associate Banker, Akron Centre Branch, Akron, OH",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777911"
+    },
     "JPMorgan Chase:210777935": {
       "alerted": false,
       "first_seen": "2026-08-07T19:11:48.025729+00:00",
       "location": "Noblesville, IN, United States",
       "title": "Part Time (20 Hours) Associate Banker, Noblesville Branch, Noblesville, IN",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777935"
+    },
+    "JPMorgan Chase:210777942": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425073+00:00",
+      "location": "New York, NY, United States",
+      "title": "Full Time (40 Hours) Associate Banker, Chinatown Branch, New York, NY, Bilingual Cantonese Required",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777942"
     },
     "JPMorgan Chase:210777952": {
       "alerted": false,
@@ -221774,6 +221970,13 @@
       "title": "Manager, Product Management",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Product-Management_R-286565"
     },
+    "Mastercard:R-286567": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.424486+00:00",
+      "location": "Purchase, New York",
+      "title": "Senior Analyst, Mergers & Acquisition",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Senior-Analyst--Mergers---Acquisition_R-286567-1"
+    },
     "Mastercard:R-286569": {
       "alerted": false,
       "first_seen": "2026-08-06T03:58:25.791732+00:00",
@@ -229453,6 +229656,13 @@
       "title": "Equity Sales and Products Associate",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Sales-and-Products-Associate_JR042150"
     },
+    "Morgan Stanley:JR042158": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.423736+00:00",
+      "location": "New York, New York, United States of America",
+      "title": "Investment Banking Healthcare Associate \u2013 New York",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Healthcare-Associate---New-York_JR042158-1"
+    },
     "Morgan Stanley:PT-JR005515": {
       "alerted": false,
       "first_seen": "2026-06-11T16:43:31.317401+00:00",
@@ -236852,6 +237062,13 @@
       "title": "Senior Software QA Test Development Engineer - Diagnostics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2011118"
     },
+    "NVIDIA:JR2011122": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.423820+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122"
+    },
     "NVIDIA:JR2011154": {
       "alerted": false,
       "first_seen": "2026-05-28T23:39:08.836356+00:00",
@@ -239322,6 +239539,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Manager, Software Engineering - Agentic Automation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Agentic-Automation_JR2015817"
+    },
+    "NVIDIA:JR2015837": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.423775+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director - GenAI Data Strategy",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director---GenAI-Data-Strategy_JR2015837"
     },
     "NVIDIA:JR2015843": {
       "alerted": false,
@@ -323274,6 +323498,13 @@
       "title": "IN_Senior Associate_ Python Full Stack Developer with Azure_GCC_Advisory_Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Python-Full-Stack-Developer-with-Azure-GCC-Advisory-Bangalore_751108WD-1"
     },
+    "PwC (Experienced):751109WD": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425729+00:00",
+      "location": "Bengaluru Millenia",
+      "title": "IN_Senior Associate_ Python Full Stack Developer with Azure_GCC_Advisory_Bangalore",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Python-Full-Stack-Developer-with-Azure-GCC-Advisory-Bangalore_751109WD-1"
+    },
     "PwC (Experienced):751111WD": {
       "alerted": false,
       "first_seen": "2026-08-10T18:25:49.207866+00:00",
@@ -323393,6 +323624,27 @@
       "title": "IN-Director_Energy resources, transformation_iGT - EU&R_Advisory_Bhubaneswar",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Director-Energy-resources--transformation-iGT---EU-R-Advisory-Bhubaneswar_751161WD-1"
     },
+    "PwC (Experienced):751162WD": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425579+00:00",
+      "location": "Bengaluru Millenia",
+      "title": "IN_Senior Associate \u2013 AWS Data Engineer \u2013 Data and Analytics \u2013 Advisory \u2013 Bangalore",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751162WD-1"
+    },
+    "PwC (Experienced):751164WD": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425630+00:00",
+      "location": "Bengaluru Millenia",
+      "title": "IN_Senior Associate \u2013 AWS Data Engineer \u2013 Data and Analytics \u2013 Advisory \u2013 Bangalore",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751164WD-1"
+    },
+    "PwC (Experienced):751165WD": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425679+00:00",
+      "location": "Bengaluru Millenia",
+      "title": "IN_Senior Associate \u2013 AWS Data Engineer \u2013 Data and Analytics \u2013 Advisory \u2013 Bangalore",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751165WD-1"
+    },
     "PwC (Experienced):751166WD": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.454070+00:00",
@@ -323435,12 +323687,26 @@
       "title": "IN_Senior Associate _People Analytics  _SAP_Advisory_Gurgaon",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate--People-Analytics---SAP-Advisory-Gurgaon_751263WD-1"
     },
+    "PwC (Experienced):751287WD": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425522+00:00",
+      "location": "Noida",
+      "title": "IN_Senior Associate_ LMS _Enterprise Apps SAP_Advisory_ Noida",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Noida/IN-Senior-Associate--LMS--Enterprise-Apps-SAP-Advisory--Noida_751287WD-2"
+    },
     "PwC (Experienced):751289WD": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.454023+00:00",
       "location": "Gurugram 10 C",
       "title": "IN_Associate _CPI _Enterprise Apps SAP_Advisory_Gurgaon",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-10-C/IN-Associate--CPI--Enterprise-Apps-SAP-Advisory-Gurgaon_751289WD"
+    },
+    "PwC (Experienced):751298WD": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.425475+00:00",
+      "location": "Bengaluru Millenia",
+      "title": "IN_Director_Infrasructure_iGT - Infrastructure & Resilience_Advisory_Bangalore",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Director-Infrasructure-iGT---Infrastructure---Resilience-Advisory-Bangalore_751298WD-1"
     },
     "PwC (Experienced):751299WD": {
       "alerted": false,
@@ -323756,6 +324022,13 @@
       "location": "Australia - Sydney",
       "title": "Business Development Representative",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/Business-Development-Representative_JR264377"
+    },
+    "Salesforce:JR265635": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.413491+00:00",
+      "location": "2 Locations",
+      "title": "Prime Named Account Executive- Data Foundation",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Prime-Named-Account-Executive--Mulesoft_JR265635-1"
     },
     "Salesforce:JR273146": {
       "alerted": false,
@@ -340088,6 +340361,13 @@
       "title": "Tableau Technical Architect (Secret clearance)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Washington-DC-Metro---Remote/Tableau-Technical-Architect--Secret-clearance-_JR352370"
     },
+    "Salesforce:JR352394": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.413448+00:00",
+      "location": "Argentina - Remote",
+      "title": "Solution Consultant",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Argentina---Remote/Solution-Consultant_JR352394-1"
+    },
     "Salesforce:JR352405": {
       "alerted": false,
       "first_seen": "2026-07-17T19:13:34.716072+00:00",
@@ -344771,13 +345051,6 @@
       "title": "Backend Engineer/API, Payments and Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=4921361"
     },
-    "Stripe:4952353": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005802+00:00",
-      "location": "IN-Bengaluru",
-      "title": "Software Engineer, Payments & Risk",
-      "url": "https://stripe.com/jobs/search?gh_jid=4952353"
-    },
     "Stripe:5601881": {
       "alerted": true,
       "first_seen": "2026-05-28T17:52:53.121490+00:00",
@@ -344791,13 +345064,6 @@
       "location": "San Francisco, Seattle, Chicago, US-remote, New York",
       "title": "Company Strategy & Operations",
       "url": "https://stripe.com/jobs/search?gh_jid=5956522"
-    },
-    "Stripe:5956528": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005899+00:00",
-      "location": "San Francisco, Seattle, Chicago, US-remote, New York",
-      "title": "Strategic Business Performance, Central Strategy & Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=5956528"
     },
     "Stripe:6042172": {
       "alerted": false,
@@ -344834,12 +345100,19 @@
       "title": "Legal Entity Controller",
       "url": "https://stripe.com/jobs/search?gh_jid=6209187"
     },
-    "Stripe:6458492": {
+    "Stripe:6348471": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005937+00:00",
-      "location": "Atlanta, Chicago, New York City, San Francisco, Seattle, US Remote",
-      "title": "Technical Account Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=6458492"
+      "first_seen": "2026-08-10T20:09:41.418555+00:00",
+      "location": "San Francisco, New York, Seattle, Chicago, Remote, Toronto",
+      "title": "Product Marketing Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=6348471"
+    },
+    "Stripe:6470774": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.422829+00:00",
+      "location": "Tokyo",
+      "title": "Sales Development Representative",
+      "url": "https://stripe.com/jobs/search?gh_jid=6470774"
     },
     "Stripe:6558993": {
       "alerted": false,
@@ -344869,26 +345142,12 @@
       "title": "Full Stack Engineer, Money as a Service",
       "url": "https://stripe.com/jobs/search?gh_jid=6606581"
     },
-    "Stripe:6613516": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005934+00:00",
-      "location": "Dublin",
-      "title": "Technical Account Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=6613516"
-    },
     "Stripe:6686634": {
       "alerted": false,
       "first_seen": "2026-08-05T15:21:40.471769+00:00",
       "location": "Dublin",
       "title": "Backend Engineer, Core Technology",
       "url": "https://stripe.com/jobs/search?gh_jid=6686634"
-    },
-    "Stripe:6717520": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005799+00:00",
-      "location": "Dublin, Ireland",
-      "title": "Software Engineer, Payments and Risk",
-      "url": "https://stripe.com/jobs/search?gh_jid=6717520"
     },
     "Stripe:6786324": {
       "alerted": false,
@@ -344925,13 +345184,6 @@
       "title": "Accounts Receivable Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=7118945"
     },
-    "Stripe:7120766": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005842+00:00",
-      "location": "US-NY",
-      "title": "Specialist Solutions Architect, Crypto & Stablecoins",
-      "url": "https://stripe.com/jobs/search?gh_jid=7120766"
-    },
     "Stripe:7144975": {
       "alerted": false,
       "first_seen": "2026-08-10T18:25:49.195895+00:00",
@@ -344946,12 +345198,12 @@
       "title": "Employee Relations Partner",
       "url": "https://stripe.com/jobs/search?gh_jid=7175216"
     },
-    "Stripe:7176977": {
+    "Stripe:7176530": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005791+00:00",
-      "location": "Singapore",
-      "title": "Software Engineering, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=7176977"
+      "first_seen": "2026-08-10T20:09:41.416721+00:00",
+      "location": "SF, NY, SEA, Remote-US",
+      "title": "Product Manager, Payments",
+      "url": "https://stripe.com/jobs/search?gh_jid=7176530"
     },
     "Stripe:7179634": {
       "alerted": false,
@@ -344988,6 +345240,13 @@
       "title": "Software Engineer, Money Movement ",
       "url": "https://stripe.com/jobs/search?gh_jid=7208537"
     },
+    "Stripe:7214197": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.420029+00:00",
+      "location": "US-Remote",
+      "title": "Program Manager, Risk Ops Enablement",
+      "url": "https://stripe.com/jobs/search?gh_jid=7214197"
+    },
     "Stripe:7217048": {
       "alerted": false,
       "first_seen": "2026-08-10T17:30:55.786628+00:00",
@@ -344995,26 +345254,12 @@
       "title": "Backend Engineer, Billing/Tax",
       "url": "https://stripe.com/jobs/search?gh_jid=7217048"
     },
-    "Stripe:7217778": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005868+00:00",
-      "location": "Bengaluru",
-      "title": "Staff Engineer, Seller Systems",
-      "url": "https://stripe.com/jobs/search?gh_jid=7217778"
-    },
     "Stripe:7230452": {
       "alerted": false,
       "first_seen": "2026-08-10T18:25:49.200406+00:00",
       "location": "New York Privy HQ",
       "title": "Forward Deployed Engineer, Privy",
       "url": "https://stripe.com/jobs/search?gh_jid=7230452"
-    },
-    "Stripe:7230670": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005781+00:00",
-      "location": "N/A",
-      "title": "Software Engineer, Data Orchestration",
-      "url": "https://stripe.com/jobs/search?gh_jid=7230670"
     },
     "Stripe:7230921": {
       "alerted": false,
@@ -345037,13 +345282,6 @@
       "title": "Backend Engineer, Privy",
       "url": "https://stripe.com/jobs/search?gh_jid=7235875"
     },
-    "Stripe:7277110": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005777+00:00",
-      "location": "San Francisco, NY, Seattle",
-      "title": "Software Engineer, Bridge",
-      "url": "https://stripe.com/jobs/search?gh_jid=7277110"
-    },
     "Stripe:7277406": {
       "alerted": false,
       "first_seen": "2026-08-10T16:34:11.600319+00:00",
@@ -345057,13 +345295,6 @@
       "location": "London - United Kingdom",
       "title": "Partner Development Manager (Banks)",
       "url": "https://stripe.com/jobs/search?gh_jid=7289456"
-    },
-    "Stripe:7290256": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005929+00:00",
-      "location": "Bengaluru",
-      "title": "Team Lead, Risk Operations (PRO)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7290256"
     },
     "Stripe:7298935": {
       "alerted": false,
@@ -345086,6 +345317,13 @@
       "title": "Frontend Engineer, Payments & Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=7325252"
     },
+    "Stripe:7325566": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.423141+00:00",
+      "location": "Bengaluru",
+      "title": "SDC Operations Manager, Financial Crimes (AML)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7325566"
+    },
     "Stripe:7337544": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.443969+00:00",
@@ -345099,27 +345337,6 @@
       "location": "Dublin ",
       "title": "Head of Startups and Velocity Sales Development",
       "url": "https://stripe.com/jobs/search?gh_jid=7337546"
-    },
-    "Stripe:7361440": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005831+00:00",
-      "location": "Chicago",
-      "title": "Solutions Architect, SMB",
-      "url": "https://stripe.com/jobs/search?gh_jid=7361440"
-    },
-    "Stripe:7364278": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005766+00:00",
-      "location": "Tokyo",
-      "title": "SMB Account Executive (Japan)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7364278"
-    },
-    "Stripe:7365914": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005849+00:00",
-      "location": "NY or SF",
-      "title": "Specialist Solutions Architect, Radar (Fraud/Risk)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7365914"
     },
     "Stripe:7366283": {
       "alerted": false,
@@ -345142,13 +345359,6 @@
       "title": "Manager, Startups Account Executives - Existing Business",
       "url": "https://stripe.com/jobs/search?gh_jid=7368924"
     },
-    "Stripe:7369269": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005859+00:00",
-      "location": "NYC, SEA",
-      "title": "Staff Engineer, Account Engineering",
-      "url": "https://stripe.com/jobs/search?gh_jid=7369269"
-    },
     "Stripe:7369543": {
       "alerted": false,
       "first_seen": "2026-06-03T15:05:30.020918+00:00",
@@ -345162,13 +345372,6 @@
       "location": "NYC, SF, Chi, Remote",
       "title": "Specialist Solution Architect, Money Management",
       "url": "https://stripe.com/jobs/search?gh_jid=7370967"
-    },
-    "Stripe:7373865": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005761+00:00",
-      "location": "SF, NYC",
-      "title": "Short-form Video & Social, Community Comms",
-      "url": "https://stripe.com/jobs/search?gh_jid=7373865"
     },
     "Stripe:7376419": {
       "alerted": false,
@@ -345184,19 +345387,19 @@
       "title": "Technical Solutions Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=7377101"
     },
-    "Stripe:7377591": {
+    "Stripe:7390485": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005847+00:00",
-      "location": "NY, SF, Chicago",
-      "title": "Specialist Solutions Architect, Payments",
-      "url": "https://stripe.com/jobs/search?gh_jid=7377591"
+      "first_seen": "2026-08-10T20:09:41.419476+00:00",
+      "location": "Bengaluru",
+      "title": "Product Support Operations, Team Lead",
+      "url": "https://stripe.com/jobs/search?gh_jid=7390485"
     },
-    "Stripe:7380371": {
+    "Stripe:7392697": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005845+00:00",
-      "location": "NY, SF, Remote",
-      "title": "Specialist Solutions Architect, Money Management",
-      "url": "https://stripe.com/jobs/search?gh_jid=7380371"
+      "first_seen": "2026-08-10T20:09:41.416404+00:00",
+      "location": "SF, SEA, NY, Remote-US",
+      "title": "Product Manager, Link - Consumer",
+      "url": "https://stripe.com/jobs/search?gh_jid=7392697"
     },
     "Stripe:7393071": {
       "alerted": false,
@@ -345212,27 +345415,6 @@
       "title": "Account Executive, Product Sales, Billing",
       "url": "https://stripe.com/jobs/search?gh_jid=7393169"
     },
-    "Stripe:7396509": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005829+00:00",
-      "location": "Chicago, IL or New York, NY",
-      "title": "Solutions Architect, Platforms Velocity",
-      "url": "https://stripe.com/jobs/search?gh_jid=7396509"
-    },
-    "Stripe:7396679": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005806+00:00",
-      "location": "na",
-      "title": "Software Engineer, Secrets Infrastructure",
-      "url": "https://stripe.com/jobs/search?gh_jid=7396679"
-    },
-    "Stripe:7397878": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005907+00:00",
-      "location": "Chicago ",
-      "title": "Strategy & Operations Analyst, Customer Success",
-      "url": "https://stripe.com/jobs/search?gh_jid=7397878"
-    },
     "Stripe:7417090": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.005969+00:00",
@@ -345247,19 +345429,12 @@
       "title": "Risk Operations Analyst, Financial Crimes Programs",
       "url": "https://stripe.com/jobs/search?gh_jid=7430296"
     },
-    "Stripe:7430826": {
+    "Stripe:7430332": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005861+00:00",
-      "location": "Bengaluru",
-      "title": "Staff Engineer , Data & AI",
-      "url": "https://stripe.com/jobs/search?gh_jid=7430826"
-    },
-    "Stripe:7434912": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005840+00:00",
-      "location": "NYC",
-      "title": "Solutions Engineer, Bridge",
-      "url": "https://stripe.com/jobs/search?gh_jid=7434912"
+      "first_seen": "2026-08-10T20:09:41.421500+00:00",
+      "location": "Dublin",
+      "title": "Risk Operations Analyst, Financial Crimes",
+      "url": "https://stripe.com/jobs/search?gh_jid=7430332"
     },
     "Stripe:7436086": {
       "alerted": false,
@@ -345268,26 +345443,12 @@
       "title": "Full Stack Engineer, Web Presence and Platform",
       "url": "https://stripe.com/jobs/search?gh_jid=7436086"
     },
-    "Stripe:7436194": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005784+00:00",
-      "location": "Bengaluru",
-      "title": "Software Engineer, Fee Insights",
-      "url": "https://stripe.com/jobs/search?gh_jid=7436194"
-    },
     "Stripe:7440963": {
       "alerted": false,
       "first_seen": "2026-06-05T23:54:47.226109+00:00",
       "location": "Seattle, WA OR New York, NY OR Remote North America",
       "title": "Data Science Manager, Finance and Strategy",
       "url": "https://stripe.com/jobs/search?gh_jid=7440963"
-    },
-    "Stripe:7442995": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005838+00:00",
-      "location": "Dublin",
-      "title": "Solutions Architect, Startup & SMB (German-speaking)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7442995"
     },
     "Stripe:7451366": {
       "alerted": false,
@@ -345380,13 +345541,6 @@
       "title": "Product Manager, Local Payment Methods EMEA",
       "url": "https://stripe.com/jobs/search?gh_jid=7486955"
     },
-    "Stripe:7507904": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005811+00:00",
-      "location": "San Francisco or New York",
-      "title": "Software Engineer - Smart Contract, Bridge",
-      "url": "https://stripe.com/jobs/search?gh_jid=7507904"
-    },
     "Stripe:7517535": {
       "alerted": false,
       "first_seen": "2026-07-09T21:48:26.743421+00:00",
@@ -345429,33 +345583,12 @@
       "title": "Account Executive, Enterprise Hunter (Japanese fluency)",
       "url": "https://stripe.com/jobs/search?gh_jid=7528816"
     },
-    "Stripe:7529428": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005779+00:00",
-      "location": "Bengaluru",
-      "title": "Software Engineer, Data & AI",
-      "url": "https://stripe.com/jobs/search?gh_jid=7529428"
-    },
-    "Stripe:7529787": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005797+00:00",
-      "location": "Singapore",
-      "title": "Software Engineer, Payments",
-      "url": "https://stripe.com/jobs/search?gh_jid=7529787"
-    },
     "Stripe:7530580": {
       "alerted": false,
       "first_seen": "2026-07-02T10:26:08.673192+00:00",
       "location": "Dublin OR London",
       "title": "Compliance Manager, User Enablement",
       "url": "https://stripe.com/jobs/search?gh_jid=7530580"
-    },
-    "Stripe:7532256": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005793+00:00",
-      "location": "Sydney, Australia",
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7532256"
     },
     "Stripe:7532806": {
       "alerted": false,
@@ -345492,13 +345625,6 @@
       "title": "Technical Partner Manager - Networks",
       "url": "https://stripe.com/jobs/search?gh_jid=7543679"
     },
-    "Stripe:7543868": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005795+00:00",
-      "location": "Bengaluru, India",
-      "title": "Software Engineer, Internal Systems",
-      "url": "https://stripe.com/jobs/search?gh_jid=7543868"
-    },
     "Stripe:7544547": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.446117+00:00",
@@ -345512,20 +345638,6 @@
       "location": "Barcelona",
       "title": "Product Manager, Local Payment Methods EMEA",
       "url": "https://stripe.com/jobs/search?gh_jid=7547596"
-    },
-    "Stripe:7548037": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005863+00:00",
-      "location": "Bengaluru",
-      "title": "Staff Engineer, Data Engineering Solutions",
-      "url": "https://stripe.com/jobs/search?gh_jid=7548037"
-    },
-    "Stripe:7549012": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005932+00:00",
-      "location": "London",
-      "title": "Technical Account Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=7549012"
     },
     "Stripe:7553098": {
       "alerted": false,
@@ -345562,6 +345674,13 @@
       "title": "Product Counsel, Payments & Terminal",
       "url": "https://stripe.com/jobs/search?gh_jid=7558757"
     },
+    "Stripe:7559403": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.420351+00:00",
+      "location": "SF, SEA, CHI, NYC, ATL",
+      "title": "Program Manager, Third Party Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=7559403"
+    },
     "Stripe:7561053": {
       "alerted": false,
       "first_seen": "2026-06-25T22:02:47.426691+00:00",
@@ -345582,13 +345701,6 @@
       "location": "US / Canada",
       "title": "Product Designer, Connect Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=7568117"
-    },
-    "Stripe:7568328": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005856+00:00",
-      "location": "N/A",
-      "title": "Staff Data Scientist",
-      "url": "https://stripe.com/jobs/search?gh_jid=7568328"
     },
     "Stripe:7569605": {
       "alerted": false,
@@ -345611,13 +345723,6 @@
       "title": "Staff Product Manager, Global Expansion",
       "url": "https://stripe.com/jobs/search?gh_jid=7570242"
     },
-    "Stripe:7574857": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005824+00:00",
-      "location": "London",
-      "title": "Solutions Architect, Platforms - UK",
-      "url": "https://stripe.com/jobs/search?gh_jid=7574857"
-    },
     "Stripe:7576967": {
       "alerted": false,
       "first_seen": "2026-08-10T16:34:11.598378+00:00",
@@ -345631,13 +345736,6 @@
       "location": "Chicago, ATL, US-Remote",
       "title": "Program Manager, Alliances & Channels",
       "url": "https://stripe.com/jobs/search?gh_jid=7577223"
-    },
-    "Stripe:7577505": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005902+00:00",
-      "location": "San Francisco",
-      "title": "Strategic Finance Partner",
-      "url": "https://stripe.com/jobs/search?gh_jid=7577505"
     },
     "Stripe:7587254": {
       "alerted": false,
@@ -345709,6 +345807,13 @@
       "title": "Technical Account Manager, German OR Polish OR Ukrainian Speaking",
       "url": "https://stripe.com/jobs/search?gh_jid=7594376"
     },
+    "Stripe:7594866": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.421160+00:00",
+      "location": "Chicago, SEA, SF, NYC, US-Remote",
+      "title": "Risk Advisory Strategist, Card Network Compliance",
+      "url": "https://stripe.com/jobs/search?gh_jid=7594866"
+    },
     "Stripe:7597490": {
       "alerted": false,
       "first_seen": "2026-08-10T16:34:11.600953+00:00",
@@ -345736,20 +345841,6 @@
       "location": "Sweden, Dublin, Amsterdam",
       "title": "Solutions Architect, Enterprise",
       "url": "https://stripe.com/jobs/search?gh_jid=7601663"
-    },
-    "Stripe:7601668": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005835+00:00",
-      "location": "LOCATION",
-      "title": "Solutions Architect, Startup & SMB (French-Speaking)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7601668"
-    },
-    "Stripe:7601673": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005827+00:00",
-      "location": "Dublin",
-      "title": "Solutions Architect, Platforms - UKI",
-      "url": "https://stripe.com/jobs/search?gh_jid=7601673"
     },
     "Stripe:7607761": {
       "alerted": false,
@@ -345800,12 +345891,12 @@
       "title": "Software Engineer, Core Technology",
       "url": "https://stripe.com/jobs/search?gh_jid=7618977"
     },
-    "Stripe:7619227": {
+    "Stripe:7625842": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005815+00:00",
-      "location": "Paris",
-      "title": "Solutions Architect, Enterprise, France",
-      "url": "https://stripe.com/jobs/search?gh_jid=7619227"
+      "first_seen": "2026-08-10T20:09:41.417001+00:00",
+      "location": "Bengaluru",
+      "title": "Product Manager, Risk & Compliance",
+      "url": "https://stripe.com/jobs/search?gh_jid=7625842"
     },
     "Stripe:7634113": {
       "alerted": false,
@@ -345828,12 +345919,12 @@
       "title": "Treasury Operations Specialist ",
       "url": "https://stripe.com/jobs/search?gh_jid=7645711"
     },
-    "Stripe:7645717": {
+    "Stripe:7650177": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005895+00:00",
-      "location": "Sydney",
-      "title": "Startup Field Marketing Manager - AUNZ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7645717"
+      "first_seen": "2026-08-10T20:09:41.420812+00:00",
+      "location": "SEA, SF, NYC, CHI",
+      "title": "Regulatory Reporting Program Manager, Stablecoin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7650177"
     },
     "Stripe:7651697": {
       "alerted": false,
@@ -345849,19 +345940,33 @@
       "title": "Technical Program Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=7653021"
     },
+    "Stripe:7655023": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.423689+00:00",
+      "location": "San Francisco, Seattle, New York, Chicago",
+      "title": "Staff Product Manager, AI",
+      "url": "https://stripe.com/jobs/search?gh_jid=7655023"
+    },
+    "Stripe:7656504": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.419753+00:00",
+      "location": "US-Chicago, US-Remote",
+      "title": "Program Manager, GTM Planning",
+      "url": "https://stripe.com/jobs/search?gh_jid=7656504"
+    },
+    "Stripe:7663023": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.414158+00:00",
+      "location": "Canada",
+      "title": "Product Designer, Stablecoin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7663023"
+    },
     "Stripe:7664667": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.444569+00:00",
       "location": "Sydney or Melbourne",
       "title": "Manager, Technical Account Management",
       "url": "https://stripe.com/jobs/search?gh_jid=7664667"
-    },
-    "Stripe:7676921": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005897+00:00",
-      "location": "Stockholm ",
-      "title": "Startup Partner - Northern Europe ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7676921"
     },
     "Stripe:7678541": {
       "alerted": false,
@@ -345876,6 +345981,13 @@
       "location": "Bangalore",
       "title": "Technical Program Manager, Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=7678655"
+    },
+    "Stripe:7678670": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.419208+00:00",
+      "location": "New York, Seattle, San Francisco",
+      "title": "Product Support, Bridge ",
+      "url": "https://stripe.com/jobs/search?gh_jid=7678670"
     },
     "Stripe:7684149": {
       "alerted": false,
@@ -345954,26 +346066,12 @@
       "title": "People Partner",
       "url": "https://stripe.com/jobs/search?gh_jid=7704660"
     },
-    "Stripe:7712852": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005866+00:00",
-      "location": "Toronto",
-      "title": "Staff Engineer, Machine Learning Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=7712852"
-    },
     "Stripe:7716032": {
       "alerted": false,
       "first_seen": "2026-05-29T09:44:29.460855+00:00",
       "location": "Dublin",
       "title": "Staff Engineer - Production Eng",
       "url": "https://stripe.com/jobs/search?gh_jid=7716032"
-    },
-    "Stripe:7718488": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005893+00:00",
-      "location": "N/A",
-      "title": "Staff Software Engineer, Stripe Scale & Bundles",
-      "url": "https://stripe.com/jobs/search?gh_jid=7718488"
     },
     "Stripe:7718947": {
       "alerted": false,
@@ -345988,6 +346086,13 @@
       "location": "US-Remote; US-Chicago; US-Atlanta",
       "title": "Technical Partner Manager, AMER Banks",
       "url": "https://stripe.com/jobs/search?gh_jid=7719602"
+    },
+    "Stripe:7721834": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.415296+00:00",
+      "location": "London",
+      "title": "Product Manager, Capital",
+      "url": "https://stripe.com/jobs/search?gh_jid=7721834"
     },
     "Stripe:7722943": {
       "alerted": false,
@@ -346038,6 +346143,13 @@
       "title": "Engineer Manager, Billing",
       "url": "https://stripe.com/jobs/search?gh_jid=7737243"
     },
+    "Stripe:7739207": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.422214+00:00",
+      "location": "CHI, SF, NYC, SEA, US Remote",
+      "title": "Sales Compensation Analytics & Systems Specialist",
+      "url": "https://stripe.com/jobs/search?gh_jid=7739207"
+    },
     "Stripe:7742552": {
       "alerted": false,
       "first_seen": "2026-08-10T18:25:49.199044+00:00",
@@ -346051,13 +346163,6 @@
       "location": "Tokyo",
       "title": "Implementation Consultant",
       "url": "https://stripe.com/jobs/search?gh_jid=7744344"
-    },
-    "Stripe:7746721": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005890+00:00",
-      "location": "Toronto",
-      "title": "Staff Software Engineer, Stripe Dashboard",
-      "url": "https://stripe.com/jobs/search?gh_jid=7746721"
     },
     "Stripe:7746888": {
       "alerted": false,
@@ -346087,13 +346192,6 @@
       "title": "UAE Chief Risk Officer and Compliance and Money Laundering Reporting Officer (CRO/COMLRO)",
       "url": "https://stripe.com/jobs/search?gh_jid=7757554"
     },
-    "Stripe:7761694": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005804+00:00",
-      "location": "Seattle",
-      "title": "Software Engineer, Product Security Data Platforms",
-      "url": "https://stripe.com/jobs/search?gh_jid=7761694"
-    },
     "Stripe:7762534": {
       "alerted": false,
       "first_seen": "2026-06-11T21:34:16.328362+00:00",
@@ -346115,19 +346213,19 @@
       "title": "Workday Compensation Lead",
       "url": "https://stripe.com/jobs/search?gh_jid=7765976"
     },
-    "Stripe:7767063": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005888+00:00",
-      "location": "San Francisco, Seattle, New York, Toronto ",
-      "title": "Staff Software Engineer, Stream Compute",
-      "url": "https://stripe.com/jobs/search?gh_jid=7767063"
-    },
     "Stripe:7767222": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.444852+00:00",
       "location": "Dublin",
       "title": "Manager, Technical Account Management",
       "url": "https://stripe.com/jobs/search?gh_jid=7767222"
+    },
+    "Stripe:7768979": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.414769+00:00",
+      "location": "Dublin",
+      "title": "Product Lead, EMEA Payments",
+      "url": "https://stripe.com/jobs/search?gh_jid=7768979"
     },
     "Stripe:7769005": {
       "alerted": false,
@@ -346142,6 +346240,13 @@
       "location": "Spain",
       "title": "Brand Designer, Identity",
       "url": "https://stripe.com/jobs/search?gh_jid=7769564"
+    },
+    "Stripe:7773461": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.418280+00:00",
+      "location": "US / Canada",
+      "title": "Product Marketing, Data Products",
+      "url": "https://stripe.com/jobs/search?gh_jid=7773461"
     },
     "Stripe:7773621": {
       "alerted": false,
@@ -346164,6 +346269,13 @@
       "title": "Full Stack Engineer, Expansion",
       "url": "https://stripe.com/jobs/search?gh_jid=7775622"
     },
+    "Stripe:7776179": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.423415+00:00",
+      "location": "SF, New York, Seattle, Dublin",
+      "title": "Security Engineer, Bridge",
+      "url": "https://stripe.com/jobs/search?gh_jid=7776179"
+    },
     "Stripe:7778643": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.005965+00:00",
@@ -346184,13 +346296,6 @@
       "location": "Dubin",
       "title": "Technical Account Manager, Spanish Speaking",
       "url": "https://stripe.com/jobs/search?gh_jid=7782773"
-    },
-    "Stripe:7784353": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005820+00:00",
-      "location": "Milan, Barcelona, Madrid, Dublin, Amsterdam",
-      "title": "Solutions Architect, Italy",
-      "url": "https://stripe.com/jobs/search?gh_jid=7784353"
     },
     "Stripe:7789539": {
       "alerted": false,
@@ -346213,13 +346318,6 @@
       "title": "Senior Designer, Brand Advertising",
       "url": "https://stripe.com/jobs/search?gh_jid=7793636"
     },
-    "Stripe:7801457": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005854+00:00",
-      "location": "US",
-      "title": "Staff Data Analyst",
-      "url": "https://stripe.com/jobs/search?gh_jid=7801457"
-    },
     "Stripe:7805386": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.445132+00:00",
@@ -346227,12 +346325,12 @@
       "title": "Marketing Operations Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=7805386"
     },
-    "Stripe:7808471": {
+    "Stripe:7809139": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005773+00:00",
-      "location": "San Francisco, California",
-      "title": "Software Engineer",
-      "url": "https://stripe.com/jobs/search?gh_jid=7808471"
+      "first_seen": "2026-08-10T20:09:41.416087+00:00",
+      "location": "Toronto, Remote- Canada",
+      "title": "Product Manager, Growth AI Outreach Motion ",
+      "url": "https://stripe.com/jobs/search?gh_jid=7809139"
     },
     "Stripe:7810205": {
       "alerted": false,
@@ -346262,13 +346360,6 @@
       "title": "Technical Enablement Business Partner",
       "url": "https://stripe.com/jobs/search?gh_jid=7812348"
     },
-    "Stripe:7812856": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005879+00:00",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "title": "Staff Product Manager, Enterprise (Industries) ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856"
-    },
     "Stripe:7813279": {
       "alerted": false,
       "first_seen": "2026-06-11T16:43:31.315458+00:00",
@@ -346296,13 +346387,6 @@
       "location": "US-NYC or US-SF ",
       "title": "Operations Program Manager, Capital Collections",
       "url": "https://stripe.com/jobs/search?gh_jid=7815794"
-    },
-    "Stripe:7819059": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005884+00:00",
-      "location": "SF, SEA, NYC, Remote",
-      "title": "Staff Product Manager, Payments",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059"
     },
     "Stripe:7819426": {
       "alerted": false,
@@ -346339,13 +346423,6 @@
       "title": "Account Executive, Enterprise Hunter (DACH Market)  ",
       "url": "https://stripe.com/jobs/search?gh_jid=7825578"
     },
-    "Stripe:7826761": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005808+00:00",
-      "location": "N/A",
-      "title": "Software Engineer, Security Analytics Infrastructure",
-      "url": "https://stripe.com/jobs/search?gh_jid=7826761"
-    },
     "Stripe:7826765": {
       "alerted": false,
       "first_seen": "2026-08-10T17:30:55.786074+00:00",
@@ -346353,19 +346430,19 @@
       "title": "Backend Engineer, AI Security",
       "url": "https://stripe.com/jobs/search?gh_jid=7826765"
     },
-    "Stripe:7827184": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005818+00:00",
-      "location": "Chicago, IL or New York City, NY OR US Remote",
-      "title": "Solutions Architect, Enterprise (Pre-sales)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7827184"
-    },
     "Stripe:7827403": {
       "alerted": false,
       "first_seen": "2026-08-10T17:30:55.790460+00:00",
       "location": "DC, SF, NYC",
       "title": "Corporate Communications",
       "url": "https://stripe.com/jobs/search?gh_jid=7827403"
+    },
+    "Stripe:7832098": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.418856+00:00",
+      "location": "United States",
+      "title": "Product Marketing Manager, Portfolio Pricing",
+      "url": "https://stripe.com/jobs/search?gh_jid=7832098"
     },
     "Stripe:7835108": {
       "alerted": false,
@@ -346402,13 +346479,6 @@
       "title": "Account Executive, Platforms Hunter (French fluency)",
       "url": "https://stripe.com/jobs/search?gh_jid=7857010"
     },
-    "Stripe:7858716": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005912+00:00",
-      "location": "Mexico City, Mexico",
-      "title": "Support Process Program Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=7858716"
-    },
     "Stripe:7858723": {
       "alerted": false,
       "first_seen": "2026-05-28T20:02:59.873163+00:00",
@@ -346430,6 +346500,13 @@
       "title": "Technical Support Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=7860377"
     },
+    "Stripe:7861422": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.413766+00:00",
+      "location": "Ireland",
+      "title": "Product Designer, Global",
+      "url": "https://stripe.com/jobs/search?gh_jid=7861422"
+    },
     "Stripe:7861856": {
       "alerted": false,
       "first_seen": "2026-06-16T17:27:27.797383+00:00",
@@ -346437,12 +346514,12 @@
       "title": "Account Executive, Existing Business (Central Eastern Europe)",
       "url": "https://stripe.com/jobs/search?gh_jid=7861856"
     },
-    "Stripe:7863332": {
+    "Stripe:7862938": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005909+00:00",
-      "location": "SF, NYC, CHI, SEA",
-      "title": "Supplier Deal Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=7863332"
+      "first_seen": "2026-08-10T20:09:41.422535+00:00",
+      "location": "Dublin",
+      "title": "Sales Compensation Design Lead",
+      "url": "https://stripe.com/jobs/search?gh_jid=7862938"
     },
     "Stripe:7863336": {
       "alerted": false,
@@ -346493,13 +346570,6 @@
       "title": "Account Executive, SMB (Grower)",
       "url": "https://stripe.com/jobs/search?gh_jid=7866501"
     },
-    "Stripe:7867328": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005768+00:00",
-      "location": "Mexico",
-      "title": "Social Media, Customer Support Associate ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7867328"
-    },
     "Stripe:7867389": {
       "alerted": false,
       "first_seen": "2026-08-10T17:30:55.789180+00:00",
@@ -346514,6 +346584,13 @@
       "title": "Customer Success Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=7868256"
     },
+    "Stripe:7869917": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.415008+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Product Lead, Support Experience",
+      "url": "https://stripe.com/jobs/search?gh_jid=7869917"
+    },
     "Stripe:7874654": {
       "alerted": false,
       "first_seen": "2026-08-10T18:25:49.192151+00:00",
@@ -346521,12 +346598,12 @@
       "title": "Business Partner Analyst,  Financial Enablement",
       "url": "https://stripe.com/jobs/search?gh_jid=7874654"
     },
-    "Stripe:7882492": {
+    "Stripe:7874862": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005813+00:00",
-      "location": "Dublin, Ireland",
-      "title": "Solutions Architect, Commercial - UK ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7882492"
+      "first_seen": "2026-08-10T20:09:41.421894+00:00",
+      "location": "US-Chicago; US-Atlanta; US-Remote; Canada-Toronto; Canada-Remote",
+      "title": "Risk Strategist - Screening (Financial Crimes)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874862"
     },
     "Stripe:7891728": {
       "alerted": false,
@@ -346542,13 +346619,6 @@
       "title": "Account Executive, Cross Border China",
       "url": "https://stripe.com/jobs/search?gh_jid=7893199"
     },
-    "Stripe:7893203": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005822+00:00",
-      "location": "Singapore",
-      "title": "Solutions Architect, Platforms",
-      "url": "https://stripe.com/jobs/search?gh_jid=7893203"
-    },
     "Stripe:7894387": {
       "alerted": false,
       "first_seen": "2026-08-10T18:25:49.198574+00:00",
@@ -346562,20 +346632,6 @@
       "location": "Sao Paulo",
       "title": "Software Engineer, Brazil",
       "url": "https://stripe.com/jobs/search?gh_jid=7895284"
-    },
-    "Stripe:7895344": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005786+00:00",
-      "location": "San Francisco, California ",
-      "title": "Software Engineer IC-02",
-      "url": "https://stripe.com/jobs/search?gh_jid=7895344"
-    },
-    "Stripe:7895467": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005870+00:00",
-      "location": "Remote",
-      "title": "Staff Full Stack Engineer, Identity",
-      "url": "https://stripe.com/jobs/search?gh_jid=7895467"
     },
     "Stripe:7896151": {
       "alerted": false,
@@ -346626,19 +346682,12 @@
       "title": "Workplace Space Planner",
       "url": "https://stripe.com/jobs/search?gh_jid=7901827"
     },
-    "Stripe:7903814": {
+    "Stripe:7901987": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005833+00:00",
-      "location": "Dublin, Ireland",
-      "title": "Solutions Architect, Startup & SMB",
-      "url": "https://stripe.com/jobs/search?gh_jid=7903814"
-    },
-    "Stripe:7904582": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005916+00:00",
-      "location": "Mexico City, Mexico",
-      "title": "Team Lead, Product Support - Revenue Suite",
-      "url": "https://stripe.com/jobs/search?gh_jid=7904582"
+      "first_seen": "2026-08-10T20:09:41.417609+00:00",
+      "location": "NYC, Chicago, Seattle, San Francisco",
+      "title": "Product Manager, Startup Products",
+      "url": "https://stripe.com/jobs/search?gh_jid=7901987"
     },
     "Stripe:7905025": {
       "alerted": false,
@@ -346647,26 +346696,12 @@
       "title": "Tax Technology Lead",
       "url": "https://stripe.com/jobs/search?gh_jid=7905025"
     },
-    "Stripe:7908923": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005775+00:00",
-      "location": "Seattle, WA",
-      "title": "Software Engineer, Balance Abstraction",
-      "url": "https://stripe.com/jobs/search?gh_jid=7908923"
-    },
     "Stripe:7908925": {
       "alerted": false,
       "first_seen": "2026-08-10T16:34:11.601975+00:00",
       "location": "Madrid, Barcelona ",
       "title": "Enterprise Account Executive, Iberia ",
       "url": "https://stripe.com/jobs/search?gh_jid=7908925"
-    },
-    "Stripe:7912407": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005875+00:00",
-      "location": "Dublin",
-      "title": "Staff Product Manager, Adaptive Pricing",
-      "url": "https://stripe.com/jobs/search?gh_jid=7912407"
     },
     "Stripe:7913406": {
       "alerted": false,
@@ -346689,19 +346724,19 @@
       "title": "Engineering Manager, Product (Privy)",
       "url": "https://stripe.com/jobs/search?gh_jid=7913545"
     },
+    "Stripe:7913698": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.417300+00:00",
+      "location": "Toronto",
+      "title": "Product Manager, Sail Core",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913698"
+    },
     "Stripe:7913700": {
       "alerted": false,
       "first_seen": "2026-08-10T17:30:55.787311+00:00",
       "location": "Canada",
       "title": "Backend Engineer, Data",
       "url": "https://stripe.com/jobs/search?gh_jid=7913700"
-    },
-    "Stripe:7913702": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005877+00:00",
-      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
-      "title": "Staff Product Manager, Dashboard",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913702"
     },
     "Stripe:7915144": {
       "alerted": false,
@@ -346745,20 +346780,6 @@
       "title": "Partner Solutions Architect, (German fluency)",
       "url": "https://stripe.com/jobs/search?gh_jid=7919325"
     },
-    "Stripe:7920219": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005886+00:00",
-      "location": "San Francisco, California, United States",
-      "title": "Staff Product Manager, Support Experience",
-      "url": "https://stripe.com/jobs/search?gh_jid=7920219"
-    },
-    "Stripe:7921649": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005852+00:00",
-      "location": "US",
-      "title": "Staff Data Analyst",
-      "url": "https://stripe.com/jobs/search?gh_jid=7921649"
-    },
     "Stripe:7922618": {
       "alerted": false,
       "first_seen": "2026-06-02T22:31:37.554898+00:00",
@@ -346801,12 +346822,12 @@
       "title": "Data Science Manager, Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=7923653"
     },
-    "Stripe:7925073": {
+    "Stripe:7925550": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005872+00:00",
-      "location": "Dublin",
-      "title": "Staff Full Stack Engineer - Support Experience",
-      "url": "https://stripe.com/jobs/search?gh_jid=7925073"
+      "first_seen": "2026-08-10T20:09:41.414457+00:00",
+      "location": "Toronto",
+      "title": "Product Designer, Terminal",
+      "url": "https://stripe.com/jobs/search?gh_jid=7925550"
     },
     "Stripe:7925790": {
       "alerted": false,
@@ -346822,19 +346843,12 @@
       "title": "Customer Success Manager (Spanish speaking)",
       "url": "https://stripe.com/jobs/search?gh_jid=7925821"
     },
-    "Stripe:7926587": {
+    "Stripe:7927089": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005770+00:00",
-      "location": "New York, NY",
-      "title": "Software Engineer",
-      "url": "https://stripe.com/jobs/search?gh_jid=7926587"
-    },
-    "Stripe:7926966": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005788+00:00",
-      "location": "New York, NY",
-      "title": "Software Engineer IC-02 ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7926966"
+      "first_seen": "2026-08-10T20:09:41.417966+00:00",
+      "location": "San Francisco",
+      "title": "Product Manager, Terminal Device Expansion",
+      "url": "https://stripe.com/jobs/search?gh_jid=7927089"
     },
     "Stripe:7927324": {
       "alerted": false,
@@ -346892,13 +346906,6 @@
       "title": "Staff Software Engineer, Machine Learning Platform",
       "url": "https://stripe.com/jobs/search?gh_jid=7939868"
     },
-    "Stripe:7941741": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005905+00:00",
-      "location": "Bengaluru",
-      "title": "Strategic Sourcing Analyst ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7941741"
-    },
     "Stripe:7942216": {
       "alerted": false,
       "first_seen": "2026-07-02T22:57:40.288345+00:00",
@@ -346920,6 +346927,13 @@
       "title": "Program Manager, Business Practices",
       "url": "https://stripe.com/jobs/search?gh_jid=7942923"
     },
+    "Stripe:7943244": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.415725+00:00",
+      "location": "Dublin",
+      "title": "Product Manager, Ecosystem Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=7943244"
+    },
     "Stripe:7943804": {
       "alerted": false,
       "first_seen": "2026-06-09T16:47:45.020592+00:00",
@@ -346940,6 +346954,13 @@
       "location": "IN-Bengaluru",
       "title": "AI Specialist, Treasury Finance Operations",
       "url": "https://stripe.com/jobs/search?gh_jid=7947074"
+    },
+    "Stripe:7947422": {
+      "alerted": false,
+      "first_seen": "2026-08-10T20:09:41.415516+00:00",
+      "location": "London",
+      "title": "Product Manager, Ecosystem Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=7947422"
     },
     "Stripe:7947510": {
       "alerted": false,
@@ -346968,20 +346989,6 @@
       "location": "US",
       "title": "Machine Learning Engineer, Capital Underwriting",
       "url": "https://stripe.com/jobs/search?gh_jid=7952048"
-    },
-    "Stripe:7953511": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005763+00:00",
-      "location": "Japan",
-      "title": "SMB Account Executive - Existing Business (Japan) ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953511"
-    },
-    "Stripe:7953691": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005881+00:00",
-      "location": "Dublin",
-      "title": "Staff Product Manager, Local Processor Acquiring",
-      "url": "https://stripe.com/jobs/search?gh_jid=7953691"
     },
     "Stripe:7953899": {
       "alerted": false,
@@ -347017,13 +347024,6 @@
       "location": "Bengaluru",
       "title": "AP & T&E Manager \u2014 Bangalore Finance Operations",
       "url": "https://stripe.com/jobs/search?gh_jid=7954474"
-    },
-    "Stripe:7954511": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.005914+00:00",
-      "location": "CDMX",
-      "title": "Talent and Development Facilitator",
-      "url": "https://stripe.com/jobs/search?gh_jid=7954511"
     },
     "Stripe:7954688": {
       "alerted": false,
