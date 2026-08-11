@@ -980,6 +980,13 @@
       "title": "Machine Learning Engineer 4",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Machine-Learning-Engineer-4_R170864"
     },
+    "Adobe:R170880": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.038282+00:00",
+      "location": "3 Locations",
+      "title": "Data Scientist",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Data-Scientist_R170880-1"
+    },
     "Adobe:R170896": {
       "alerted": false,
       "first_seen": "2026-08-06T03:58:25.792918+00:00",
@@ -18319,6 +18326,20 @@
       "title": "Software Dev Engineer, Amazon Leo",
       "url": "https://www.amazon.jobs/en/jobs/10498014/software-dev-engineer-amazon-leo"
     },
+    "Amazon:10498036": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.038190+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "SDE2, External Systems Integrations",
+      "url": "https://www.amazon.jobs/en/jobs/10498036/sde2-external-systems-integrations"
+    },
+    "Amazon:10498043": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.038246+00:00",
+      "location": "Redmond, Washington, USA",
+      "title": "Software Dev Engineer, Amazon Leo",
+      "url": "https://www.amazon.jobs/en/jobs/10498043/software-dev-engineer-amazon-leo"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006857+00:00",
@@ -18347,12 +18368,12 @@
       "title": "Growth Account Executive, AI Native",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008"
     },
-    "Anthropic:4461444008": {
+    "Anthropic:4461450008": {
       "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006337+00:00",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
-      "title": "Applied AI Architect, Industries",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008"
+      "first_seen": "2026-08-11T00:34:37.039472+00:00",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY",
+      "title": "Account Executive, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008"
     },
     "Anthropic:4493035008": {
       "alerted": false,
@@ -18648,13 +18669,6 @@
       "title": "Machine Learning Systems Engineer, Research Tools",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008"
     },
-    "Anthropic:4956672008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006298+00:00",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "title": "Analytics Data Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
-    },
     "Anthropic:4959329008": {
       "alerted": false,
       "first_seen": "2026-07-15T20:16:27.000414+00:00",
@@ -18689,20 +18703,6 @@
       "location": "New York City, NY",
       "title": "Manager\u2013 Growth Sales (AI-Native)",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008"
-    },
-    "Anthropic:4977624008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006339+00:00",
-      "location": "Munich, Germany",
-      "title": "Applied AI Architect, Industries",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
-    },
-    "Anthropic:4977626008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006341+00:00",
-      "location": "Paris, France",
-      "title": "Applied AI Architect, Industries",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
     },
     "Anthropic:4978280008": {
       "alerted": false,
@@ -18858,13 +18858,6 @@
       "title": "Senior Software Security Engineer",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008"
     },
-    "Anthropic:5023394008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006305+00:00",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "title": "Anthropic Fellows Program",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008"
-    },
     "Anthropic:5024831008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006893+00:00",
@@ -18907,26 +18900,12 @@
       "title": "Field Marketing Lead, Industries - EMEA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5026187008"
     },
-    "Anthropic:5030244008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006310+00:00",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "title": "Anthropic Fellows Program, AI Security",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030244008"
-    },
     "Anthropic:5030680008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006683+00:00",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "title": "Infrastructure Engineer, Sandboxing",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008"
-    },
-    "Anthropic:5031670008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006335+00:00",
-      "location": "London, UK",
-      "title": "Applied AI Architect, Industries",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5031670008"
     },
     "Anthropic:5041174008": {
       "alerted": false,
@@ -19011,13 +18990,6 @@
       "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
       "title": "Software Engineer, Cybersecurity Products",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008"
-    },
-    "Anthropic:5065835008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006328+00:00",
-      "location": "Boston, MA; New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
-      "title": "Applied AI Architect, Enterprise Tech",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5065835008"
     },
     "Anthropic:5065894008": {
       "alerted": false,
@@ -19159,13 +19131,6 @@
       "title": "Strategic Account Executive, Digital Native Business & Cybersecurity",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008"
     },
-    "Anthropic:5076109008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006321+00:00",
-      "location": "Tokyo, Japan",
-      "title": "Applied AI Architect",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
-    },
     "Anthropic:5076477008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006905+00:00",
@@ -19228,13 +19193,6 @@
       "location": "Washington, DC",
       "title": "Applied AI Architect, National Security",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008"
-    },
-    "Anthropic:5079540008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006330+00:00",
-      "location": "New York City, NY; Washington, DC",
-      "title": "Applied AI Architect, Federal Civilian",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079540008"
     },
     "Anthropic:5079916008": {
       "alerted": false,
@@ -19368,6 +19326,13 @@
       "location": "London, UK",
       "title": "Staff Software Engineer, AI Reliability Engineering",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008"
+    },
+    "Anthropic:5101378008": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.038832+00:00",
+      "location": "Sydney, Australia",
+      "title": "Account Executive, Public Sector",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5101378008"
     },
     "Anthropic:5102291008": {
       "alerted": false,
@@ -19726,13 +19691,6 @@
       "title": "Senior Manager, Revenue Accounting, Order Management & Billing",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5125290008"
     },
-    "Anthropic:5125387008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006301+00:00",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "title": "Analytics Data Engineering Manager, Product",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5125387008"
-    },
     "Anthropic:5126080008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.007028+00:00",
@@ -19879,13 +19837,6 @@
       "location": "New York City, NY; Washington, DC",
       "title": "Applied AI Architect, State and Local Government",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5140403008"
-    },
-    "Anthropic:5140405008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006333+00:00",
-      "location": "New York City, NY; Washington, DC",
-      "title": "Applied AI Architect, Government Technology",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5140405008"
     },
     "Anthropic:5140492008": {
       "alerted": false,
@@ -20440,47 +20391,12 @@
       "title": "Head of Accounting AI & Innovation",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183021008"
     },
-    "Anthropic:5183044008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006308+00:00",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "title": "Anthropic Fellows Program, AI Safety",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008"
-    },
-    "Anthropic:5183051008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006312+00:00",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "title": "Anthropic Fellows Program, ML Systems & Performance",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008"
-    },
-    "Anthropic:5183052008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006314+00:00",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "title": "Anthropic Fellows Program, Reinforcement Learning",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183052008"
-    },
-    "Anthropic:5183053008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006316+00:00",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008"
-    },
     "Anthropic:5184077008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006654+00:00",
       "location": "Sydney, Australia",
       "title": "Head of ANZ, Applied AI",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184077008"
-    },
-    "Anthropic:5184585008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006303+00:00",
-      "location": "San Francisco, CA",
-      "title": "Analytics, Finance & Strategy",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184585008"
     },
     "Anthropic:5185501008": {
       "alerted": false,
@@ -20656,13 +20572,6 @@
       "location": "San Francisco, CA | New York City, NY",
       "title": "Global Applied AI Architecture Lead, Beneficial Deployments",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192104008"
-    },
-    "Anthropic:5192805008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006326+00:00",
-      "location": "San Francisco, CA | New York City, NY",
-      "title": "Applied AI Architect, Commercial",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008"
     },
     "Anthropic:5194021008": {
       "alerted": false,
@@ -20881,13 +20790,6 @@
       "title": "Revenue Strategy & Operations",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5199633008"
     },
-    "Anthropic:5199978008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006319+00:00",
-      "location": "Sydney, Australia",
-      "title": "ANZ Communications Lead",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5199978008"
-    },
     "Anthropic:5201264008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.007135+00:00",
@@ -21091,6 +20993,13 @@
       "title": "Content Moderation Specialist",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008"
     },
+    "Anthropic:5208218008": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.040134+00:00",
+      "location": "Dublin, IE",
+      "title": "AI Compliance Officer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5208218008"
+    },
     "Anthropic:5208278008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006918+00:00",
@@ -21223,6 +21132,13 @@
       "location": "San Francisco, CA | Seattle, WA",
       "title": "Staff + Sr. Software Engineer, Cloud Inference Launch Engineering",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215028008"
+    },
+    "Anthropic:5215052008": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.040803+00:00",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "Amazon GTM Partnership, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215052008"
     },
     "Anthropic:5215121008": {
       "alerted": false,
@@ -21511,13 +21427,6 @@
       "title": "Protective Services Lead",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226711008"
     },
-    "Anthropic:5226862008": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.006323+00:00",
-      "location": "Munich, Germany",
-      "title": "Applied AI Architect, Applied AI (Digital Natives Business)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008"
-    },
     "Anthropic:5226954008": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.006462+00:00",
@@ -21629,6 +21538,13 @@
       "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
       "title": "Data Engineering Manager, GTM & Marketing",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229976008"
+    },
+    "Anthropic:5230394008": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041509+00:00",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5230394008"
     },
     "Anthropic:5230755008": {
       "alerted": false,
@@ -93912,6 +93828,13 @@
       "title": "Apps Support Intmd Analyst - Institutional Credit Risk Management",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Apps-Support-Intmd-Analyst---Institutional-Credit-Risk-Management_26977572"
     },
+    "Citi:26977583": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041557+00:00",
+      "location": "Mumbai Maharashtra India",
+      "title": "Securities & Derivatives  Sr Analyst - C12 - MUMBAI",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Securities---Derivatives--Sr-Analyst---C12---MUMBAI_26977583"
+    },
     "Citi:26977585": {
       "alerted": false,
       "first_seen": "2026-07-10T15:32:13.152662+00:00",
@@ -107296,6 +107219,41 @@
       "title": "Sec& Derivatives Lead Analyst - C13 - MUMBAI",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Sec--Derivatives-Lead-Analyst---C13---MUMBAI_26984076"
     },
+    "Citi:26984077": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041682+00:00",
+      "location": "Mumbai Maharashtra India",
+      "title": "Securities & Derivatives  Sr Analyst - C12 - MUMBAI",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Securities---Derivatives--Sr-Analyst---C12---MUMBAI_26984077"
+    },
+    "Citi:26984080": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041642+00:00",
+      "location": "Mumbai Maharashtra India",
+      "title": "Securities & Derivatives  Sr Analyst - C12 - MUMBAI",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Securities---Derivatives--Sr-Analyst---C12---MUMBAI_26984080"
+    },
+    "Citi:26984084": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041721+00:00",
+      "location": "Mumbai Maharashtra India",
+      "title": "Securities & Derivatives Manager - C12 - MUMBAI",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Manager---C12---MUMBAI_26984084"
+    },
+    "Citi:26984085": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041762+00:00",
+      "location": "Mumbai Maharashtra India",
+      "title": "Securities & Derivatives Manager - C12 - MUMBAI",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Manager---C12---MUMBAI_26984085"
+    },
+    "Citi:26984087": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041601+00:00",
+      "location": "Mumbai Maharashtra India",
+      "title": "Securities & Derivatives Manager - C12 - MUMBAI",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Manager---C12---MUMBAI_26984087"
+    },
     "Citi:26984088": {
       "alerted": false,
       "first_seen": "2026-08-10T11:32:18.830808+00:00",
@@ -107687,6 +107645,13 @@
       "location": "San Jose Del Cabo Baja California Sur Mexico",
       "title": "BANAMEX BANQUERO INTEGRAL SAN JOSE DEL CABO",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Jose-Del-Cabo-Baja-California-Sur-Mexico/BANAMEX-BANQUERO-INTEGRAL-SAN-JOSE-DEL-CABO_26984335-1"
+    },
+    "Citi:26984352": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041798+00:00",
+      "location": "Mississauga Ontario Canada",
+      "title": "Senior Agentic AI Engineer",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Senior-Agentic-AI-Engineer_26984352"
     },
     "Citi:26984358": {
       "alerted": false,
@@ -115695,6 +115660,13 @@
       "location": "London, United Kingdom",
       "title": "Geo Hunter Account Executive - South Africa",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596447002"
+    },
+    "Databricks:8597642002": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.038108+00:00",
+      "location": "United States",
+      "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8597642002"
     },
     "Databricks:8598012002": {
       "alerted": false,
@@ -204407,6 +204379,13 @@
       "title": "Java Software Engineer III",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210779117"
     },
+    "JPMorgan Chase:210779358": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041850+00:00",
+      "location": "Irvine, CA, United States",
+      "title": "U.S. Private Bank - AWM Program Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210779358"
+    },
     "Jane Street:4273643002": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.008367+00:00",
@@ -275583,6 +275562,13 @@
       "title": "Intern - Tax (Project Management Intern - Tax Reporting Strategy) (September 2026 Intake)",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Kuala-Lumpur/Intern---Tax--Project-Management-Intern---Tax-Reporting-Strategy---September-2026-Intake-_751530WD"
     },
+    "PwC (Campus):751623WD": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041974+00:00",
+      "location": "Auckland - NZL",
+      "title": "PwC Graduate Programme - Managed Services - Service Delivery Coordinator (Auckland)",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Auckland---NZL/PwC-Graduate-Programme---Managed-Services---Service-Delivery-Coordinator--Auckland-_751623WD"
+    },
     "PwC (Campus):90666WD": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.010017+00:00",
@@ -323169,6 +323155,13 @@
       "title": "Epic Systems Support - Senior Associate",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Mexico---Reforma-445/Epic-Systems-Support---Senior-Associate_750867WD-2"
     },
+    "PwC (Experienced):750910WD": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041924+00:00",
+      "location": "Auckland - NZL",
+      "title": "Business Assistant",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Auckland---NZL/Business-Assistant_750910WD"
+    },
     "PwC (Experienced):750920WD": {
       "alerted": false,
       "first_seen": "2026-08-07T05:17:20.319206+00:00",
@@ -323784,6 +323777,13 @@
       "location": "Warszawa",
       "title": "Konsultant/Konsultantka I Tax Litigation",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Warszawa/Konsultant-Konsultantka-I-Tax-Litigation_751495WD"
+    },
+    "PwC (Experienced):751627WD": {
+      "alerted": false,
+      "first_seen": "2026-08-11T00:34:37.041891+00:00",
+      "location": "Hamilton - NZL",
+      "title": "Audit Associate - Hamilton",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Hamilton---NZL/Audit-Associate---Hamilton_751627WD"
     },
     "PwC (Experienced):89299WD": {
       "alerted": false,
