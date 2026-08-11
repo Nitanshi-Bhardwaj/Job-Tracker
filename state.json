@@ -18690,6 +18690,48 @@
       "title": "Software Development Engineer, Amazon Customer Service",
       "url": "https://www.amazon.jobs/en/jobs/10499104/software-development-engineer-amazon-customer-service"
     },
+    "Amazon:10499119": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.639482+00:00",
+      "location": "Shenzhen, CHN",
+      "title": "Software Development Engineer, MDE Automation Team",
+      "url": "https://www.amazon.jobs/en/jobs/10499119/software-development-engineer-mde-automation-team"
+    },
+    "Amazon:10499120": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.639535+00:00",
+      "location": "Santa Clara, California, USA",
+      "title": "Software Development Manager, AWS Identity, Access Analyzer",
+      "url": "https://www.amazon.jobs/en/jobs/10499120/software-development-manager-aws-identity-access-analyzer"
+    },
+    "Amazon:10499160": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.639629+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Software Development Engineer, Fleet Management",
+      "url": "https://www.amazon.jobs/en/jobs/10499160/software-development-engineer-fleet-management"
+    },
+    "Amazon:10499185": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.639356+00:00",
+      "location": "Sunnyvale, California, USA",
+      "title": "Structural Design Analysis Engineer, Structural Design Integrity",
+      "url": "https://www.amazon.jobs/en/jobs/10499185/structural-design-analysis-engineer-structural-design-integrity"
+    },
+    "Amazon:10499191": {
+      "alerted": true,
+      "first_seen": "2026-08-11T22:01:28.639584+00:00",
+      "location": "New York, New York, USA",
+      "title": "Software Development Engineer, AWS Bill Generation Fulfillment Tracking",
+      "url": "https://www.amazon.jobs/en/jobs/10499191/software-development-engineer-aws-bill-generation-fulfillment-tracking"
+    },
+    "Amazon:10499192": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.639430+00:00",
+      "location": "New York, New York, USA",
+      "title": "Software Development Engineer, AWS Bill Generation ",
+      "url": "https://www.amazon.jobs/en/jobs/10499192/software-development-engineer-aws-bill-generation"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -22043,6 +22085,13 @@
       "title": "Finance Systems Engineer, Tax",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357947008"
     },
+    "Anthropic:5357961008": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640754+00:00",
+      "location": "San Francisco, CA | Seattle, WA",
+      "title": "Manager, Infrastructure Capex Accounting",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357961008"
+    },
     "Anthropic:5358090008": {
       "alerted": false,
       "first_seen": "2026-08-10T15:44:13.983185+00:00",
@@ -23205,40 +23254,12 @@
       "title": "Financial Solutions Advisor -  PBG Treasure Coast Market",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Vero-Beach/Financial-Solutions-Advisor----PBG-Treasure-Coast-Market_26007418"
     },
-    "Bank of America:26007473": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009662+00:00",
-      "location": "Pennington",
-      "title": "Life Services Financial Solutions Advisor (Series 7 required) - Pennington, NJ",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Pennington/Life-Services-Financial-Solutions-Advisor--Series-7---66-required----Pennington--NJ_26007473"
-    },
-    "Bank of America:26007479": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009660+00:00",
-      "location": "Jacksonville",
-      "title": "Life Services Financial Solutions Advisor (Series 7 required) - Jacksonville, FL",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jacksonville/Life-Services-Financial-Solutions-Advisor--Series-7---66-required----Jacksonville--FL_26007479"
-    },
-    "Bank of America:26007485": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009658+00:00",
-      "location": "Charlotte",
-      "title": "Life Services Financial Solutions Advisor (Series 7 required) - Charlotte, NC",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Life-Services-Financial-Solutions-Advisor--Series-7---66-required----Charlotte--NC_26007485"
-    },
     "Bank of America:26007494": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.009714+00:00",
       "location": "3 Locations",
       "title": "Credit Advisor, Global Wealth & Investment Management",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Los-Angeles/Credit-Advisor--Global-Wealth---Investment-Management_26007494"
-    },
-    "Bank of America:26007495": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009655+00:00",
-      "location": "Lincoln",
-      "title": "Life Services Financial Solutions Advisor (Series 7 required) - Lincoln, RI",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Lincoln/Life-Services-Financial-Solutions-Advisor--Series-7---66-required----Lincoln--RI_26007495"
     },
     "Bank of America:26007789": {
       "alerted": false,
@@ -24241,26 +24262,12 @@
       "title": "Centralized Lending Specialist (Mortgage Loan Officer) - Bilingual Spanish Team - Chandler, AZ",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Chandler/Centralized-Lending-Specialist--Mortgage-Loan-Officer----Bilingual-Spanish-Team---Chandler--AZ_26012881"
     },
-    "Bank of America:26012885": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009666+00:00",
-      "location": "Plano",
-      "title": "Centralized Lending Specialist (Mortgage Loan Officer) - Plano, TX",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Centralized-Lending-Specialist--Mortgage-Loan-Officer----Plano--TX_26012885"
-    },
     "Bank of America:26012891": {
       "alerted": false,
       "first_seen": "2026-05-28T03:28:57.009669+00:00",
       "location": "Plano",
       "title": "Centralized Lending Specialist (Mortgage Loan Officer) - Bilingual Spanish Team -  Plano, TX",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Centralized-Lending-Specialist--Mortgage-Loan-Officer----Bilingual-Spanish-Team----Plano--TX_26012891"
-    },
-    "Bank of America:26012893": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009664+00:00",
-      "location": "Charlotte",
-      "title": "Centralized Lending Specialist (Mortgage Loan Officer) - Charlotte, NC",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Centralized-Lending-Specialist--Mortgage-Loan-Officer----Charlotte--NC_26012893"
     },
     "Bank of America:26012940": {
       "alerted": false,
@@ -25206,13 +25213,6 @@
       "location": "Teaneck",
       "title": "Financial Solutions Advisor Registration Candidate  -  Teaneck",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Teaneck/Financial-Solutions-Advisor-Registration-Candidate-----Teaneck---Bilingual-Spanish-Preferred_26015448"
-    },
-    "Bank of America:26015473": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009653+00:00",
-      "location": "19 Locations",
-      "title": "Merrill Performance Coach",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Merrill-Performance-Coach_26015473"
     },
     "Bank of America:26015498": {
       "alerted": false,
@@ -47502,6 +47502,13 @@
       "title": "Financial Solutions Advisor - CHICAGO RIDGE, IL",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Chicago-Ridge/Financial-Solutions-Advisor---CHICAGO-RIDGE--IL_26028502-1"
     },
+    "Bank of America:26028505": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641520+00:00",
+      "location": "2 Locations",
+      "title": "Settlement Officer III - Estate Settlement",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Washington/Settlement-Officer-III---Estate-Settlement_26028505"
+    },
     "Bank of America:26028518": {
       "alerted": false,
       "first_seen": "2026-08-11T18:25:21.249575+00:00",
@@ -47767,6 +47774,13 @@
       "location": "Aurora",
       "title": "Financial Solutions Advisor Registration Candidate - Aurora Plaza Financial Center - Spanish Preferred",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Aurora/Financial-Solutions-Advisor-Registration-Candidate---Aurora-Plaza-Financial-Center---Spanish-Preferred_26028807"
+    },
+    "Bank of America:26028810": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641490+00:00",
+      "location": "Fresno",
+      "title": "Financial Solutions Advisor Registration Candidate - Woodward Plaza Financial Center",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Fresno/Financial-Solutions-Advisor-Registration-Candidate---Woodward-Plaza-Financial-Center_26028810-1"
     },
     "BlackRock:R241791": {
       "alerted": false,
@@ -60199,6 +60213,13 @@
       "location": "Irving Texas United States",
       "title": "Product Developer",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Product-Developer_26958114"
+    },
+    "Citi:26958117": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641452+00:00",
+      "location": "Tampa Florida United States",
+      "title": "GenAI App Developer Lead Analyst - Python - Vice President",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/GenAI-App-Developer-Lead-Analyst---Python---Vice-President_26958117"
     },
     "Citi:26958120": {
       "alerted": false,
@@ -107009,6 +107030,13 @@
       "title": "Banamex Volante Jr Distrito Veracruz Nte",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Poza-Rica-Veracruz-Mexico/Banamex-Volante-Jr-Distrito-Veracruz-Nte_26984590-1"
     },
+    "Citi:26984593": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641330+00:00",
+      "location": "Ciudad De Mexico Distrito Federal Mexico",
+      "title": "Banamex KYC Operations Analyst Personas Morales  CDMX",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC-Operations-Analyst-Personas-Morales--CDMX_26984593"
+    },
     "Citi:26984597": {
       "alerted": false,
       "first_seen": "2026-08-07T20:45:02.783994+00:00",
@@ -107373,6 +107401,13 @@
       "title": "Cash & Collateral Management Intermediate Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Cash---Collateral-Management-Intermediate-Analyst_26984871"
     },
+    "Citi:26984872": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641206+00:00",
+      "location": "Heredia  Costa Rica",
+      "title": "Applications Production Support Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Heredia--Costa-Rica/Applications-Production-Support-Analyst_26984872-1"
+    },
     "Citi:26984879": {
       "alerted": false,
       "first_seen": "2026-08-11T09:34:03.960005+00:00",
@@ -107547,6 +107582,13 @@
       "location": "Los Angeles California United States",
       "title": "Part-Time Teller (20 Hours), East Whittier Branch- Los Angeles",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Angeles-California-United-States/Part-Time-Teller--20-Hours---East-Whittier-Branch--Los-Angeles_26985009"
+    },
+    "Citi:26985011": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641296+00:00",
+      "location": "San Francisco California United States",
+      "title": "Investment Banking Director - Technology",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Francisco-California-United-States/Investment-Banking-Director---Technology_26985011"
     },
     "Citi:26985018": {
       "alerted": false,
@@ -107793,6 +107835,13 @@
       "title": "Client - Equity Research, Full Time Associate, New York City - US, 2027",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client---Equity-Research--Full-Time-Associate--New-York-City---US--2027_26985241"
     },
+    "Citi:26985248": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641388+00:00",
+      "location": "THE SUMMIT - CIUDAD DE MEXICO",
+      "title": "Japan Desk - VP Banker - Ciudad De Mexico",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Japan-Desk---VP-Banker---Ciudad-De-Mexico_26985248"
+    },
     "Citi:26985256": {
       "alerted": false,
       "first_seen": "2026-08-08T03:52:52.890590+00:00",
@@ -107800,12 +107849,26 @@
       "title": "Part-Time Universal Banker (20 Hours), Bilingual English/Spanish Speaking Preferred, Doral Area",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Doral-Florida-United-States/Part-Time-Universal-Banker--20-Hours---Bilingual-English-Spanish-Speaking-Preferred--Doral-Area_26985256"
     },
+    "Citi:26985258": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641267+00:00",
+      "location": "Jacksonville Florida United States",
+      "title": "Digital Software Engineer Intermediate Analyst Officer",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1"
+    },
     "Citi:26985260": {
       "alerted": false,
       "first_seen": "2026-08-06T15:32:47.345536+00:00",
       "location": "New York New York United States",
       "title": "Part-Time Universal Banker (20 Hour) - Brooklyn Area",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Part-Time-Universal-Banker--20-Hour----Brooklyn-Area_26985260"
+    },
+    "Citi:26985269": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641418+00:00",
+      "location": "Jacksonville Florida United States",
+      "title": "Apps Development Group Manager Sr Vice President",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Apps-Development-Group-Manager-Sr-Vice-President_26985269"
     },
     "Citi:26985270": {
       "alerted": false,
@@ -108122,6 +108185,13 @@
       "title": "Markets \u2013 Business Management, Internship, S\u00e3o Paulo - Brazil, 2026",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Business-Management--Internship--So-Paulo---Brazil--2026_26985536"
     },
+    "Citi:26985542": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641357+00:00",
+      "location": "Houston Texas United States",
+      "title": "Investment Banking Director - Energy",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Investment-Banking-Director---Energy_26985542"
+    },
     "Citi:26985548": {
       "alerted": false,
       "first_seen": "2026-08-11T15:32:30.444438+00:00",
@@ -108240,6 +108310,13 @@
       "location": "Zacapu Michoacan Mexico",
       "title": "Banamex | Distrito Zamora | Banquero Integral | Suc 0223",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Zacapu-Michoacan-Mexico/Banamex---Distrito-Zamora---Banquero-Integral---Suc-0223_26985672"
+    },
+    "Citi:26985680": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641235+00:00",
+      "location": "New York New York United States",
+      "title": "Alternative Investments Senior Lead",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Alternative-Investments-Senior-Lead_26985680"
     },
     "Citi:26985707": {
       "alerted": false,
@@ -121653,6 +121730,13 @@
       "title": "Part Time Associate Banker South Tarrant SW (30 hours)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210708100"
     },
+    "JPMorgan Chase:210708102": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641552+00:00",
+      "location": "Houston, TX, United States",
+      "title": "Part Time Associate Banker Central Market (30 hours)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210708102"
+    },
     "JPMorgan Chase:210708107": {
       "alerted": false,
       "first_seen": "2026-06-10T15:26:25.826163+00:00",
@@ -122436,6 +122520,13 @@
       "location": "Plano, TX, United States",
       "title": "Software Engineer III - Python/AWS",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210710350"
+    },
+    "JPMorgan Chase:210710511": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641584+00:00",
+      "location": "Dallas, TX, United States",
+      "title": "Program Officer, Global Philanthropy, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210710511"
     },
     "JPMorgan Chase:210710566": {
       "alerted": false,
@@ -189343,6 +189434,13 @@
       "title": "Business Relationship Manager I - Officer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210771659"
     },
+    "JPMorgan Chase:210771666": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641623+00:00",
+      "location": "Marysville, CA, United States",
+      "title": "Part Time (20 hours) Associate Banker, Marysville E St Branch, Marysville, CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210771666"
+    },
     "JPMorgan Chase:210771669": {
       "alerted": false,
       "first_seen": "2026-07-21T14:49:35.713992+00:00",
@@ -193808,6 +193906,13 @@
       "location": "Tampa, FL, United States",
       "title": "Solutions Analyst III - TII Payment Testing - USRTP",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210773487"
+    },
+    "JPMorgan Chase:210773490": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641654+00:00",
+      "location": "Atlanta, GA, United States",
+      "title": "Platform Product Manager-Payments-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210773490"
     },
     "JPMorgan Chase:210773493": {
       "alerted": false,
@@ -201249,6 +201354,13 @@
       "location": "Jersey City, NJ, United States",
       "title": "Principal Technical Program Manager - Chief of Staff",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777321"
+    },
+    "JPMorgan Chase:210777323": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641682+00:00",
+      "location": "Chicago, IL, United States",
+      "title": "Executive Administrative Assistant",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777323"
     },
     "JPMorgan Chase:210777326": {
       "alerted": false,
@@ -222222,13 +222334,6 @@
       "title": "Fund Services - Hedge Fund/Private Equity Accounting Manager",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Hedge-Fund-PE-Client-Facing-Account-Manager_JR007998"
     },
-    "Morgan Stanley:JR008767": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009620+00:00",
-      "location": "2 Locations",
-      "title": "Financial Advisor",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Sydney-Australia/Financial-Advisor_JR008767-1"
-    },
     "Morgan Stanley:JR010960": {
       "alerted": false,
       "first_seen": "2026-08-07T16:26:34.931215+00:00",
@@ -222761,13 +222866,6 @@
       "title": "Branch Administrator",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Lutherville-Maryland-United-States-of-America/Branch-Administrator_JR027916"
     },
-    "Morgan Stanley:JR027924": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009618+00:00",
-      "location": "West Palm Beach, Florida, United States of America",
-      "title": "Private Wealth Management Registered Client Service Associate",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/West-Palm-Beach-Florida-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR027924"
-    },
     "Morgan Stanley:JR027955": {
       "alerted": false,
       "first_seen": "2026-06-18T16:02:23.737137+00:00",
@@ -222802,13 +222900,6 @@
       "location": "Paramus, New Jersey, United States of America",
       "title": "Registered Client Service Associate",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Paramus-New-Jersey-United-States-of-America/Registered-Client-Service-Associate_JR028558-1"
-    },
-    "Morgan Stanley:JR028762": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009603+00:00",
-      "location": "Grand Rapids, Michigan, United States of America",
-      "title": "Client Relationship Analyst",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Grand-Rapids-Michigan-United-States-of-America/Client-Relationship-Analyst_JR028762-1"
     },
     "Morgan Stanley:JR028851": {
       "alerted": false,
@@ -222873,13 +222964,6 @@
       "title": "Analyst, Sales",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Analyst--Sales_JR029316-1"
     },
-    "Morgan Stanley:JR029399": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009639+00:00",
-      "location": "Oak Brook, Illinois, United States of America",
-      "title": "Associate Market Manager",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oak-Brook-Illinois-United-States-of-America/Associate-Market-Manager_JR029399"
-    },
     "Morgan Stanley:JR029432": {
       "alerted": false,
       "first_seen": "2026-07-07T15:49:52.101582+00:00",
@@ -222915,13 +222999,6 @@
       "title": "Registered Client Relationship Analyst",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Chicago-Illinois-United-States-of-America/Client-Relationship-Analyst_JR029487"
     },
-    "Morgan Stanley:JR029493": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009616+00:00",
-      "location": "Pasadena, California, United States of America",
-      "title": "Intern - Bilingual English/Mandarin",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR029493"
-    },
     "Morgan Stanley:JR029603": {
       "alerted": false,
       "first_seen": "2026-08-06T15:32:47.344079+00:00",
@@ -222942,13 +223019,6 @@
       "location": "New York, New York, United States of America",
       "title": "Vice President, Sales",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Vice-President--Sales_JR029731"
-    },
-    "Morgan Stanley:JR029926": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009614+00:00",
-      "location": "Baton Rouge, Louisiana, United States of America",
-      "title": "Client Service Associate - Part Time",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baton-Rouge-Louisiana-United-States-of-America/Client-Service-Associate---Part-Time_JR029926"
     },
     "Morgan Stanley:JR029969": {
       "alerted": false,
@@ -222992,13 +223062,6 @@
       "title": "Client Relationship Analyst",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Minneapolis-Minnesota-United-States-of-America/Client-Relationship-Analyst_JR030409-1"
     },
-    "Morgan Stanley:JR030521": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009605+00:00",
-      "location": "Tel Aviv, Israel",
-      "title": "IBD - Israel Coverage - Team Assistant",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Tel-Aviv-Israel/IBD---Israel-Coverage---Executive-Assistant_JR030521"
-    },
     "Morgan Stanley:JR030557": {
       "alerted": false,
       "first_seen": "2026-06-17T12:42:38.196974+00:00",
@@ -223033,20 +223096,6 @@
       "location": "New York, New York, United States of America",
       "title": "Wealth Management Associate",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Wealth-Management-Analyst_JR030727-1"
-    },
-    "Morgan Stanley:JR030746": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009611+00:00",
-      "location": "Pasadena, California, United States of America",
-      "title": "Intern - Bilingual English/Spanish",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Spanish_JR030746"
-    },
-    "Morgan Stanley:JR030747": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009609+00:00",
-      "location": "Pasadena, California, United States of America",
-      "title": "Intern",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern_JR030747"
     },
     "Morgan Stanley:JR031152": {
       "alerted": false,
@@ -223132,13 +223181,6 @@
       "title": "PWM Business Service Officer",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/PWM-Business-Service-Officer_JR031591-1"
     },
-    "Morgan Stanley:JR031610": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009607+00:00",
-      "location": "Denver, Colorado, United States of America",
-      "title": "PWM Intern",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Denver-Colorado-United-States-of-America/PWM-Intern_JR031610"
-    },
     "Morgan Stanley:JR031666": {
       "alerted": false,
       "first_seen": "2026-08-05T15:21:40.472563+00:00",
@@ -223166,13 +223208,6 @@
       "location": "New York, New York, United States of America",
       "title": "Vice President, Software Engineer",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Vice-President--Software-Engineer_JR031670"
-    },
-    "Morgan Stanley:JR031715": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009598+00:00",
-      "location": "New York, New York, United States of America",
-      "title": "Registered Client Service Associate",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Registered-Client-Service-Associate_JR031715-1"
     },
     "Morgan Stanley:JR031735": {
       "alerted": false,
@@ -223215,13 +223250,6 @@
       "location": "Morristown, New Jersey, United States of America",
       "title": "Registered Client Service Associate",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Morristown-New-Jersey-United-States-of-America/Senior-Registered-CSA_JR032184-1"
-    },
-    "Morgan Stanley:JR032231": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009635+00:00",
-      "location": "Purchase, New York, United States of America",
-      "title": "Client Service Associate",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Client-Service-Associate_JR032231"
     },
     "Morgan Stanley:JR032323": {
       "alerted": false,
@@ -223552,13 +223580,6 @@
       "title": "Mortgage Banker",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Mortgage-Banker_JR034583"
     },
-    "Morgan Stanley:JR034584": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009626+00:00",
-      "location": "1585 Broadway- NY",
-      "title": "Commodities Document Negotiator - Fixed Income Division - Associate or Vice President",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/1585-Broadway--NY/Commodities-Document-Negotiator---Fixed-Income-Division---Associate-or-Vice-President_JR034584"
-    },
     "Morgan Stanley:JR034592": {
       "alerted": false,
       "first_seen": "2026-06-12T16:35:09.503842+00:00",
@@ -223593,13 +223614,6 @@
       "location": "New York, New York, United States of America",
       "title": "Executive Assistant",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Executive-Assistant_JR034760"
-    },
-    "Morgan Stanley:JR034828": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009651+00:00",
-      "location": "New York, New York, United States of America",
-      "title": "Public Finance Quantitative Developer & Strategist - Fixed Income - Associate",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Public-Finance-Quantitative-Developer---Strategist---Fixed-Income---Associate_JR034828"
     },
     "Morgan Stanley:JR034854": {
       "alerted": false,
@@ -223698,13 +223712,6 @@
       "location": "Ridgeland, Mississippi, United States of America",
       "title": "Registered Client Service Associate",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Ridgeland-Mississippi-United-States-of-America/Registered-Client-Service-Associate_JR035379"
-    },
-    "Morgan Stanley:JR035398": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009629+00:00",
-      "location": "2 Locations",
-      "title": "Registered Client Service Associate",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Greenwood-Village-Colorado-United-States-of-America/Registered-Client-Service-Associate_JR035398-1"
     },
     "Morgan Stanley:JR035622": {
       "alerted": false,
@@ -223874,6 +223881,13 @@
       "title": "Data Quality Controls (DQC), Vice President, Data Management",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Data-Quality-Controls--DQC---Vice-President--Data-Management_JR036466"
     },
+    "Morgan Stanley:JR036497": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640147+00:00",
+      "location": "Garden City, New York, United States of America",
+      "title": "Client Relationship Analyst",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Garden-City-New-York-United-States-of-America/Client-Relationship-Analyst_JR036497-2"
+    },
     "Morgan Stanley:JR036522": {
       "alerted": false,
       "first_seen": "2026-06-26T18:13:39.689320+00:00",
@@ -223971,13 +223985,6 @@
       "location": "London, United Kingdom",
       "title": "Investment Management - Trading Assistant - Analyst",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/London-United-Kingdom/Investment-Management---Trading-Assistant---Analyst_JR036766"
-    },
-    "Morgan Stanley:JR036866": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009631+00:00",
-      "location": "New York, New York, United States of America",
-      "title": "MSET Quantitative Research (Futures) - Strats - Vice President / Executive Director",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/MSET-Quantitative-Research--Futures----Strats---Vice-President---Executive-Director_JR036866"
     },
     "Morgan Stanley:JR036894": {
       "alerted": false,
@@ -224322,20 +224329,6 @@
       "title": "Portfolio Management Associate",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boston-Massachusetts-United-States-of-America/Portfolio-Management-Associate_JR037563"
     },
-    "Morgan Stanley:JR037589": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009646+00:00",
-      "location": "Birmingham, Michigan, United States of America",
-      "title": "Institutional Consulting Analyst",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Birmingham-Michigan-United-States-of-America/Institutional-Consulting-Analyst_JR037589"
-    },
-    "Morgan Stanley:JR037595": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009644+00:00",
-      "location": "Boston, Massachusetts, United States of America",
-      "title": "Client Relationship Analyst",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boston-Massachusetts-United-States-of-America/Client-Relationship-Analyst_JR037595-1"
-    },
     "Morgan Stanley:JR037597": {
       "alerted": false,
       "first_seen": "2026-06-22T21:27:22.240857+00:00",
@@ -224573,13 +224566,6 @@
       "location": "Mumbai, India",
       "title": "Equity Capital Market,Analyst/Sr Analyst, Investment Banking Division",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Equity-Capital-Market-Analyst-Sr-Analyst--Investment-Banking-Division_JR037789-1"
-    },
-    "Morgan Stanley:JR037795": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009648+00:00",
-      "location": "Farmington Hills, Michigan, United States of America",
-      "title": "Client Relationship Analyst",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Farmington-Hills-Michigan-United-States-of-America/Client-Relationship-Analyst_JR037795"
     },
     "Morgan Stanley:JR037803": {
       "alerted": false,
@@ -228732,13 +228718,6 @@
       "title": "Internal Audit Officer - Focus: Financial Risk Management",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Frankfurt-Germany/Internal-Auditor---Focus--Financial-Risk-Management--Vice-President_PT-JR029429-1"
     },
-    "Morgan Stanley:PT-JR029607": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009601+00:00",
-      "location": "Montreal, Canada",
-      "title": "Technology Financial Coordinator (Hybrid)",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Technology-Financial-Coordinator--Hybrid-_PT-JR029607-1"
-    },
     "Morgan Stanley:PT-JR029686": {
       "alerted": false,
       "first_seen": "2026-07-27T13:59:31.338911+00:00",
@@ -228871,13 +228850,6 @@
       "location": "2 Locations",
       "title": "Lead Solution Manager (Platform Product Manager) - Parametric",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States-of-America/Lead-Solution-Manager---Parametric_PT-JR030885"
-    },
-    "Morgan Stanley:PT-JR030977": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009596+00:00",
-      "location": "Purchase, New York, United States of America",
-      "title": "Advisor Desktop Product Owner - Vice President",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Advisor-Desktop-Product-Owner---Vice-President_PT-JR030977-2"
     },
     "Morgan Stanley:PT-JR031039": {
       "alerted": false,
@@ -229033,13 +229005,6 @@
       "title": "Director Change Agent - US Banks External Reporting",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Director-Change-Agent---US-Banks-External-Reporting_PT-JR032953-1"
     },
-    "Morgan Stanley:PT-JR033165": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009622+00:00",
-      "location": "International Commerce Centre",
-      "title": "Investment Management Compliance  - Director",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/International-Commerce-Centre/Investment-Management-Compliance----Director_PT-JR033165"
-    },
     "Morgan Stanley:PT-JR033220": {
       "alerted": false,
       "first_seen": "2026-06-25T08:41:36.941243+00:00",
@@ -229067,13 +229032,6 @@
       "location": "Hong Kong, Hong Kong",
       "title": "Regional Workplace Architecture & Interior Design Lead APAC, Vice President",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Hong-Kong-Hong-Kong/Workplace-Architecture---Interior-Design-Manager-Asia--incl-India---Vice-President_PT-JR033386"
-    },
-    "Morgan Stanley:PT-JR033452": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009633+00:00",
-      "location": "New York, New York, United States of America",
-      "title": "Corporate Treasury Booking Model and RRP Governance - Director (AVP)",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Treasury-Legal-Entity-Management--Booking-Model-and-RRP---Director--AVP-_PT-JR033452"
     },
     "Morgan Stanley:PT-JR033472": {
       "alerted": false,
@@ -229320,13 +229278,6 @@
       "title": "Lead Web Proxy / AI Gateway Specialist \u2014 Cyber Security Engineering (Hybrid)",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Lead-Web-Proxy--Hybrid-_PT-JR035102"
     },
-    "Morgan Stanley:PT-JR035148": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009624+00:00",
-      "location": "New York, New York, United States of America",
-      "title": "Corporate FP&A - Analyst/Associate",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Corporate-FP-A---Analyst-Associate_PT-JR035148"
-    },
     "Morgan Stanley:PT-JR035169": {
       "alerted": false,
       "first_seen": "2026-06-24T08:00:26.069709+00:00",
@@ -229509,6 +229460,13 @@
       "title": "Cyber incident management - VP  : Job Level - Vice President",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/VP---P5--Prin-Risk---Resil-Mgmt---Job-Level---Vice-President_PT-JR035790"
     },
+    "Morgan Stanley:PT-JR035808": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640120+00:00",
+      "location": "Purchase, New York, United States of America",
+      "title": "Morgan Stanley at Work, UX Designer \u2013 Vice President",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Morgan-Stanley-at-Work--UX-Designer---Vice-President_PT-JR035808"
+    },
     "Morgan Stanley:PT-JR035864": {
       "alerted": false,
       "first_seen": "2026-05-29T09:44:29.460936+00:00",
@@ -229564,13 +229522,6 @@
       "location": "Mumbai, India",
       "title": "VP , Software Eng Mgr, Vice President",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/VP---Software-Eng-Mgr--Vice-President_PT-JR035937"
-    },
-    "Morgan Stanley:PT-JR035975": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009637+00:00",
-      "location": "2 Locations",
-      "title": "Lead Solution Manager - Parametric",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States-of-America/Lead-Solution-Manager---Parametric_PT-JR035975"
     },
     "Morgan Stanley:PT-JR036139": {
       "alerted": false,
@@ -230138,13 +230089,6 @@
       "location": "New York, New York, United States of America",
       "title": "IBD/Capital Markets Product Controller (Lending) - Non Officer",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/IBD-Capital-Markets-Product-Controller--Lending----Non-Officer_PT-JR037608"
-    },
-    "Morgan Stanley:PT-JR037612": {
-      "alerted": false,
-      "first_seen": "2026-05-28T03:28:57.009642+00:00",
-      "location": "2 Locations",
-      "title": "RFP Specialist, Investment Proposals - Parametric",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States-of-America/RFP-Specialist--Investment-Proposals---Parametric_PT-JR037612"
     },
     "Morgan Stanley:PT-JR037618": {
       "alerted": false,
@@ -233911,6 +233855,13 @@
       "location": "2 Locations",
       "title": "Client Segment Risk: MS at Work Risk, Assistant Vice President",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/South-Towne-Corp-Center-II/Client-Segment-Risk--MS-at-Work-Risk--Assistant-Vice-President_PT-JR041722"
+    },
+    "Morgan Stanley:PT-JR041738": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640182+00:00",
+      "location": "Alpharetta, Georgia, United States of America",
+      "title": "Dir, P4, Lead Cybersecurity Eng : Job Level - Director",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Dir--P4--Lead-Cybersecurity-Eng---Job-Level---Director_PT-JR041738-1"
     },
     "Morgan Stanley:PT-JR041746": {
       "alerted": false,
@@ -253344,6 +253295,20 @@
       "title": "Senior Deep Learning Software Engineer, Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Netherlands-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR2023106-1"
     },
+    "NVIDIA:JR2023115": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640208+00:00",
+      "location": "2 Locations",
+      "title": "Sales Operations Analyst",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sales-Operations-Analyst_JR2023115-1"
+    },
+    "NVIDIA:JR2023117": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640236+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Account Manager - AI Natives",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---AI-Natives_JR2023117"
+    },
     "NVIDIA:JR2023118": {
       "alerted": false,
       "first_seen": "2026-08-11T19:33:06.631631+00:00",
@@ -259594,6 +259559,13 @@
       "location": "Singapore",
       "title": "Software Engineer, Infrastructure, Consumer Devices",
       "url": "https://jobs.ashbyhq.com/openai/af431679-3d98-47a4-9a70-52edbb4c491d"
+    },
+    "OpenAI:af508ed6-e657-44df-beb8-3c31ae73492b": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.641173+00:00",
+      "location": "Singapore",
+      "title": "User Safety & Risk Operations Analyst - Global Response (Weekend Shift)",
+      "url": "https://jobs.ashbyhq.com/openai/af508ed6-e657-44df-beb8-3c31ae73492b"
     },
     "OpenAI:af7515c8-e037-404e-91e3-9e22944af55c": {
       "alerted": false,
@@ -342279,6 +342251,13 @@
       "title": "Deployment Strategist - Public Sector, Nonprofit & Education",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Netherlands---Amsterdam/Deployment-Strategist---Public-Sector--Nonprofit---Education_JR354494"
     },
+    "Salesforce:JR354500": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640019+00:00",
+      "location": "2 Locations",
+      "title": "Head of Brand Strategy & GTM, AI Research",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Director--Brand---GTM--AI-Research_JR354500"
+    },
     "Salesforce:JR354506": {
       "alerted": false,
       "first_seen": "2026-08-10T07:56:03.418623+00:00",
@@ -343077,6 +343056,13 @@
       "title": "Data Engineer - Senior/Lead",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Data-Engineer---Senior-Lead_JR355459-1"
     },
+    "Salesforce:JR355465": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640053+00:00",
+      "location": "4 Locations",
+      "title": "Director, Deal Strategy & Commercial Operations",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Director--Deal-Strategy---Commercial-Operations_JR355465"
+    },
     "Salesforce:JR355473": {
       "alerted": false,
       "first_seen": "2026-08-07T22:48:39.437182+00:00",
@@ -343328,6 +343314,13 @@
       "location": "United Kingdom - London",
       "title": "Enterprise Account Executive - Telco, Media & Tech",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Enterprise-Account-Executive---Telco--Media---Tech_JR355734-1"
+    },
+    "Salesforce:JR355781": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.640081+00:00",
+      "location": "Washington - Seattle",
+      "title": "Analytics GGS Senior Analyst",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Analytics-GGS-Senior-Analyst_JR355781"
     },
     "Scale AI:4282118005": {
       "alerted": false,
@@ -349901,6 +349894,13 @@
       "location": "San Francisco, Seattle ",
       "title": "Account Executive, Strategics ",
       "url": "https://stripe.com/jobs/search?gh_jid=8110261"
+    },
+    "Stripe:8110416": {
+      "alerted": false,
+      "first_seen": "2026-08-11T22:01:28.639984+00:00",
+      "location": "San Francisco",
+      "title": "Head of AMER Startups (Grower)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8110416"
     },
     "Stripe:8111799": {
       "alerted": false,
