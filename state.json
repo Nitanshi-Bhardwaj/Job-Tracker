@@ -19124,6 +19124,13 @@
       "title": "Applied Scientist, Amazon Customer Service",
       "url": "https://www.amazon.jobs/en/jobs/10502934/applied-scientist-amazon-customer-service"
     },
+    "Amazon:10502946": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.697127+00:00",
+      "location": "Austin, Texas, USA",
+      "title": " Software Development Engineer, AWS OpenSearch",
+      "url": "https://www.amazon.jobs/en/jobs/10502946/software-development-engineer-aws-opensearch"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -20118,13 +20125,6 @@
       "title": "Commercial Counsel, EMEA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
-    "Anthropic:5142996008": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.406538+00:00",
-      "location": "Dublin, IE; London, UK",
-      "title": "Finance & Strategy, EMEA GTM (Dublin or London location)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142996008"
-    },
     "Anthropic:5146298008": {
       "alerted": false,
       "first_seen": "2026-08-11T11:21:01.321336+00:00",
@@ -21035,13 +21035,6 @@
       "title": "[P] Data Scientist, Policy",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5232055008"
     },
-    "Anthropic:5232392008": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.407779+00:00",
-      "location": "San Francisco, CA",
-      "title": "Member of Staff, AI & Rule of Law",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5232392008"
-    },
     "Anthropic:5233507008": {
       "alerted": false,
       "first_seen": "2026-06-03T21:47:52.997326+00:00",
@@ -21062,20 +21055,6 @@
       "location": "London, UK",
       "title": "Policy Counsel, EMEA ",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5233645008"
-    },
-    "Anthropic:5234538008": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.405955+00:00",
-      "location": "San Francisco, CA | New York City, NY",
-      "title": "Director, Infrastructure Compute Procurement",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008"
-    },
-    "Anthropic:5235682008": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.407171+00:00",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY",
-      "title": "Head of Enterprise Sales, Industries",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5235682008"
     },
     "Anthropic:5235692008": {
       "alerted": false,
@@ -23246,6 +23225,20 @@
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "title": "Partner Success Lead",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391215008"
+    },
+    "Anthropic:5391782008": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698459+00:00",
+      "location": "San Francisco, CA",
+      "title": "Manager, Corporate Network Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391782008"
+    },
+    "Anthropic:5391787008": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.697777+00:00",
+      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+      "title": "Executive Support Senior Program Manager, Tech Advisor",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391787008"
     },
     "Anthropic:5391995008": {
       "alerted": false,
@@ -108373,6 +108366,13 @@
       "location": "New York New York United States",
       "title": "Platform Product Manager, Equity Cash, Director",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Platform-Product-Manager--Equity-Cash--Director_26985593"
+    },
+    "Citi:26985601": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698597+00:00",
+      "location": "Ciudad De Mexico Distrito Federal Mexico",
+      "title": "Banamex  Asesor de Capital Humano",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Asesor-de-Capital-Humano_26985601"
     },
     "Citi:26985602": {
       "alerted": false,
@@ -198436,6 +198436,13 @@
       "title": "J.P. Morgan Wealth Management - Private Client Advisor - 79th and Cicero and South Archer Branches (Bilingual in English and Spanish Required)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210775623"
     },
+    "JPMorgan Chase:210775624": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698642+00:00",
+      "location": "Boston, MA, United States",
+      "title": "Relationship Executive-Healthcare, Higher Education & Non-Profit",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210775624"
+    },
     "JPMorgan Chase:210775628": {
       "alerted": false,
       "first_seen": "2026-08-07T00:29:59.561048+00:00",
@@ -201438,6 +201445,13 @@
       "location": "Jersey City, NJ, United States",
       "title": "Principal Architect",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777057"
+    },
+    "JPMorgan Chase:210777058": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698691+00:00",
+      "location": "Philadelphia, PA, United States",
+      "title": "Commercial Banker-Healthcare, Higher Education & Non-Profit-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777058"
     },
     "JPMorgan Chase:210777063": {
       "alerted": false,
@@ -205828,6 +205842,13 @@
       "title": "Relationship Banker - Bellmore, NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210779586"
     },
+    "JPMorgan Chase:210779591": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698731+00:00",
+      "location": "OH, United States",
+      "title": "Consumer and Community Banking - Paralegal I",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210779591"
+    },
     "JPMorgan Chase:210779613": {
       "alerted": false,
       "first_seen": "2026-08-12T13:55:57.501002+00:00",
@@ -206856,6 +206877,13 @@
       "location": "Norfolk, VA, United States",
       "title": "J.P. Morgan Wealth Management - Private Client Advisor - Norfolk, VA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210780652"
+    },
+    "JPMorgan Chase:210780656": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698840+00:00",
+      "location": "Manasquan, NJ, United States",
+      "title": "Branch Manager - Marlboro Plaza Branch - Englishtown, NJ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210780656"
     },
     "JPMorgan Chase:210780661": {
       "alerted": false,
@@ -213598,13 +213626,6 @@
       "title": "Manager, Specialist Sales - SIP - IC",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Manager--Specialist-Sales---SIP---IC_R-278210"
     },
-    "Mastercard:R-278222": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.407897+00:00",
-      "location": "Purchase, New York",
-      "title": "Manager, Product Experience Design",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Manager--Product-Experience-Design_R-278222"
-    },
     "Mastercard:R-278227": {
       "alerted": false,
       "first_seen": "2026-06-15T13:34:26.395018+00:00",
@@ -214452,13 +214473,6 @@
       "title": "Specialist, Product Marketing, Consumer Acquisition & Engagement (CA&E)",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Sao-Paulo-Brazil/Specialist--Product-Marketing--Consumer-Acquisition---Engagement--CA-E-_R-278802-1"
     },
-    "Mastercard:R-278805": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.407819+00:00",
-      "location": "Sao Paulo, Brazil",
-      "title": "Manager, Product Management",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Sao-Paulo-Brazil/Manager--Product-Management_R-278805"
-    },
     "Mastercard:R-278806": {
       "alerted": false,
       "first_seen": "2026-06-17T16:28:33.685549+00:00",
@@ -215018,13 +215032,6 @@
       "location": "Purchase, New York",
       "title": "Manager, Network Economics & Value Optimization",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Manager--Network-Economics---Value-Optimization_R-279183"
-    },
-    "Mastercard:R-279184": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.407860+00:00",
-      "location": "Sao Paulo, Brazil",
-      "title": "Senior Analyst, Customer Onboarding and Partnership",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Sao-Paulo-Brazil/Senior-Analyst--Customer-Onboarding-and-Partnership_R-279184"
     },
     "Mastercard:R-279186": {
       "alerted": false,
@@ -239064,6 +239071,13 @@
       "title": "Senior Networking Electrical Validation Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Networking-Electrical-Validation-Engineer_JR2008783"
     },
+    "NVIDIA:JR2008808": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698512+00:00",
+      "location": "2 Locations",
+      "title": "Senior Data Center Performance Engineer - Benchmarking and Optimization",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Center-Performance-Engineer---Benchmarking-and-Optimization_JR2008808"
+    },
     "NVIDIA:JR2008826": {
       "alerted": false,
       "first_seen": "2026-07-01T13:56:01.825340+00:00",
@@ -239497,13 +239511,6 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Software QA Test Development Engineer - Diagnostics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2011123-1"
-    },
-    "NVIDIA:JR2011168": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.405151+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Site Reliability Engineer - Hardware Infrastructure",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Site-Reliability-Engineer---Hardware-Infrastructure_JR2011168"
     },
     "NVIDIA:JR2011194": {
       "alerted": false,
@@ -245210,13 +245217,6 @@
       "title": "Software Verification Engineer, DOCA",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Verification-Engineer--DOCA_JR2018901"
     },
-    "NVIDIA:JR2018903": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.405063+00:00",
-      "location": "2 Locations",
-      "title": "Developer Advocate \u2013 Distributed Training",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Advocate---Distributed-Training_JR2018903-1"
-    },
     "NVIDIA:JR2018904": {
       "alerted": false,
       "first_seen": "2026-06-08T11:53:49.593713+00:00",
@@ -245322,13 +245322,6 @@
       "title": "Operation Program Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Operation-Program-Manager_JR2018946"
     },
-    "NVIDIA:JR2018947": {
-      "alerted": false,
-      "first_seen": "2026-05-29T21:16:10.405109+00:00",
-      "location": "4 Locations",
-      "title": "Senior Software Engineer \u2013 Financial Systems Engineering",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Financial-Systems-Engineering_JR2018947"
-    },
     "NVIDIA:JR2018948": {
       "alerted": false,
       "first_seen": "2026-06-12T16:35:09.505505+00:00",
@@ -245391,6 +245384,13 @@
       "location": "2 Locations",
       "title": "Senior Account Manager, Host Networking Segment Sales",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--Host-Networking-Segment-Sales_JR2018974"
+    },
+    "NVIDIA:JR2018976": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:55:07.698557+00:00",
+      "location": "2 Locations",
+      "title": "Developer Relations Manager, AI Platform and Tools - MLOps",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager--AI-Platform-and-Tools---MLOps_JR2018976"
     },
     "NVIDIA:JR2018980": {
       "alerted": false,
