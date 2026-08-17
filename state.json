@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anthropic": {
+      "count": 1,
+      "last_error": "Anthropic (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-17T02:20:33.977962+00:00"
+    },
     "Canva": {
       "count": 6,
       "last_error": "Canva (lever): HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/canva?mode=json",
@@ -1014,48 +1019,6 @@
       "location": "Tokyo",
       "title": "Compliance Product Owner, Japan",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Tokyo/Compliance-Product-Owner--Japan_R171238"
-    },
-    "Amazon:10434932": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.621020+00:00",
-      "location": "Seattle, Washington, USA",
-      "title": "Agentic Evaluation Scientist, Amazon Customer Service",
-      "url": "https://www.amazon.jobs/en/jobs/10434932/agentic-evaluation-scientist-amazon-customer-service"
-    },
-    "Amazon:10434940": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.620960+00:00",
-      "location": "Austin, Texas, USA",
-      "title": "Sr. UX Researcher , Amazon Customer Service ",
-      "url": "https://www.amazon.jobs/en/jobs/10434940/sr-ux-researcher-amazon-customer-service"
-    },
-    "Amazon:10434946": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.620688+00:00",
-      "location": "Westboro, Wisconsin, USA",
-      "title": "Business Intel Engineer - I, Amazon Robotics, Amazon Robotics, Global Operations - Artificial Intelligence (GO-AI) ",
-      "url": "https://www.amazon.jobs/en/jobs/10434946/business-intel-engineer-i-amazon-robotics-amazon-robotics-global-operations-artificial-intelligence-go-ai"
-    },
-    "Amazon:10434987": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.620782+00:00",
-      "location": "San Francisco, California, USA",
-      "title": "Software Development Manager, Creator Sponsorships",
-      "url": "https://www.amazon.jobs/en/jobs/10434987/software-development-manager-creator-sponsorships"
-    },
-    "Amazon:10434988": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.620904+00:00",
-      "location": "Austin, Texas, USA",
-      "title": "ML Accelerator Performance Validation Engineer, Post Silicon Validation",
-      "url": "https://www.amazon.jobs/en/jobs/10434988/ml-accelerator-performance-validation-engineer-post-silicon-validation"
-    },
-    "Amazon:10434989": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.620848+00:00",
-      "location": "Austin, Texas, USA",
-      "title": "High-Speed Interface Validation Engineer, Post Silicon Validation",
-      "url": "https://www.amazon.jobs/en/jobs/10434989/high-speed-interface-validation-engineer-post-silicon-validation"
     },
     "Amazon:10435026": {
       "alerted": false,
@@ -19193,6 +19156,34 @@
       "location": "Tel Aviv-Yafo, Tel Aviv, ISR",
       "title": "Verification Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10503245/verification-engineer"
+    },
+    "Amazon:10503257": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982527+00:00",
+      "location": "Hyderabad, Telangana, IND",
+      "title": "Business Intelligence Engineer, Flex Analytics",
+      "url": "https://www.amazon.jobs/en/jobs/10503257/business-intelligence-engineer-flex-analytics"
+    },
+    "Amazon:10503258": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982584+00:00",
+      "location": "Hyderabad, Telangana, IND",
+      "title": "Data Engineer, Flex Analytics",
+      "url": "https://www.amazon.jobs/en/jobs/10503258/data-engineer-flex-analytics"
+    },
+    "Amazon:10503259": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982471+00:00",
+      "location": "Hyderabad, Telangana, IND",
+      "title": "Business Intelligence Engineer, Flex Analytics",
+      "url": "https://www.amazon.jobs/en/jobs/10503259/business-intelligence-engineer-flex-analytics"
+    },
+    "Amazon:10503272": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982393+00:00",
+      "location": "SGP",
+      "title": "Senior Specialist SA, Developer Transformation",
+      "url": "https://www.amazon.jobs/en/jobs/10503272/senior-specialist-sa-developer-transformation"
     },
     "Anthropic:4017331008": {
       "alerted": false,
@@ -237692,6 +237683,13 @@
       "title": "Distinguished Engineer \u2013 Data Center System Software Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer---Data-Center-System-Software-Architect_JR1973423"
     },
+    "NVIDIA:JR1980109": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982719+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Software Engineering Manager - GPU Communications Libraries",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager---GPU-Communications-Libraries_JR1980109"
+    },
     "NVIDIA:JR1980127": {
       "alerted": false,
       "first_seen": "2026-06-08T06:55:28.105908+00:00",
@@ -244054,6 +244052,13 @@
       "location": "US, CA, Santa Clara",
       "title": "GPU Simulation System Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Simulation-System-Software-Engineer_JR2018237"
+    },
+    "NVIDIA:JR2018245": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982761+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, Security",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Architect_JR2018245"
     },
     "NVIDIA:JR2018246": {
       "alerted": false,
@@ -256193,6 +256198,13 @@
       "title": "Developer Relations Manager \u2013 Data Processing and Databases",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager---Data-Processing-and-Databases_JR2022868"
     },
+    "NVIDIA:JR2022872": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982674+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior System Software Engineer, Platform and Performance - GeForce Now",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Platform-and-Performance---GeForce-Now_JR2022872"
+    },
     "NVIDIA:JR2022875": {
       "alerted": false,
       "first_seen": "2026-08-06T13:17:36.415882+00:00",
@@ -256262,6 +256274,13 @@
       "location": "6 Locations",
       "title": "Senior Solution Engineer, Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2022908"
+    },
+    "NVIDIA:JR2022909": {
+      "alerted": false,
+      "first_seen": "2026-08-17T02:20:33.982626+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, Cloud Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Software-Engineer--Cloud-Platform_JR2022909"
     },
     "NVIDIA:JR2022910": {
       "alerted": false,
@@ -329602,13 +329621,6 @@
       "title": "Onboarding Specialist - German speaker",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Onboarding-Specialist---German-speaker_JR343900"
     },
-    "Salesforce:JR343915": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.621109+00:00",
-      "location": "2 Locations",
-      "title": "Director, Business Value Consultant - Enterprise Financial Services",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Director--Business-Value-Consultant---Enterprise-Financial-Services_JR343915"
-    },
     "Salesforce:JR343935": {
       "alerted": false,
       "first_seen": "2026-05-30T11:53:15.743025+00:00",
@@ -329965,13 +329977,6 @@
       "location": "United Kingdom - London",
       "title": "Senior Manager, Business Value Services - Strategic Advisor - London",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Senior-Manager--Business-Value-Services_JR344201"
-    },
-    "Salesforce:JR344205": {
-      "alerted": false,
-      "first_seen": "2026-05-29T22:44:12.621059+00:00",
-      "location": "Netherlands - Amsterdam",
-      "title": "Data Foundation Consumption Lead",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Netherlands---Amsterdam/Data-Foundation-Consumption-Lead_JR344205"
     },
     "Salesforce:JR344206": {
       "alerted": false,
