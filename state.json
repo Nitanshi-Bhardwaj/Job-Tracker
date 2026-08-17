@@ -19264,6 +19264,20 @@
       "title": "Solutions Architect, Financial Services, AWS Canada",
       "url": "https://www.amazon.jobs/en/jobs/10504274/solutions-architect-financial-services-aws-canada"
     },
+    "Amazon:10504310": {
+      "alerted": true,
+      "first_seen": "2026-08-17T22:57:45.033627+00:00",
+      "location": "Santa Clara, California, USA",
+      "title": "Applied Scientist, Console Science",
+      "url": "https://www.amazon.jobs/en/jobs/10504310/applied-scientist-console-science"
+    },
+    "Amazon:10504314": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:57:45.033718+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Sr Manager , Enterprise Systems, Amazon Leo",
+      "url": "https://www.amazon.jobs/en/jobs/10504314/sr-manager-enterprise-systems-amazon-leo"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -112293,6 +112307,13 @@
       "location": "Remote - USA",
       "title": "Credit Risk Analyst",
       "url": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356"
+    },
+    "Coinbase:8138031": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:57:45.034204+00:00",
+      "location": "Remote - USA",
+      "title": "Engineering Manager - Platform (FinHub - Financial Intelligence)",
+      "url": "https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031"
     },
     "Databricks:4513122002": {
       "alerted": false,
@@ -210889,13 +210910,6 @@
       "title": "Sr. Data Scientist",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Sr-Data-Scientist_R-274550"
     },
-    "Mastercard:R-274555": {
-      "alerted": false,
-      "first_seen": "2026-06-01T16:26:34.308374+00:00",
-      "location": "Besiktas, Istanbul Turkey",
-      "title": "Director, Agent Suite - Solutions Architect",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Director--Agent-Suite---Solutions-Architect_R-274555-1"
-    },
     "Mastercard:R-274560": {
       "alerted": false,
       "first_seen": "2026-07-22T15:04:29.276576+00:00",
@@ -213332,13 +213346,6 @@
       "title": "Manager, Sponsorships",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Bogota-Colombia/Manager--Sponsorships_R-277897-1"
     },
-    "Mastercard:R-277922": {
-      "alerted": false,
-      "first_seen": "2026-06-01T16:26:34.308409+00:00",
-      "location": "Pune, India",
-      "title": "Software Engineering Manager",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineering-Manager_R-277922-1"
-    },
     "Mastercard:R-277926": {
       "alerted": false,
       "first_seen": "2026-06-09T11:51:28.189974+00:00",
@@ -213689,13 +213696,6 @@
       "title": "Senior Information Security Engineer",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Senior-Information-Security-Engineer_R-278352"
     },
-    "Mastercard:R-278356": {
-      "alerted": false,
-      "first_seen": "2026-06-01T16:26:34.308334+00:00",
-      "location": "San Jose, Costa Rica",
-      "title": "Manager Marketing Services \u2013 Advisors & Consulting Services",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/San-Jose-Costa-Rica/Manager-Marketing-Services---Advisors---Consulting-Services_R-278356-1"
-    },
     "Mastercard:R-278367": {
       "alerted": false,
       "first_seen": "2026-06-05T13:36:48.529003+00:00",
@@ -213891,13 +213891,6 @@
       "location": "Casablanca, Morocco",
       "title": "Director, Specialist Sales - Consumer Solutions, North West Francophone Africa",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Casablanca-Morocco/Director--Specialist-Sales---Consumer-Solutions--North-West-Francophone-Africa_R-278492"
-    },
-    "Mastercard:R-278497": {
-      "alerted": false,
-      "first_seen": "2026-06-01T16:26:34.308287+00:00",
-      "location": "2 Locations",
-      "title": "Vice President, Global Debit & APM Partnerships",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Vice-President--Global-Debit---APM-Partnerships_R-278497"
     },
     "Mastercard:R-278502": {
       "alerted": false,
@@ -262632,6 +262625,13 @@
       "location": "Washington, DC",
       "title": "Forward Deployed Engineer, Gov",
       "url": "https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f"
+    },
+    "OpenAI:db993e24-ce4f-4f55-9187-403726bcb957": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:57:45.034731+00:00",
+      "location": "San Francisco",
+      "title": "Technical Program Manager, Cloud AI Partnerships",
+      "url": "https://jobs.ashbyhq.com/openai/db993e24-ce4f-4f55-9187-403726bcb957"
     },
     "OpenAI:dbfc77d3-8b6f-4a82-bb14-53eeaa6c4124": {
       "alerted": false,
