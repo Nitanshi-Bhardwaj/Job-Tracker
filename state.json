@@ -1036,76 +1036,6 @@
       "title": "Technion Career Fair, Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/10435144/technion-career-fair-annapurna-labs"
     },
-    "Amazon:10436836": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.038712+00:00",
-      "location": "Boston, Massachusetts, USA",
-      "title": "Sr. Applied Scientist,  Amazon Robotics",
-      "url": "https://www.amazon.jobs/en/jobs/10436836/sr-applied-scientist-amazon-robotics"
-    },
-    "Amazon:10436843": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.039173+00:00",
-      "location": "Santa Clara, California, USA",
-      "title": "Software Development Engineer II, AWS AI & Strategic Partner Engineering",
-      "url": "https://www.amazon.jobs/en/jobs/10436843/software-development-engineer-ii-aws-ai-strategic-partner-engineering"
-    },
-    "Amazon:10436875": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.039113+00:00",
-      "location": "Austin, Texas, USA",
-      "title": "Front-End Engineer, AWS Holmes",
-      "url": "https://www.amazon.jobs/en/jobs/10436875/front-end-engineer-aws-holmes"
-    },
-    "Amazon:10436979": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.039223+00:00",
-      "location": "Bellevue, Washington, USA",
-      "title": "Senior Software Engineer, TopHat",
-      "url": "https://www.amazon.jobs/en/jobs/10436979/senior-software-engineer-tophat"
-    },
-    "Amazon:10436997": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.039005+00:00",
-      "location": "Denver, Colorado, USA",
-      "title": "Sr. Applied AI Solutions Architect, Amazon Connect",
-      "url": "https://www.amazon.jobs/en/jobs/10436997/sr-applied-ai-solutions-architect-amazon-connect"
-    },
-    "Amazon:10437046": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.038825+00:00",
-      "location": "Seattle, Washington, USA",
-      "title": "Software Development Engineer, AWS Marketplace AI Agents",
-      "url": "https://www.amazon.jobs/en/jobs/10437046/software-development-engineer-aws-marketplace-ai-agents"
-    },
-    "Amazon:10437248": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.038769+00:00",
-      "location": "Austin, Texas, USA",
-      "title": "Software Development Engineer, RDS Platform",
-      "url": "https://www.amazon.jobs/en/jobs/10437248/software-development-engineer-rds-platform"
-    },
-    "Amazon:10437287": {
-      "alerted": true,
-      "first_seen": "2026-06-02T17:12:33.038880+00:00",
-      "location": "New York, New York, USA",
-      "title": "Applied Scientist, Ads Measurement Science",
-      "url": "https://www.amazon.jobs/en/jobs/10437287/applied-scientist-ads-measurement-science"
-    },
-    "Amazon:10437288": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.038951+00:00",
-      "location": "New York, New York, USA",
-      "title": "Senior Applied Scientist, Ad Measurements Science ",
-      "url": "https://www.amazon.jobs/en/jobs/10437288/senior-applied-scientist-ad-measurements-science"
-    },
-    "Amazon:10437326": {
-      "alerted": false,
-      "first_seen": "2026-06-02T17:12:33.039061+00:00",
-      "location": "Bengaluru, Karnataka, IND",
-      "title": "Snr. Solutions Architect, Alexa India",
-      "url": "https://www.amazon.jobs/en/jobs/10437326/snr-solutions-architect-alexa-india"
-    },
     "Amazon:10437555": {
       "alerted": false,
       "first_seen": "2026-06-02T20:20:05.601973+00:00",
@@ -23498,6 +23428,13 @@
       "location": "Paris, France",
       "title": "Applied AI Architect, Partnerships",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390787008"
+    },
+    "Anthropic:5390799008": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363763+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Product Engineer, Applied AI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390799008"
     },
     "Anthropic:5390877008": {
       "alerted": false,
@@ -225946,6 +225883,13 @@
       "title": "Customer Technical Services Analyst II",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Customer-Technical-Services-Analyst-II_R-288073"
     },
+    "Mastercard:R-288083": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.364032+00:00",
+      "location": "Singapore",
+      "title": "Senior Specialist, Talent Acquisition (Asia Pacific)",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Singapore/Senior-Specialist--Talent-Acquisition--Asia-Pacific-_R-288083-1"
+    },
     "Mastercard:R-288095": {
       "alerted": false,
       "first_seen": "2026-08-13T12:53:12.573094+00:00",
@@ -256536,6 +256480,13 @@
       "title": "Networking Field Applications Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Networking-Field-Applications-Engineer_JR2022945"
     },
+    "NVIDIA:JR2022946": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363951+00:00",
+      "location": "China, Shanghai",
+      "title": "Senior Deep Learning Engineer, 4D Foundation Model",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Deep-Learning-Engineer--4D-Foundation-Model_JR2022946-1"
+    },
     "NVIDIA:JR2022948": {
       "alerted": false,
       "first_seen": "2026-08-07T23:52:10.515930+00:00",
@@ -257264,6 +257215,13 @@
       "title": "Senior Software Engineer, AIOps",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--AIOps_JR2023309-1"
     },
+    "NVIDIA:JR2023310": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363990+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Architect, IC-System",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Architect--IC-System_JR2023310"
+    },
     "NVIDIA:JR2023311": {
       "alerted": false,
       "first_seen": "2026-08-17T22:38:09.156978+00:00",
@@ -257341,6 +257299,13 @@
       "title": "Compiler Engineer - AI Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Compiler-Engineer---AI-Inference_JR2023372"
     },
+    "NVIDIA:JR2023383": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363820+00:00",
+      "location": "6 Locations",
+      "title": "Principal Process Architect, Automotive Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Process-Architect--Automotive-Software_JR2023383"
+    },
     "NVIDIA:JR2023390": {
       "alerted": false,
       "first_seen": "2026-08-18T02:41:05.362579+00:00",
@@ -257397,12 +257362,26 @@
       "title": "HPC Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/HPC-Engineer_JR2023451"
     },
+    "NVIDIA:JR2023452": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363906+00:00",
+      "location": "3 Locations",
+      "title": "Developer Technology Engineer \u2013 AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2023452"
+    },
     "NVIDIA:JR2023468": {
       "alerted": true,
       "first_seen": "2026-08-17T20:36:26.942832+00:00",
       "location": "US, CA, Santa Clara",
       "title": "Relational Foundation Model Engineer, Modern Data Stack",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2023468"
+    },
+    "NVIDIA:JR2023479": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363862+00:00",
+      "location": "2 Locations",
+      "title": "Senior ASIC Verification Engineer - HSIO",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-ASIC-Verification-Engineer---HSIO_JR2023479"
     },
     "NVIDIA:JR2023494": {
       "alerted": false,
@@ -342370,6 +342349,13 @@
       "title": "Slack - Enterprise Cloud Account Executive",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Slack---Enterprise-Cloud-Account-Executive_JR355705"
     },
+    "Salesforce:JR355706": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363191+00:00",
+      "location": "Singapore - Singapore",
+      "title": "Cloud Account Executive - Marketing Cloud, Malaysia Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Singapore---Singapore/Cloud-Account-Executive---Marketing-Cloud--Malaysia-Market_JR355706"
+    },
     "Salesforce:JR355710": {
       "alerted": false,
       "first_seen": "2026-08-11T08:32:51.565839+00:00",
@@ -344876,6 +344862,13 @@
       "title": "Bridge - Operations Associate ",
       "url": "https://stripe.com/jobs/search?gh_jid=7179634"
     },
+    "Stripe:7202630": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.362680+00:00",
+      "location": "NYC",
+      "title": "Staff Product Designer, Link",
+      "url": "https://stripe.com/jobs/search?gh_jid=7202630"
+    },
     "Stripe:7202953": {
       "alerted": false,
       "first_seen": "2026-08-10T19:29:22.445478+00:00",
@@ -346597,6 +346590,13 @@
       "location": "San Francisco or US-Remote",
       "title": "Executive Journey Strategy Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=7932062"
+    },
+    "Stripe:7939868": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:16:31.363139+00:00",
+      "location": "San Francisco, Seattle",
+      "title": "Staff Software Engineer, Machine Learning Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=7939868"
     },
     "Stripe:7942216": {
       "alerted": false,
