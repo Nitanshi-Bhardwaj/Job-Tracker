@@ -15,11 +15,6 @@
       "last_error": "Hugging Face (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/huggingface/jobs?content=true",
       "last_failed_at": "2026-05-28T20:02:45.702795+00:00"
     },
-    "Jane Street": {
-      "count": 1,
-      "last_error": "Jane Street (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-22T20:53:12.586772+00:00"
-    },
     "Notion": {
       "count": 6,
       "last_error": "Notion (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/notion/jobs?content=true",
@@ -258025,6 +258020,13 @@
       "title": "Senior Firmware Security Architect, Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Firmware-Security-Architect--Networking_JR2023671"
     },
+    "NVIDIA:JR2023673": {
+      "alerted": false,
+      "first_seen": "2026-08-22T21:10:43.642857+00:00",
+      "location": "2 Locations",
+      "title": "Data Center Network Engineer - NVIS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Data-Center-Network-Engineer---NVIS_JR2023673"
+    },
     "NVIDIA:JR2023690": {
       "alerted": false,
       "first_seen": "2026-08-20T07:39:33.170962+00:00",
@@ -288670,13 +288672,6 @@
       "location": "Chennai - Menon Eternity",
       "title": "IN_Senior Manager_Oracle fusion SCM_Oracle_Advisory_Chennai",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Chennai---Menon-Eternity/IN-Manager--Oracle-fusion-SCM-Oracle-Advisory---Kolkata_730470WD-2"
-    },
-    "PwC (Experienced):730475WD": {
-      "alerted": false,
-      "first_seen": "2026-06-04T16:38:13.365562+00:00",
-      "location": "Luxembourg",
-      "title": "AML-/CFT-Manager or Senior Manager - German & English or French & English mandatory",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Luxembourg/AML--CFT-Manager-in-oder-Senior-Manager-in---Deutsch---Englisch-oder-Franzsisch---Englisch-erforderlich_730475WD"
     },
     "PwC (Experienced):730480WD": {
       "alerted": false,
