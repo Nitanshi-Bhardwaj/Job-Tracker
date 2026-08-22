@@ -15,6 +15,11 @@
       "last_error": "Hugging Face (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/huggingface/jobs?content=true",
       "last_failed_at": "2026-05-28T20:02:45.702795+00:00"
     },
+    "Jane Street": {
+      "count": 1,
+      "last_error": "Jane Street (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-22T20:53:12.586772+00:00"
+    },
     "Notion": {
       "count": 6,
       "last_error": "Notion (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/notion/jobs?content=true",
@@ -19361,6 +19366,13 @@
       "location": "New York, New York, USA",
       "title": "Manager, Solutions Architecture, US FSI Banking",
       "url": "https://www.amazon.jobs/en/jobs/10511492/manager-solutions-architecture-us-fsi-banking"
+    },
+    "Amazon:10511497": {
+      "alerted": false,
+      "first_seen": "2026-08-22T20:53:12.591846+00:00",
+      "location": "New York, New York, USA",
+      "title": "Sr. Solutions Architect, Travel & Hospitality",
+      "url": "https://www.amazon.jobs/en/jobs/10511497/sr-solutions-architect-travel-hospitality"
     },
     "Anthropic:4017331008": {
       "alerted": false,
@@ -289897,13 +289909,6 @@
       "location": "Hyderabad - Salarpuria",
       "title": "IN_Senior Manager_Blue Yonder_Supply Chain and Operations_Advisory_Hyderabad",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Manager-Blue-Yonder-Supply-Chain-and-Operations-Advisory-Hyderabad_733803WD-1"
-    },
-    "PwC (Experienced):733818WD": {
-      "alerted": false,
-      "first_seen": "2026-06-04T16:38:13.365513+00:00",
-      "location": "Milan",
-      "title": "[GM] ADV - Director Workforce Strategy",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Milan/XMLNAME--GM--ADV---Director-Workforce-Strategy_733818WD"
     },
     "PwC (Experienced):733831WD": {
       "alerted": false,
