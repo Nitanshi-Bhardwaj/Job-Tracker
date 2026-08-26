@@ -973,27 +973,6 @@
       "title": "Business Intelligence Engineer II, CMT",
       "url": "https://www.amazon.jobs/en/jobs/10442022/business-intelligence-engineer-ii-cmt"
     },
-    "Amazon:10442033": {
-      "alerted": false,
-      "first_seen": "2026-06-08T15:31:01.199967+00:00",
-      "location": "Dublin, IRL",
-      "title": "Software Development Engineer (open-source), Firecracker",
-      "url": "https://www.amazon.jobs/en/jobs/10442033/software-development-engineer-open-source-firecracker"
-    },
-    "Amazon:10442119": {
-      "alerted": false,
-      "first_seen": "2026-06-08T15:31:01.199905+00:00",
-      "location": "Dublin, IRL",
-      "title": "Software Development Engineer - Lambda, AWS Lambda Control Plane",
-      "url": "https://www.amazon.jobs/en/jobs/10442119/software-development-engineer-lambda-aws-lambda-control-plane"
-    },
-    "Amazon:10442306": {
-      "alerted": false,
-      "first_seen": "2026-06-08T15:31:01.200021+00:00",
-      "location": "Seoul, KOR",
-      "title": "Solutions Architect - Startup, Korea",
-      "url": "https://www.amazon.jobs/en/jobs/10442306/solutions-architect-startup-korea"
-    },
     "Amazon:10442312": {
       "alerted": false,
       "first_seen": "2026-06-08T18:12:00.240009+00:00",
@@ -100954,6 +100933,13 @@
       "title": "Director Banca de Gobierno Federal",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Director-Banca-de-Gobierno-Federal_26983654"
     },
+    "Citi:26983655": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.403817+00:00",
+      "location": "Mumbai Maharashtra India",
+      "title": "AVP - Business Associate",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/AVP---Business-Associate_26983655"
+    },
     "Citi:26983656": {
       "alerted": false,
       "first_seen": "2026-08-04T19:11:14.289182+00:00",
@@ -110663,6 +110649,13 @@
       "title": "Principal Engineer - Senior Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Principal-Engineer---Senior-Vice-President_26988504"
     },
+    "Citi:26988507": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.403925+00:00",
+      "location": "Sydney New South Wales Australia",
+      "title": "Market Risk Senior Officer \u2013 Senior Vice President - Australia",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sydney-New-South-Wales-Australia/Market-Risk-Senior-Officer---Senior-Vice-President---Australia_26988507"
+    },
     "Citi:26988508": {
       "alerted": false,
       "first_seen": "2026-08-19T14:38:48.652934+00:00",
@@ -111706,6 +111699,13 @@
       "title": "Banamex Asesor Previsional",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Guadalajara-Jalisco-Mexico/Banamex-Asesor-Previsional_26989690"
     },
+    "Citi:26989693": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.403965+00:00",
+      "location": "Mississauga Ontario Canada",
+      "title": "Applications Support Group Manager",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Applications-Support-Group-Manager_26989693-1"
+    },
     "Citi:26989703": {
       "alerted": false,
       "first_seen": "2026-08-24T19:04:27.185192+00:00",
@@ -111768,6 +111768,13 @@
       "location": "Warsaw  Poland",
       "title": "Risk Reporting Senior Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Risk-Reporting-Senior-Analyst_26989942-1"
+    },
+    "Citi:26990009": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.403868+00:00",
+      "location": "Hong Kong  Hong Kong",
+      "title": "Senior Vice President, AI Adoption & Commercialization Senior Lead",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Senior-Vice-President--AI-Adoption---Commercialization-Senior-Lead_26990009"
     },
     "Citi:26990109": {
       "alerted": false,
@@ -117984,13 +117991,6 @@
       "location": "Toronto, Canada",
       "title": "Sr. Director, Lakebase Sales Specialist",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569596002"
-    },
-    "Databricks:8569600002": {
-      "alerted": false,
-      "first_seen": "2026-06-08T15:31:01.199809+00:00",
-      "location": "United States",
-      "title": "Director, Lakebase Sales Specialists - Retail",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569600002"
     },
     "Databricks:8569602002": {
       "alerted": false,
@@ -128568,6 +128568,13 @@
       "location": "Singapore, Singapore",
       "title": "Software Engineer III - Java and Cutover Platform Development",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210726520"
+    },
+    "JPMorgan Chase:210726542": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.404021+00:00",
+      "location": "Central and Western, Hong Kong Island, Hong Kong",
+      "title": "International Private Bank, Private Banker for China Market, Vice President, based in Hong Kong",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210726542"
     },
     "JPMorgan Chase:210726577": {
       "alerted": false,
@@ -198716,6 +198723,13 @@
       "title": "Java AWS Software Engineer III",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778093"
     },
+    "JPMorgan Chase:210778099": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.404063+00:00",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "title": "Account Specialist I - Southwest/Marriott",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778099"
+    },
     "JPMorgan Chase:210778101": {
       "alerted": false,
       "first_seen": "2026-08-17T22:09:27.222580+00:00",
@@ -209881,6 +209895,13 @@
       "title": "Quantitative Trading & Research \u2013 Prime Finance Quantitative Research \u2013 Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784316"
     },
+    "JPMorgan Chase:210784346": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.404109+00:00",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "title": "Payment Lifecycle Manager I - Cash Asset Management",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784346"
+    },
     "JPMorgan Chase:210784353": {
       "alerted": false,
       "first_seen": "2026-08-25T04:08:24.978501+00:00",
@@ -209937,6 +209958,13 @@
       "title": "Business Support Manager",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784412"
     },
+    "JPMorgan Chase:210784415": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.404148+00:00",
+      "location": "Hyderabad, Telangana, India",
+      "title": "Lead Software Engineer- Salesforce",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784415"
+    },
     "JPMorgan Chase:210784448": {
       "alerted": false,
       "first_seen": "2026-08-25T16:00:58.167642+00:00",
@@ -209950,6 +209978,13 @@
       "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
       "title": "Sr Lead Security Infrastructure Engineer - HSM Management",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784479"
+    },
+    "JPMorgan Chase:210784592": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.404191+00:00",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "title": "Business Analyst for Tax Reporting and Withholding",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784592"
     },
     "JPMorgan Chase:210784615": {
       "alerted": false,
@@ -268618,13 +268653,6 @@
       "title": "Team Assistant in der Steuerberatung (w/m/d)",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Team-Assistant-in-der-Steuerberatung--w-m-d-_518066WD-2"
     },
-    "PwC (Campus):5234WD": {
-      "alerted": false,
-      "first_seen": "2026-06-08T11:53:49.600154+00:00",
-      "location": "Bratislava",
-      "title": "General application to PwC Slovakia (m/f)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Bratislava/Application-to-PwC_5234WD-1"
-    },
     "PwC (Campus):534054WD": {
       "alerted": false,
       "first_seen": "2026-06-09T16:47:45.033954+00:00",
@@ -268806,13 +268834,6 @@
       "location": "2 Locations",
       "title": "Revisore Junior - Palermo - Catania [ADT]",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Palermo/Revisore-Junior---Palermo---Catania--ADT-_600879WD"
-    },
-    "PwC (Campus):602117WD": {
-      "alerted": false,
-      "first_seen": "2026-06-08T11:53:49.600093+00:00",
-      "location": "Bratislava",
-      "title": "General application to PwC Slovakia - Internship",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Bratislava/General-application-to-PwC-Slovakia---Internship_602117WD"
     },
     "PwC (Campus):604265WD": {
       "alerted": false,
@@ -270375,13 +270396,6 @@
       "title": "BSc 3 Minor in Accountancy VU Amsterdam",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/BSc-3-Minor-in-Accountancy-VU-Amsterdam_705280WD"
     },
-    "PwC (Campus):705839WD": {
-      "alerted": false,
-      "first_seen": "2026-06-08T11:53:49.600125+00:00",
-      "location": "Neuilly-sur-Seine",
-      "title": "Stage Droit Social \u2013 Janvier 2027 \u2013 F/H",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Neuilly-sur-Seine/Stage-Droit-Social---Janvier-2027---F-H_705839WD"
-    },
     "PwC (Campus):705847WD": {
       "alerted": false,
       "first_seen": "2026-06-30T13:28:01.526577+00:00",
@@ -270998,13 +271012,6 @@
       "title": "Associate - IFS - Human Capital Transformation",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Jakarta/Associate---IFS---Human-Capital-Transformation_724032WD-1"
     },
-    "PwC (Campus):724048WD": {
-      "alerted": false,
-      "first_seen": "2026-06-08T11:53:49.600061+00:00",
-      "location": "Mumbai Shivaji Park",
-      "title": "IN_Senior Manager_Salesforce Technical Architect_Enterprise Apps-SFDC_Advisory_Mumbai",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Manager-Salesforce-Technical-Architect-Enterprise-Apps-SFDC-Advisory-Mumbai_724048WD"
-    },
     "PwC (Campus):724434WD": {
       "alerted": false,
       "first_seen": "2026-07-10T10:40:25.519222+00:00",
@@ -271417,20 +271424,6 @@
       "location": "Douglas",
       "title": "Assurance Senior Associate",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Douglas/Assurance-Senior-Associate_732442WD-1"
-    },
-    "PwC (Campus):732941WD": {
-      "alerted": false,
-      "first_seen": "2026-06-08T11:53:49.599989+00:00",
-      "location": "Aarhus",
-      "title": "Internship i PwC\u2019s kompetencecenter for revision (Aarhus)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Aarhus/Internship-i-PwC-s-kompetencecenter-for-revision--Aarhus-_732941WD"
-    },
-    "PwC (Campus):732956WD": {
-      "alerted": false,
-      "first_seen": "2026-06-08T11:53:49.600023+00:00",
-      "location": "Copenhagen",
-      "title": "Internship i PwC\u2019s kompetencecenter for revision (Hellerup)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Copenhagen/Internship-i-PwC-s-kompetencecenter-for-revision--Hellerup-_732956WD"
     },
     "PwC (Campus):733392WD": {
       "alerted": false,
@@ -342656,6 +342649,13 @@
       "location": "2 Locations",
       "title": "Software Engineering MTS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR357449"
+    },
+    "Salesforce:JR357614": {
+      "alerted": false,
+      "first_seen": "2026-08-26T04:21:35.403754+00:00",
+      "location": "Australia - Sydney",
+      "title": "Account Executive - Non for Profit",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/Account-Executive---Non-for-Profit_JR357614"
     },
     "Scale AI:4282118005": {
       "alerted": false,
