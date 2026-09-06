@@ -25,11 +25,6 @@
       "last_error": "Palantir (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/palantir/jobs?content=true",
       "last_failed_at": "2026-05-28T20:02:42.988642+00:00"
     },
-    "Scale AI": {
-      "count": 1,
-      "last_error": "Scale AI (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-09-06T09:40:46.433951+00:00"
-    },
     "Snowflake": {
       "count": 6,
       "last_error": "Snowflake (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/snowflakecomputing/jobs?content=true",
@@ -1005,13 +1000,6 @@
       "location": "Herndon, Virginia, USA",
       "title": "Research Scientist III, AWS Security",
       "url": "https://www.amazon.jobs/en/jobs/10450623/research-scientist-iii-aws-security"
-    },
-    "Amazon:10450788": {
-      "alerted": false,
-      "first_seen": "2026-06-16T20:23:52.670973+00:00",
-      "location": "Bengaluru, Karnataka, IND",
-      "title": "Software Development Engineer, Amazon Pharmacy, Amazon Phamarcy",
-      "url": "https://www.amazon.jobs/en/jobs/10450788/software-development-engineer-amazon-pharmacy-amazon-phamarcy"
     },
     "Amazon:10450827": {
       "alerted": false,
@@ -258227,6 +258215,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Executive Content and Social Media Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Executive-Content-and-Social-Media-Manager_JR2025151"
+    },
+    "NVIDIA:JR2025162": {
+      "alerted": false,
+      "first_seen": "2026-09-06T13:07:27.528373+00:00",
+      "location": "2 Locations",
+      "title": "Software Engineer \u2013 Networking Platforms, Diagnostics Tools and Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2025162"
     },
     "NVIDIA:JR2025167": {
       "alerted": false,
