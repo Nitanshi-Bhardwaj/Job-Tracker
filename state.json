@@ -25,6 +25,11 @@
       "last_error": "Palantir (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/palantir/jobs?content=true",
       "last_failed_at": "2026-05-28T20:02:42.988642+00:00"
     },
+    "Scale AI": {
+      "count": 1,
+      "last_error": "Scale AI (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-09-06T09:40:46.433951+00:00"
+    },
     "Snowflake": {
       "count": 6,
       "last_error": "Snowflake (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/snowflakecomputing/jobs?content=true",
@@ -819,6 +824,13 @@
       "title": "Applied Scientist 5",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Applied-Scientist-5_R171066"
     },
+    "Adobe:R171074": {
+      "alerted": false,
+      "first_seen": "2026-09-06T09:40:46.440096+00:00",
+      "location": "4 Locations",
+      "title": "Principal Product Manager - AI for Engineering",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Principal-Product-Manager---AI-for-Engineering_R171074"
+    },
     "Adobe:R171135": {
       "alerted": false,
       "first_seen": "2026-08-11T16:28:03.912749+00:00",
@@ -987,13 +999,6 @@
       "title": "Senior Software Engineer, Managed Streaming Kafka (MSK)",
       "url": "https://www.amazon.jobs/en/jobs/10450459/senior-software-engineer-managed-streaming-kafka-msk"
     },
-    "Amazon:10450598": {
-      "alerted": false,
-      "first_seen": "2026-06-16T20:23:52.670811+00:00",
-      "location": "Sunnyvale, California, USA",
-      "title": "Sr Manager, Software Dev, Design Technologies",
-      "url": "https://www.amazon.jobs/en/jobs/10450598/sr-manager-software-dev-design-technologies"
-    },
     "Amazon:10450623": {
       "alerted": true,
       "first_seen": "2026-06-16T20:23:52.671086+00:00",
@@ -1001,33 +1006,12 @@
       "title": "Research Scientist III, AWS Security",
       "url": "https://www.amazon.jobs/en/jobs/10450623/research-scientist-iii-aws-security"
     },
-    "Amazon:10450785": {
-      "alerted": false,
-      "first_seen": "2026-06-16T20:23:52.670751+00:00",
-      "location": "Mountain View, California, USA",
-      "title": "Software Development Engineer, PostX - APEX",
-      "url": "https://www.amazon.jobs/en/jobs/10450785/software-development-engineer-postx-apex"
-    },
     "Amazon:10450788": {
       "alerted": false,
       "first_seen": "2026-06-16T20:23:52.670973+00:00",
       "location": "Bengaluru, Karnataka, IND",
       "title": "Software Development Engineer, Amazon Pharmacy, Amazon Phamarcy",
       "url": "https://www.amazon.jobs/en/jobs/10450788/software-development-engineer-amazon-pharmacy-amazon-phamarcy"
-    },
-    "Amazon:10450797": {
-      "alerted": false,
-      "first_seen": "2026-06-16T20:23:52.670926+00:00",
-      "location": "Bengaluru, Karnataka, IND",
-      "title": "Software Development Engineer, Amazon Pharmacy, Amazon Phamarcy",
-      "url": "https://www.amazon.jobs/en/jobs/10450797/software-development-engineer-amazon-pharmacy-amazon-phamarcy"
-    },
-    "Amazon:10450798": {
-      "alerted": false,
-      "first_seen": "2026-06-16T20:23:52.670873+00:00",
-      "location": "Bengaluru, Karnataka, IND",
-      "title": "Software Development Engineer, Amazon Pharmacy, Amazon Phamarcy",
-      "url": "https://www.amazon.jobs/en/jobs/10450798/software-development-engineer-amazon-pharmacy-amazon-phamarcy"
     },
     "Amazon:10450827": {
       "alerted": false,
@@ -20033,6 +20017,13 @@
       "location": "Palo Alto, California, USA",
       "title": "Applied Scientist II, Search Ranking, Search Ranking",
       "url": "https://www.amazon.jobs/en/jobs/10530721/applied-scientist-ii-search-ranking-search-ranking"
+    },
+    "Amazon:10530730": {
+      "alerted": false,
+      "first_seen": "2026-09-06T09:40:46.440050+00:00",
+      "location": "Bengaluru, Karnataka, IND",
+      "title": "Business Intelligence Engineer II, Customer Returns , Amazon",
+      "url": "https://www.amazon.jobs/en/jobs/10530730/business-intelligence-engineer-ii-customer-returns-amazon"
     },
     "Anthropic:4017331008": {
       "alerted": false,
@@ -113567,6 +113558,13 @@
       "location": "Tokyo, Japan",
       "title": "Enterprise Account Executive - Media",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841080002"
+    },
+    "Databricks:7841778002": {
+      "alerted": false,
+      "first_seen": "2026-09-06T09:40:46.439969+00:00",
+      "location": "Bengaluru, India",
+      "title": "Staff Software Engineer - Search Platform",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002"
     },
     "Databricks:7841782002": {
       "alerted": false,
@@ -284885,6 +284883,13 @@
       "location": "Bengaluru Millenia",
       "title": "IN_Senior Associate_Senior DevOps\u00a0Engineer_GCC_Advisory_Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Senior-DevOps-Engineer-GCC-Advisory-Bangalore_723955WD-1"
+    },
+    "PwC (Experienced):724020WD": {
+      "alerted": false,
+      "first_seen": "2026-09-06T09:40:46.440142+00:00",
+      "location": "Wellington - NZL",
+      "title": "Technical Integration Architect - Senior Manager",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Wellington---NZL/Technical-Integration-Architect---Senior-Manager_724020WD"
     },
     "PwC (Experienced):724032WD": {
       "alerted": false,
