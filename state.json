@@ -30,11 +30,6 @@
       "last_error": "Snowflake (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/snowflakecomputing/jobs?content=true",
       "last_failed_at": "2026-05-28T20:02:42.997961+00:00"
     },
-    "Stripe": {
-      "count": 1,
-      "last_error": "Stripe (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-09-12T04:28:39.801104+00:00"
-    },
     "Tempus AI": {
       "count": 6,
       "last_error": "Tempus AI (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/tempus/jobs?content=true",
@@ -117199,6 +117194,13 @@
       "title": "Sr. Solutions Engineer - Public Sector (Defense Industrial Base)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584983002"
     },
+    "Databricks:8585019002": {
+      "alerted": false,
+      "first_seen": "2026-09-12T08:45:33.254309+00:00",
+      "location": "Remote - Washington D.C.",
+      "title": "Manager, Forward Deployed Engineering - CMEG",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585019002"
+    },
     "Databricks:8585150002": {
       "alerted": false,
       "first_seen": "2026-08-29T03:51:49.310513+00:00",
@@ -120509,6 +120511,13 @@
       "location": "Auckland, New Zealand",
       "title": "Sr. Solutions Architect",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785045002"
+    },
+    "Databricks:8785055002": {
+      "alerted": false,
+      "first_seen": "2026-09-12T08:45:33.254718+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Specialist Solutions Architect (Security)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002"
     },
     "Databricks:8785057002": {
       "alerted": false,
@@ -209564,6 +209573,13 @@
       "title": "International Private Bank - Digital & Data Transformation, Investment Implementation Product Manager - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210789862"
     },
+    "JPMorgan Chase:210789864": {
+      "alerted": false,
+      "first_seen": "2026-09-12T08:45:33.255246+00:00",
+      "location": "Bengaluru, Karnataka, India",
+      "title": "Associate - Compliance and Ops Risk Test Sr Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210789864"
+    },
     "JPMorgan Chase:210789879": {
       "alerted": false,
       "first_seen": "2026-09-11T17:18:40.973052+00:00",
@@ -213939,13 +213955,6 @@
       "title": "Senior Information Security Operations Analyst",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Senior-Information-Security-Operations-Analyst_R-277482"
     },
-    "Mastercard:R-277518": {
-      "alerted": false,
-      "first_seen": "2026-06-23T13:58:56.860351+00:00",
-      "location": "Dublin, Ireland",
-      "title": "Senior Database Administrator",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Engineer_R-277518"
-    },
     "Mastercard:R-277520": {
       "alerted": false,
       "first_seen": "2026-09-10T14:36:28.094531+00:00",
@@ -215136,13 +215145,6 @@
       "title": "Senior Software Engineer\u2013 RPPS Platform",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer--RPPS-Platform_R-280064"
     },
-    "Mastercard:R-280087": {
-      "alerted": false,
-      "first_seen": "2026-06-23T13:58:56.860385+00:00",
-      "location": "Pune, India",
-      "title": "Lead Software Engineer",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280087"
-    },
     "Mastercard:R-280100": {
       "alerted": false,
       "first_seen": "2026-06-23T20:28:17.920090+00:00",
@@ -216102,13 +216104,6 @@
       "title": "Managing Consultant, Services Business Development",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Managing-Consultant--Services-Business-Development_R-280862"
     },
-    "Mastercard:R-280863": {
-      "alerted": false,
-      "first_seen": "2026-06-23T13:58:56.860315+00:00",
-      "location": "Peterborough, England",
-      "title": "Senior Analyst, Legal Compliance Advisory",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Peterborough-England/Senior-Analyst--Legal-Compliance-Advisory_R-280863-1"
-    },
     "Mastercard:R-280864": {
       "alerted": false,
       "first_seen": "2026-06-23T13:58:56.860605+00:00",
@@ -216787,13 +216782,6 @@
       "location": "2 Locations",
       "title": "Director \u2013 Agentic Trust Product Acceleration",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Director---Agentic-Trust-Product-Acceleration_R-281135"
-    },
-    "Mastercard:R-281138": {
-      "alerted": false,
-      "first_seen": "2026-06-23T13:58:56.860419+00:00",
-      "location": "Dublin, Ireland",
-      "title": "Senior AI Engineer",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Senior-AI-Engineer_R-281138-1"
     },
     "Mastercard:R-281139": {
       "alerted": false,
@@ -349661,6 +349649,13 @@
       "location": "San Francisco, CA ",
       "title": "Manager, Solutions Architecture - Enterprise Hunter (West)",
       "url": "https://stripe.com/jobs/search?gh_jid=8175633"
+    },
+    "Stripe:8175644": {
+      "alerted": false,
+      "first_seen": "2026-09-12T08:45:33.255196+00:00",
+      "location": "SF, SEA, NYC, US-Rem",
+      "title": "Project Manager, People Mergers & Acquisitions (M&A)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175644"
     },
     "Stripe:8175651": {
       "alerted": false,
