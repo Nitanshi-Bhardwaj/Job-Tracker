@@ -10,6 +10,11 @@
       "last_error": "Cohere (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cohere/jobs?content=true",
       "last_failed_at": "2026-05-28T20:02:45.714010+00:00"
     },
+    "Figma": {
+      "count": 1,
+      "last_error": "Figma (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-09-29T00:29:25.582450+00:00"
+    },
     "Hugging Face": {
       "count": 6,
       "last_error": "Hugging Face (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/huggingface/jobs?content=true",
@@ -182,13 +187,6 @@
       "title": "Principal Product Manager, Marketing/Consumer Squad",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Principal-Product-Manager--Consumer-Models_R168763"
     },
-    "Adobe:R168991": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694006+00:00",
-      "location": "2 Locations",
-      "title": "Principal, Ad Tech Enablement",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Principal--Ad-Tech-Enablement_R168991"
-    },
     "Adobe:R169112": {
       "alerted": false,
       "first_seen": "2026-08-28T01:01:23.783187+00:00",
@@ -272,13 +270,6 @@
       "location": "San Jose",
       "title": "Operations AI Developer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Operations-AI-Developer_R170011-1"
-    },
-    "Adobe:R170019": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694088+00:00",
-      "location": "Lehi",
-      "title": "Sourcing Specialist - Corporate Services",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Sourcing-Specialist---Corporate-Services_R170019"
     },
     "Adobe:R170030": {
       "alerted": false,
@@ -1007,34 +998,6 @@
       "location": "Visakhapatnam, Andhra Pradesh, IND",
       "title": "Associate, ML Data Operations, GO-AI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10465941/associate-ml-data-operations-go-ai-operations"
-    },
-    "Amazon:10465965": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.692706+00:00",
-      "location": "Mumbai, Maharashtra, IND",
-      "title": "Associate, ML Data Operations, GO-AI Operations",
-      "url": "https://www.amazon.jobs/en/jobs/10465965/associate-ml-data-operations-go-ai-operations"
-    },
-    "Amazon:10466062": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.692609+00:00",
-      "location": "Hyderabad, Telangana, IND",
-      "title": "Data Engineer, Fintech",
-      "url": "https://www.amazon.jobs/en/jobs/10466062/data-engineer-fintech"
-    },
-    "Amazon:10466068": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.692808+00:00",
-      "location": "Hyderabad, Telangana, IND",
-      "title": "Software Development Manager, Fixed Asset Automation (FAA)",
-      "url": "https://www.amazon.jobs/en/jobs/10466068/software-development-manager-fixed-asset-automation-faa"
-    },
-    "Amazon:10466077": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.692873+00:00",
-      "location": "Bengaluru, Karnataka, IND",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "url": "https://www.amazon.jobs/en/jobs/10466077/software-development-engineer-ii-amazon-cross-border-tech"
     },
     "Amazon:10466123": {
       "alerted": false,
@@ -20944,6 +20907,62 @@
       "title": "Sr Embedded Software Engineer, Annapurna ML Software",
       "url": "https://www.amazon.jobs/en/jobs/10562496/sr-embedded-software-engineer-annapurna-ml-software"
     },
+    "Amazon:10562531": {
+      "alerted": true,
+      "first_seen": "2026-09-29T00:29:25.589088+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Applied Scientist II, Sponsored Products and Brands - Advertiser Growth and Strategies",
+      "url": "https://www.amazon.jobs/en/jobs/10562531/applied-scientist-ii-sponsored-products-and-brands-advertiser-growth-and-strategies"
+    },
+    "Amazon:10562604": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.589143+00:00",
+      "location": "Hyderabad, Telangana, IND",
+      "title": "Software Development Engineer II, Unified Auth SDK",
+      "url": "https://www.amazon.jobs/en/jobs/10562604/software-development-engineer-ii-unified-auth-sdk"
+    },
+    "Amazon:10562737": {
+      "alerted": true,
+      "first_seen": "2026-09-29T00:29:25.588794+00:00",
+      "location": "Boston, Massachusetts, USA",
+      "title": "Applied Scientist, Neuro-Symbolic AI Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10562737/applied-scientist-neuro-symbolic-ai-labs"
+    },
+    "Amazon:10562786": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.589022+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Principal SW Sys Architect, Prime Air - Office of the Chief Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10562786/principal-sw-sys-architect-prime-air-office-of-the-chief-engineer"
+    },
+    "Amazon:10562848": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.588735+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Compiler Engineer, Neuron Automated Reasoning Group",
+      "url": "https://www.amazon.jobs/en/jobs/10562848/compiler-engineer-neuron-automated-reasoning-group"
+    },
+    "Amazon:10562856": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.588858+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Software Development Engineer, Personalization, Amazon Personalization",
+      "url": "https://www.amazon.jobs/en/jobs/10562856/software-development-engineer-personalization-amazon-personalization"
+    },
+    "Amazon:10562897": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.588962+00:00",
+      "location": "Hyderabad, Telangana, IND",
+      "title": "Software Development Engineer II, Timehub Pay Extract",
+      "url": "https://www.amazon.jobs/en/jobs/10562897/software-development-engineer-ii-timehub-pay-extract"
+    },
+    "Amazon:10562899": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.588914+00:00",
+      "location": "Hyderabad, Telangana, IND",
+      "title": "Software Development Engineer II, Timehub Pay Extract",
+      "url": "https://www.amazon.jobs/en/jobs/10562899/software-development-engineer-ii-timehub-pay-extract"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -25648,6 +25667,13 @@
       "title": "Senior Manufacturing Quality Engineer, Data Center Power & Cooling",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397596008"
     },
+    "Anthropic:5397654008": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596862+00:00",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "Product Designer, Claude Developer Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008"
+    },
     "Anthropic:5397699008": {
       "alerted": false,
       "first_seen": "2026-08-21T03:37:55.783301+00:00",
@@ -27117,6 +27143,20 @@
       "location": "San Francisco, CA",
       "title": "Product Finance & Strategy, Monetization",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435710008"
+    },
+    "Anthropic:5436293008": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.597397+00:00",
+      "location": "San Francisco, CA | New York City, NY",
+      "title": "Staff+ Software Engineer, Account Abuse (Machine Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008"
+    },
+    "Anthropic:5436615008": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598111+00:00",
+      "location": "Remote-Friendly, United States",
+      "title": "State and Local Affairs Lead, West",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436615008"
     },
     "Anthropic:5436684008": {
       "alerted": false,
@@ -29042,6 +29082,13 @@
       "location": "4 Locations",
       "title": "Relationship Banker St Louis West Springfield",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Springfield/Relationship-Banker-St-Louis-West-Springfield_26022206"
+    },
+    "Bank of America:26022240": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599360+00:00",
+      "location": "4 Locations",
+      "title": "Client Reporting Analyst III",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Client-Reporting-Analyst-III_26022240-2"
     },
     "Bank of America:26022305": {
       "alerted": false,
@@ -36091,6 +36138,13 @@
       "location": "Vancouver",
       "title": "Relationship Banker-Bilingual Mandarin Preferred",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Vancouver/Relationship-Banker-Bilingual-Mandarin-Preferred_26026100"
+    },
+    "Bank of America:26026102": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599281+00:00",
+      "location": "5 Locations",
+      "title": "Client Reporting Senior Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Client-Reporting-Senior-Analyst_26026102-2"
     },
     "Bank of America:26026103": {
       "alerted": false,
@@ -44128,6 +44182,13 @@
       "title": "Relationship Banker -Spanish Required",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Camarillo/Relationship-Banker--Spanish-Required_26030400"
     },
+    "Bank of America:26030402": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599168+00:00",
+      "location": "Riverside",
+      "title": "Operations Consultant - Riverside, RI",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Riverside/Operations-Consultant---Riverside--RI_26030402-2"
+    },
     "Bank of America:26030425": {
       "alerted": false,
       "first_seen": "2026-08-20T11:57:45.518004+00:00",
@@ -48090,6 +48151,13 @@
       "title": "Market Financial Center Manager - Pittsburgh, PA area",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Wexford/Market-Financial-Center-Manager---Pittsburgh--PA-area_26032526-2"
     },
+    "Bank of America:26032548": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599327+00:00",
+      "location": "5 Locations",
+      "title": "Global Credit Operations- Business Partner & Operations Relationship Manager",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Global-Credit-Operations--Business-Partner---Operations-Relationship-Manager_26032548-2"
+    },
     "Bank of America:26032550": {
       "alerted": false,
       "first_seen": "2026-09-03T20:52:57.612726+00:00",
@@ -48530,6 +48598,13 @@
       "location": "23 Locations",
       "title": "Enterprise Lending Officer",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/SCOTTSDALE/Enterprise-Lending-Officer_26032732"
+    },
+    "Bank of America:26032743": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599132+00:00",
+      "location": "10 Locations",
+      "title": "Cons Prod Strategic Analyst IV - H4",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Cons-Prod-Strategic-Analyst-IV---H4_26032743-2"
     },
     "Bank of America:26032744": {
       "alerted": false,
@@ -49181,6 +49256,13 @@
       "location": "Chestnut Hill",
       "title": "Financial Solutions Advisor - Chestnut Hill Financial Center",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Chestnut-Hill/Financial-Solutions-Advisor---Chestnut-Hill-Financial-Center_26033127"
+    },
+    "Bank of America:26033139": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599097+00:00",
+      "location": "Brooklyn",
+      "title": "Market Financial Center Manager - Brooklyn Staten Island Market",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Brooklyn/Market-Financial-Center-Manager---Brooklyn-Staten-Island-Market_26033139-2"
     },
     "Bank of America:26033141": {
       "alerted": false,
@@ -51457,6 +51539,13 @@
       "title": "Risk Analysis Specialist II",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Risk-Analysis-Specialist-II_26034308-3"
     },
+    "Bank of America:26034309": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599208+00:00",
+      "location": "Northbrook",
+      "title": "Wealth Management Client Associate",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Northbrook/Wealth-Management-Client-Associate_26034309"
+    },
     "Bank of America:26034310": {
       "alerted": false,
       "first_seen": "2026-09-28T20:29:20.591553+00:00",
@@ -51940,6 +52029,13 @@
       "title": "Financial Solutions Advisor -  Avon Financial Center",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Avon/Financial-Solutions-Advisor----Avon-Financial-Center_26034504"
     },
+    "Bank of America:26034513": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599547+00:00",
+      "location": "4 Locations",
+      "title": "Client Quantitative Analyst I",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jacksonville/Client-Quantitative-Analyst-I_26034513-2"
+    },
     "Bank of America:26034516": {
       "alerted": false,
       "first_seen": "2026-09-21T18:55:59.104428+00:00",
@@ -52037,6 +52133,20 @@
       "location": "McDonough",
       "title": "Relationship Banker - McDonough Financial Center",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/McDonough/Relationship-Banker---McDonough-Financial-Center_26034546"
+    },
+    "Bank of America:26034547": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599513+00:00",
+      "location": "Pennington",
+      "title": "Transaction Management Operations Analyst - Wealth Management Operations",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Pennington/Transaction-Management-Operations-Analyst---Wealth-Management-Operations_26034547"
+    },
+    "Bank of America:26034551": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599437+00:00",
+      "location": "Pennington",
+      "title": "Transaction Management Operations Analyst - Wealth Management Operations",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Pennington/Transaction-Management-Operations-Analyst---Wealth-Management-Operations_26034551"
     },
     "Bank of America:26034555": {
       "alerted": false,
@@ -53060,6 +53170,13 @@
       "title": "Infrastructure Management Platform Engineer",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Infrastructure-Management-Platform-Engineer_26035141-2"
     },
+    "Bank of America:26035143": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599471+00:00",
+      "location": "2 Locations",
+      "title": "AML Operations Control Analyst-KYC",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Chandler/AML-Operations-Control-Analyst-KYC_26035143-2"
+    },
     "Bank of America:26035147": {
       "alerted": true,
       "first_seen": "2026-09-24T17:59:38.570303+00:00",
@@ -53697,6 +53814,13 @@
       "title": "Financial Solutions Advisor Registration Candidate - Northern California Market",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Roseville/Financial-Solutions-Advisor-Registration-Candidate---Northern-California-Market_26035542"
     },
+    "Bank of America:26035545": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599054+00:00",
+      "location": "Winnetka",
+      "title": "Financial Solutions Advisor Registration Candidate - Winnetka, IL",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Winnetka/Financial-Solutions-Advisor-Registration-Candidate---Winnetka--IL_26035545-1"
+    },
     "Bank of America:26035546": {
       "alerted": false,
       "first_seen": "2026-09-28T06:14:18.830144+00:00",
@@ -53752,6 +53876,20 @@
       "location": "Chandler",
       "title": "Consumer Investments Account Maintenance Generalist - Chandler, AZ",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Chandler/Consumer-Investments-Account-Maintenance-Generalist---Chandler--AZ_26035566"
+    },
+    "Bank of America:26035627": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599246+00:00",
+      "location": "New York",
+      "title": "Associate/VP, Quantitative Analyst - Commodities",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/VP--Quantitative-Analyst---Commodities_26035627"
+    },
+    "Bank of America:26035696": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598940+00:00",
+      "location": "South Lake Tahoe",
+      "title": "Relationship Banker",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/South-Lake-Tahoe/Relationship-Banker_26035696"
     },
     "Bank of America:26035715": {
       "alerted": false,
@@ -53830,6 +53968,41 @@
       "title": "Financial Solutions Advisor Consumer Investments - Capital Blvd Financial Center (Bilingual Spanish Required)",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Raleigh/Financial-Solutions-Advisor-Consumer-Investments---Capital-Blvd-Financial-Center--Bilingual-Spanish-Required-_26035746"
     },
+    "Bank of America:26035759": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599392+00:00",
+      "location": "Columbia",
+      "title": "Relationship Banker",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Columbia/Relationship-Banker_26035759-1"
+    },
+    "Bank of America:26035765": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599011+00:00",
+      "location": "Palo Alto",
+      "title": "Private Client Advisor II",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Palo-Alto/Private-Client-Advisor-II_26035765"
+    },
+    "Bank of America:26035766": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598857+00:00",
+      "location": "West Chester",
+      "title": "Financial Solutions Advisor - Crossings of Beckett Financial Center",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/West-Chester/Financial-Solutions-Advisor---Crossings-of-Beckett-Financial-Center_26035766"
+    },
+    "Bank of America:26035777": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598978+00:00",
+      "location": "11 Locations",
+      "title": "Financial Solutions Advisor - Scottsdale Area",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Scottsdale/Financial-Solutions-Advisor---Scottsdale-Area_26035777"
+    },
+    "Bank of America:26035781": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598907+00:00",
+      "location": "Newport Beach",
+      "title": "Relationship Manager - Global Commercial Banking - Transformative Healthcare (Newport Beach)",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Newport-Beach/Relationship-Manager---Global-Commercial-Banking---Transformative-Healthcare--Newport-Beach-_26035781"
+    },
     "BlackRock:R241791": {
       "alerted": false,
       "first_seen": "2026-09-03T17:59:48.675111+00:00",
@@ -53906,13 +54079,6 @@
       "location": "New York, NY",
       "title": "Rock AI Product Management, Director",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Rock-AI-Product-Management--Director_R258411"
-    },
-    "BlackRock:R260050": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696048+00:00",
-      "location": "Mumbai, India",
-      "title": "Vice President, Full Stack Engineer",
-      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/Vice-President--Full-Stack-Engineer_R260050-1"
     },
     "BlackRock:R260123": {
       "alerted": false,
@@ -54936,6 +55102,13 @@
       "title": "Leveraged Finance Credit Research, Private Financing Solutions, Vice President",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/Leveraged-Finance-Credit-Research--Private-Financing-Solutions--Vice-President_R265038"
     },
+    "BlackRock:R265045": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598812+00:00",
+      "location": "BHX - 2 Colmore Square, 2 Colmore Square, 38 Colmore Circus, Birmingham",
+      "title": "Treasury Operations \u2014 Payment Oversight Associate",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/BHX---2-Colmore-Square-2-Colmore-Square-38-Colmore-Circus-Birmingham/Treasury-Operations---Payment-Oversight-Associate_R265045"
+    },
     "BlackRock:R265047": {
       "alerted": false,
       "first_seen": "2026-07-21T16:09:25.378299+00:00",
@@ -55019,13 +55192,6 @@
       "location": "",
       "title": "",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional"
-    },
-    "BlackRock:R265081": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696087+00:00",
-      "location": "Mumbai, India",
-      "title": "Associate, Alternatives Fund Accounting",
-      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R265081"
     },
     "BlackRock:R265088": {
       "alerted": false,
@@ -58463,6 +58629,13 @@
       "location": "New York, NY",
       "title": "Vice President, FP&A - Technology & Operations",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Vice-President--FP-A---Technology---Operations_R266659-1"
+    },
+    "BlackRock:R266665": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598765+00:00",
+      "location": "New York, NY",
+      "title": "Vice President, ACB Business Management & Strategy",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Vice-President--ACB-Business-Management---Strategy_R266665"
     },
     "BlackRock:R266672": {
       "alerted": false,
@@ -63567,13 +63740,6 @@
       "title": "Senior Java Developer - Credit Risk Technology, Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Senior-Java-Developer---Credit-Risk-Technology--Vice-President_26968975"
     },
-    "Citi:26969048": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695407+00:00",
-      "location": "Chennai Tamil Nadu India",
-      "title": "Quality Engineer",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Quality-Engineer_26969048"
-    },
     "Citi:26969073": {
       "alerted": false,
       "first_seen": "2026-08-24T04:25:52.892728+00:00",
@@ -64715,13 +64881,6 @@
       "title": "Applications Development Senior Programmer Analyst - Assistant Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26972655"
     },
-    "Citi:26972657": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695873+00:00",
-      "location": "Pune Maharashtra India",
-      "title": "Applications Development Sr Supervisor",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Applications-Development-Sr-Supervisor_26972657"
-    },
     "Citi:26972661": {
       "alerted": false,
       "first_seen": "2026-07-09T16:38:33.175804+00:00",
@@ -65037,13 +65196,6 @@
       "title": "Equity Derivatives Solutions Sales",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Germany/Equity-Derivatives-Solutions-Sales_26973303"
     },
-    "Citi:26973322": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695626+00:00",
-      "location": "Pune Maharashtra India",
-      "title": "Java Backend Developer",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Backend-Developer_26973322"
-    },
     "Citi:26973331": {
       "alerted": false,
       "first_seen": "2026-09-18T17:25:56.491113+00:00",
@@ -65330,13 +65482,6 @@
       "location": "Pune Maharashtra India",
       "title": "Test Automation Engineer",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Test-Automation-Engineer_26973763"
-    },
-    "Citi:26973771": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695963+00:00",
-      "location": "1/124, SHIVAJI GARDENS, MOONLI",
-      "title": "Datawarehouse Application support analyst",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Datawarehouse-Application-support-analyst_26973771"
     },
     "Citi:26973776": {
       "alerted": false,
@@ -66507,26 +66652,12 @@
       "title": "Legal Support Lead Officer, VP",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Legal-Support-Lead-Officer--VP_26975252-1"
     },
-    "Citi:26975257": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695543+00:00",
-      "location": "Mumbai Maharashtra India",
-      "title": "Digital Marketing Lead Analyst",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Digital-Marketing-Lead-Analyst_26975257"
-    },
     "Citi:26975262": {
       "alerted": false,
       "first_seen": "2026-07-07T22:20:42.344315+00:00",
       "location": "Toronto - Canada",
       "title": "Financial Institutions Sales Director, Cash Management & Trade Solutions",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Toronto---Canada/Financial-Institutions-Sales-Director--Cash-Management---Trade-Solutions_26975262"
-    },
-    "Citi:26975263": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695662+00:00",
-      "location": "Mumbai Maharashtra India",
-      "title": "Digital Marketing Lead Analyst",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Digital-Marketing-Lead-Analyst_26975263"
     },
     "Citi:26975264": {
       "alerted": true,
@@ -66654,13 +66785,6 @@
       "title": "Supply Chain/Sourcing Senior Analyst-Assistant Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Supply-Chain-Sourcing-Senior-Analyst-Assistant-Vice-President_26975394"
     },
-    "Citi:26975395": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194250+00:00",
-      "location": "Singapore  Singapore",
-      "title": "Service Relationship Manager",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Service-Relationship-Manager_26975395"
-    },
     "Citi:26975402": {
       "alerted": false,
       "first_seen": "2026-07-09T14:08:49.478638+00:00",
@@ -66682,13 +66806,6 @@
       "title": "Senior Business Associate, Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Senior-Business-Associate--Vice-President_26975410-1"
     },
-    "Citi:26975412": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695208+00:00",
-      "location": "Pune Maharashtra India",
-      "title": "Applications Development Senior Programmer Analyst - Assistant Vice President",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26975412"
-    },
     "Citi:26975419": {
       "alerted": false,
       "first_seen": "2026-07-10T10:40:25.517595+00:00",
@@ -66696,26 +66813,12 @@
       "title": "Java Fullstack Developer",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Java-Fullstack-Developer_26975419"
     },
-    "Citi:26975421": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695834+00:00",
-      "location": "Mumbai Maharashtra India",
-      "title": "Futures Execution and Product Director, Mumbai",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Futures-Execution-and-Product-Director--Mumbai_26975421"
-    },
     "Citi:26975422": {
       "alerted": false,
       "first_seen": "2026-07-07T10:50:54.401768+00:00",
       "location": "Pune Maharashtra India",
       "title": "Data Architecture Lead - Senior Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Data-Architecture-Lead---Senior-Vice-President_26975422"
-    },
-    "Citi:26975425": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695459+00:00",
-      "location": "Chiyoda-ku Tokyo Japan",
-      "title": "Senior Vice President, Client Strategy and Relationship Management, Markets Operations",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Senior-Vice-President--Head-of-Client-Strategy--Markets-Operations_26975425"
     },
     "Citi:26975430": {
       "alerted": false,
@@ -67340,13 +67443,6 @@
       "title": "Credit Portfolio Officer",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Credit-Portfolio-Officer_26975882"
     },
-    "Citi:26975883": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695704+00:00",
-      "location": "Pune Maharashtra India",
-      "title": "Apps Dev Intmd Programmer Analyst - C11 - PUNE",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Apps-Dev-Intmd-Programmer-Analyst---C11---PUNE_26975883"
-    },
     "Citi:26975885": {
       "alerted": false,
       "first_seen": "2026-07-08T16:52:39.362348+00:00",
@@ -67753,13 +67849,6 @@
       "title": "Data Analysis & Reporting -Assistant Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurgaon-Haryana-India/Data-Analysis---Reporting--Assistant-Vice-President_26976135"
     },
-    "Citi:26976137": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194286+00:00",
-      "location": "Singapore  Singapore",
-      "title": "Investment Banking Senior Analyst",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Investment-Banking-Senior-Analyst_26976137"
-    },
     "Citi:26976139": {
       "alerted": true,
       "first_seen": "2026-07-10T12:57:26.898526+00:00",
@@ -67885,20 +67974,6 @@
       "location": "Mumbai Maharashtra India",
       "title": "Young Apprentice - C00 - MUMBAI",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976188"
-    },
-    "Citi:26976191": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695591+00:00",
-      "location": "London  United Kingdom",
-      "title": "Services Global Solution Sales (Digital, Technology and Communications) - SVP",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Services-Global-Solution-Sales--Digital--Technology-and-Communications----SVP_26976191"
-    },
-    "Citi:26976198": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695302+00:00",
-      "location": "Pune Maharashtra India",
-      "title": "Applications Development Senior Programmer Analyst \u2013 Assistant Vice President",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Applications-Development-Senior-Programmer-Analyst---Assistant-Vice-President_26976198"
     },
     "Citi:26976205": {
       "alerted": false,
@@ -68130,13 +68205,6 @@
       "location": "Irving Texas United States",
       "title": "Architecture Senior Lead Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Architecture-Senior-Lead-Analyst_26976334"
-    },
-    "Citi:26976337": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695789+00:00",
-      "location": "Pune Maharashtra India",
-      "title": "Assistant Vice President - AI Operations",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Assistant-Vice-President---AI-Operations_26976337"
     },
     "Citi:26976343": {
       "alerted": false,
@@ -68501,13 +68569,6 @@
       "location": "Pune Maharashtra India",
       "title": "Java Microservices Developer",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Microservices-Developer_26976521-1"
-    },
-    "Citi:26976540": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695372+00:00",
-      "location": "Pune Maharashtra India",
-      "title": "Project-Program Management Lead - Vice President",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Project-Program-Management-Lead---Vice-President_26976540"
     },
     "Citi:26976542": {
       "alerted": false,
@@ -69125,13 +69186,6 @@
       "title": "Product Development Senior Group Manager",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Product-Development-Senior-Group-Manager_26976867"
     },
-    "Citi:26976870": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695505+00:00",
-      "location": "Chiyoda-ku Tokyo Japan",
-      "title": "Senior Vice President, Head of Fixed Income Operations, Markets Operations",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Senior-Vice-President--Head-of-Fixed-Income-Operations-Securities-Operations--Markets-Operations_26976870"
-    },
     "Citi:26976881": {
       "alerted": false,
       "first_seen": "2026-08-04T07:06:10.198921+00:00",
@@ -69152,13 +69206,6 @@
       "location": "Pune Maharashtra India",
       "title": "Senior Java Developer - Assistant Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_26976889"
-    },
-    "Citi:26976890": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696010+00:00",
-      "location": "Kuala Lumpur Selangor Malaysia",
-      "title": "Fresh Graduates KYC Operations Analyst 1 - Consumer Business Support Unit",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kuala-Lumpur-Selangor-Malaysia/Fresh-Graduates-KYC-Operations-Analyst-1---Consumer-Business-Support-Unit_26976890"
     },
     "Citi:26976897": {
       "alerted": false,
@@ -69635,13 +69682,6 @@
       "location": "Olsztyn  Poland",
       "title": "Account Services Transformation Specialist \u2013 fixed-term contract",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Olsztyn--Poland/Account-Services-Transformation-Specialist---fixed-term-contract_26977099"
-    },
-    "Citi:26977103": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695923+00:00",
-      "location": "Shanghai Shanghai China",
-      "title": "Analyst/Associate, Coverage/ECM Banker, Investment Banking(China Securities NewCo)",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Analyst-Associate--Coverage-ECM-Banker--Investment-Banking-China-Securities-NewCo-_26977103"
     },
     "Citi:26977106": {
       "alerted": false,
@@ -70300,6 +70340,13 @@
       "location": "Dublin  Ireland",
       "title": "Editorial Strategist and Thought Leadership Lead",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Dublin--Ireland/Marketing-Group-Manager_26977394"
+    },
+    "Citi:26977395": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598644+00:00",
+      "location": "388 GREENWICH STREET - TOWER",
+      "title": "Investment Banking Vice President - Technology",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/388-GREENWICH-STREET---TOWER/Investment-Banking-Vice-President---Technology_26977395"
     },
     "Citi:26977396": {
       "alerted": false,
@@ -111559,6 +111606,13 @@
       "title": "BANAMEX Analista Ventas Online - PORTAL WEB",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Analista-Ventas-Online---PORTAL-WEB_26996801"
     },
+    "Citi:26996806": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598725+00:00",
+      "location": "2 Locations",
+      "title": "Java Apps Developer Lead Analyst - Vice President",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Java-Apps-Developer-Lead-Analyst---Vice-President_26996806"
+    },
     "Citi:26996808": {
       "alerted": false,
       "first_seen": "2026-09-22T19:01:10.237624+00:00",
@@ -111628,6 +111682,13 @@
       "location": "Ciudad De Mexico Distrito Federal Mexico",
       "title": "BANAMEX VP Experiencia Creativa & SEO",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Digital-Content-Sr-Manager---PORTAL-WEB_26996852"
+    },
+    "Citi:26996854": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598309+00:00",
+      "location": "Tampa Florida United States",
+      "title": "Oracle ERP Application Development Lead - Vice President",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Oracle-ERP-Application-Development-Lead---Vice-President_26996854"
     },
     "Citi:26996858": {
       "alerted": false,
@@ -111895,6 +111956,13 @@
       "title": "Application Development Group Manager - Senior Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Application-Development-Group-Manager---Senior-Vice-President_26997144-1"
     },
+    "Citi:26997147": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598547+00:00",
+      "location": "Jersey City New Jersey United States",
+      "title": "Application Development Group Manager - Senior Vice President",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Application-Development-Group-Manager---Senior-Vice-President_26997147"
+    },
     "Citi:26997148": {
       "alerted": false,
       "first_seen": "2026-09-24T21:24:16.419124+00:00",
@@ -111943,6 +112011,13 @@
       "location": "Washington District Of Columbia United States",
       "title": "Part Time Universal Banker (20 Hours) - Anacostia Branch",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Washington-District-Of-Columbia-United-States/Part-Time-Universal-Banker--20-Hours----Anacostia-Branch_26997239"
+    },
+    "Citi:26997247": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598599+00:00",
+      "location": "Capital Federal  Argentina",
+      "title": "Cash and Trade Processing Representative",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Cash-and-Trade-Processing-Representative_26997247"
     },
     "Citi:26997259": {
       "alerted": false,
@@ -112041,6 +112116,13 @@
       "location": "Covina California United States",
       "title": "Branch Manager Covina CA, Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Covina-California-United-States/Branch-Manager-Covina-CA--Vice-President_26997364"
+    },
+    "Citi:26997372": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598504+00:00",
+      "location": "New York New York United States",
+      "title": "Credit Officer",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Credit-Officer_26997372"
     },
     "Citi:26997373": {
       "alerted": false,
@@ -112259,6 +112341,13 @@
       "title": "Banamex Coordinador de Seguros y Atenci\u00f3n a Sucursales",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irapuato-Guanajuato-Mexico/Banamex-Coordinador-de-Seguros-y-Atencin-a-Sucursales_26997859"
     },
+    "Citi:26997874": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598395+00:00",
+      "location": "Kuala Lumpur Selangor Malaysia",
+      "title": "Collective Investment Services Operations Analyst 1 - Officer (Hybrid)",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kuala-Lumpur-Selangor-Malaysia/Collective-Investment-Services-Operations-Analyst-1---Officer--Hybrid-_26997874"
+    },
     "Citi:26997876": {
       "alerted": false,
       "first_seen": "2026-09-25T08:56:28.891414+00:00",
@@ -112279,6 +112368,13 @@
       "location": "Mumbai Maharashtra India",
       "title": "Project Finance \u2013 Infrastructure Finance / Clean Energy Finance  - Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Project-Finance---Infrastructure-Finance---Clean-Energy-Finance----Vice-President_26997881"
+    },
+    "Citi:26997889": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598349+00:00",
+      "location": "Kuala Lumpur Selangor Malaysia",
+      "title": "Securities & Derivatives Intermediate Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Intermediate-Analyst_26997889"
     },
     "Citi:26997923": {
       "alerted": false,
@@ -112371,6 +112467,13 @@
       "title": "Banamex Asesor de Tarjetas de Cr\u00e9dito Zona Norte Grupo A",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Monterrey-Nuevo-Leon-Mexico/Banamex-Asesor-de-Tarjetas-de-Crdito-Zona-Norte-Grupo-A_26998128"
     },
+    "Citi:26998485": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598684+00:00",
+      "location": "London  United Kingdom",
+      "title": "Senior Blockchain Engineer - Digital Assets Platform",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Senior-Blockchain-Engineer---Digital-Assets-Platform_26998485"
+    },
     "Citi:26998489": {
       "alerted": false,
       "first_seen": "2026-09-28T20:29:20.579131+00:00",
@@ -112398,6 +112501,20 @@
       "location": "Larchmont New York United States",
       "title": "Personal Banker SAFE Act - Larchmont Branch",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Larchmont-New-York-United-States/Personal-Banker-SAFE-Act---Larchmont-Branch_26998519"
+    },
+    "Citi:26998548": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598474+00:00",
+      "location": "Cuernavaca Morelos Mexico",
+      "title": "BANAMEX Asesor Previsional Afore",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Cuernavaca-Morelos-Mexico/BANAMEX-Asesor-Previsional-Afore_26998548"
+    },
+    "Citi:26998558": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598438+00:00",
+      "location": "4 Locations",
+      "title": "Senior .NET Application Developer - Assistant Vice President",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-NET-Application-Developer---Assistant-Vice-President_26998558"
     },
     "Coinbase:6784618": {
       "alerted": false,
@@ -114429,6 +114546,13 @@
       "title": "Associate General Counsel, Privacy",
       "url": "https://www.coinbase.com/careers/positions/8227393?gh_jid=8227393"
     },
+    "Coinbase:8232211": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591088+00:00",
+      "location": "Remote - USA",
+      "title": "Manager, Strategic Programs",
+      "url": "https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211"
+    },
     "Coinbase:8232346": {
       "alerted": false,
       "first_seen": "2026-09-25T18:47:07.055388+00:00",
@@ -114449,6 +114573,20 @@
       "location": "San Francisco, CA",
       "title": "IT Support Engineer",
       "url": "https://www.coinbase.com/careers/positions/8234137?gh_jid=8234137"
+    },
+    "Coinbase:8238573": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.590698+00:00",
+      "location": "Remote - USA",
+      "title": "Capacity Planning Lead",
+      "url": "https://www.coinbase.com/careers/positions/8238573?gh_jid=8238573"
+    },
+    "Coinbase:8238630": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591486+00:00",
+      "location": "Remote - USA",
+      "title": "Senior Software Engineer, Backend - Overseer (Platform)",
+      "url": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630"
     },
     "Databricks:4513122002": {
       "alerted": false,
@@ -119539,6 +119677,13 @@
       "title": "Manager, Forward Deployed Engineering",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8613192002"
     },
+    "Databricks:8613435002": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.588668+00:00",
+      "location": "London, United Kingdom",
+      "title": "Senior Solutions Engineer (Technical, Presales, Data & AI, DNB)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8613435002"
+    },
     "Databricks:8614178002": {
       "alerted": false,
       "first_seen": "2026-08-28T01:01:23.778100+00:00",
@@ -122744,6 +122889,13 @@
       "location": "Singapore",
       "title": "Sr. Delivery Solutions Architect (Thailand)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8849858002"
+    },
+    "Databricks:8854350002": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.588278+00:00",
+      "location": "Mountain View, California; San Francisco, California",
+      "title": "Candidate Experience Admin (6-month contract) ",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8854350002"
     },
     "Figma:5220003004": {
       "alerted": false,
@@ -126525,13 +126677,6 @@
       "title": "Program Officer, Global Philanthropy, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210710511"
     },
-    "JPMorgan Chase:210710628": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696125+00:00",
-      "location": "LONDON, LONDON, United Kingdom",
-      "title": "Technology Risk and Controls Lead",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210710628"
-    },
     "JPMorgan Chase:210711224": {
       "alerted": false,
       "first_seen": "2026-07-16T16:55:32.726413+00:00",
@@ -128708,13 +128853,6 @@
       "location": "Jersey City, NJ, United States",
       "title": "Full-Stack Java React AWS Software Engineer III",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210733851"
-    },
-    "JPMorgan Chase:210733909": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194337+00:00",
-      "location": "Central and Western, Hong Kong Island, Hong Kong",
-      "title": "International Private Bank, UHNW Investor, Hong Kong Market, Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210733909"
     },
     "JPMorgan Chase:210733928": {
       "alerted": false,
@@ -131264,20 +131402,6 @@
       "title": "Software Engineer III- Python,GenAI,AWS",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210746355"
     },
-    "JPMorgan Chase:210746374": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696180+00:00",
-      "location": "Warszawa, Mazowieckie, Poland",
-      "title": "Firmwide Regulatory Reporting & Analysis - External Regulatory Reporting Controller - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210746374"
-    },
-    "JPMorgan Chase:210746380": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696240+00:00",
-      "location": "Warszawa, Mazowieckie, Poland",
-      "title": "Firmwide Regulatory Reporting & Analysis - Regulatory Reporting \u2013 Senior Associate (Team Manager)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210746380"
-    },
     "JPMorgan Chase:210746392": {
       "alerted": false,
       "first_seen": "2026-09-02T15:08:50.873818+00:00",
@@ -131424,13 +131548,6 @@
       "location": "Metro Manila, National Capital Region, Philippines",
       "title": "Home Lending Accounts Specialist II",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210746899"
-    },
-    "JPMorgan Chase:210746901": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696275+00:00",
-      "location": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-      "title": "KYC Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210746901"
     },
     "JPMorgan Chase:210746929": {
       "alerted": false,
@@ -132559,13 +132676,6 @@
       "title": "Portfolio Solutions & Research Support Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210750851"
     },
-    "JPMorgan Chase:210750862": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696316+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Senior Product Associate - Client Onboarding",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210750862"
-    },
     "JPMorgan Chase:210750890": {
       "alerted": false,
       "first_seen": "2026-08-24T10:03:06.109107+00:00",
@@ -133077,13 +133187,6 @@
       "title": "Fund Controller - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210752227"
     },
-    "JPMorgan Chase:210752260": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696353+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Lead Software Engineer-Full-stack",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210752260"
-    },
     "JPMorgan Chase:210752419": {
       "alerted": false,
       "first_seen": "2026-07-16T08:27:20.932925+00:00",
@@ -133545,13 +133648,6 @@
       "location": "Jersey City, NJ, United States",
       "title": "Trade & Working Capital - Sector Sales Head - Healthcare - Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210754196"
-    },
-    "JPMorgan Chase:210754239": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696392+00:00",
-      "location": "Hyderabad, Telangana, India",
-      "title": "Software Engineer III - Java AWS Kafka",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210754239"
     },
     "JPMorgan Chase:210754282": {
       "alerted": false,
@@ -136150,26 +136246,12 @@
       "title": "Part Time (20 Hours) Associate Banker, Greater Maryland Market, Fulton, Maryland",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760881"
     },
-    "JPMorgan Chase:210760885": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194382+00:00",
-      "location": "Derby, CT, United States",
-      "title": "Private Client Banker - Derby Lane Branch (New Build) - Derby, CT",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760885"
-    },
     "JPMorgan Chase:210760887": {
       "alerted": false,
       "first_seen": "2026-07-22T15:04:29.281905+00:00",
       "location": "Ridgewood, NY, United States",
       "title": "Branch Operations Lead - Metropolitan and Flushing - Ridgewood, NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760887"
-    },
-    "JPMorgan Chase:210760890": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194427+00:00",
-      "location": "Derby, CT, United States",
-      "title": "Relationship Banker - Derby Lane Branch (New Build) - Derby, CT",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760890"
     },
     "JPMorgan Chase:210760923": {
       "alerted": false,
@@ -136878,13 +136960,6 @@
       "title": "Financial Analysis, Vice President \u2013 Chase Auto",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210761829"
     },
-    "JPMorgan Chase:210761834": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696437+00:00",
-      "location": "Singapore",
-      "title": "Kinexys Digital Payments - Market and Product Expansion, Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210761834"
-    },
     "JPMorgan Chase:210761836": {
       "alerted": false,
       "first_seen": "2026-07-09T18:24:29.849593+00:00",
@@ -137501,13 +137576,6 @@
       "title": "Industry Risk Manager",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210762621"
     },
-    "JPMorgan Chase:210762658": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194459+00:00",
-      "location": "NC, United States",
-      "title": "Client Service Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210762658"
-    },
     "JPMorgan Chase:210762663": {
       "alerted": false,
       "first_seen": "2026-07-08T18:11:59.759656+00:00",
@@ -137626,13 +137694,6 @@
       "location": "Hyderabad, Telangana, India",
       "title": "Software Engineer III - Java",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210762754"
-    },
-    "JPMorgan Chase:210762775": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696477+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Associate - Transport Operations - Mumbai",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210762775"
     },
     "JPMorgan Chase:210762777": {
       "alerted": false,
@@ -139083,13 +139144,6 @@
       "title": "Program Manager - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764361"
     },
-    "JPMorgan Chase:210764365": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696514+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Product Controller- Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764365"
-    },
     "JPMorgan Chase:210764371": {
       "alerted": false,
       "first_seen": "2026-07-07T07:55:10.253315+00:00",
@@ -139103,13 +139157,6 @@
       "location": "LONDON, LONDON, United Kingdom",
       "title": "Global Corporate Banking Business Manager - Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764372"
-    },
-    "JPMorgan Chase:210764384": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696547+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Control Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764384"
     },
     "JPMorgan Chase:210764387": {
       "alerted": false,
@@ -139125,26 +139172,12 @@
       "title": "Credit Risk Controller \u2013 Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764388"
     },
-    "JPMorgan Chase:210764390": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696581+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Financial Crime Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764390"
-    },
     "JPMorgan Chase:210764397": {
       "alerted": false,
       "first_seen": "2026-07-13T15:32:02.277389+00:00",
       "location": "LONDON, United Kingdom",
       "title": "Custody Operations Business Manager - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764397"
-    },
-    "JPMorgan Chase:210764398": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696614+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Financial Crime Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764398"
     },
     "JPMorgan Chase:210764401": {
       "alerted": false,
@@ -139860,13 +139893,6 @@
       "title": "Lead Solutions Analyst, Kinexys Technology",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764915"
     },
-    "JPMorgan Chase:210764923": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696663+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Relationship Partner (Middle Office) - Global Banking Deal Services - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764923"
-    },
     "JPMorgan Chase:210764926": {
       "alerted": false,
       "first_seen": "2026-07-24T04:23:16.633481+00:00",
@@ -139929,13 +139955,6 @@
       "location": "Central and Western, Hong Kong Island, Hong Kong",
       "title": "Associate, Financial Analysis, Commercial & Investment Bank",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764955"
-    },
-    "JPMorgan Chase:210764969": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696699+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Associate - Sourcing Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764969"
     },
     "JPMorgan Chase:210764970": {
       "alerted": false,
@@ -140181,13 +140200,6 @@
       "location": "Westerville, OH, United States",
       "title": "Relationship Banker - Columbus Central East Market - Westerville, OH",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765094"
-    },
-    "JPMorgan Chase:210765102": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696778+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Financial Controller - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765102"
     },
     "JPMorgan Chase:210765106": {
       "alerted": false,
@@ -140700,13 +140712,6 @@
       "title": "Data Engineer II - Databricks, Python/Java, PySpark",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765459"
     },
-    "JPMorgan Chase:210765463": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194498+00:00",
-      "location": "Singapore, Singapore",
-      "title": "Cloud Software Engineer III - Java/Python",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765463"
-    },
     "JPMorgan Chase:210765464": {
       "alerted": false,
       "first_seen": "2026-07-13T10:00:31.282755+00:00",
@@ -140777,13 +140782,6 @@
       "title": "Full Time (40 Hours) Associate Banker, Tillotson Square Branch, Muncie, IN",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765529"
     },
-    "JPMorgan Chase:210765530": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194535+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Payment Lifecycle Associate I",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765530"
-    },
     "JPMorgan Chase:210765532": {
       "alerted": false,
       "first_seen": "2026-07-08T12:55:41.388900+00:00",
@@ -140846,13 +140844,6 @@
       "location": "Fort Wayne, IN, United States",
       "title": "Part Time (20 Hours) Associate Banker, Pine Valley Branch, Fort Wayne, IN",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765545"
-    },
-    "JPMorgan Chase:210765547": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194579+00:00",
-      "location": "Jersey City, NJ, United States",
-      "title": "2027 Internal Audit Analyst Program - Summer Analyst Opportunity",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765547"
     },
     "JPMorgan Chase:210765548": {
       "alerted": false,
@@ -141070,13 +141061,6 @@
       "location": "Beaumont, TX, United States",
       "title": "Part Time (30 Hours) Associate Banker, Dowlen and Phelan Branch, Beaumont, TX",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765643"
-    },
-    "JPMorgan Chase:210765646": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194618+00:00",
-      "location": "Columbus, OH, United States",
-      "title": "Senior Product Associate- Service Product",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765646"
     },
     "JPMorgan Chase:210765650": {
       "alerted": false,
@@ -141785,13 +141769,6 @@
       "title": "Equities Prime Trading Assistant - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765979"
     },
-    "JPMorgan Chase:210765981": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696825+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Software Engineer II - Techno Functional Quality Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765981"
-    },
     "JPMorgan Chase:210765990": {
       "alerted": false,
       "first_seen": "2026-07-07T07:55:10.253423+00:00",
@@ -141805,13 +141782,6 @@
       "location": "LONDON, LONDON, United Kingdom",
       "title": "Markets Recruiter \u2013 Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765999"
-    },
-    "JPMorgan Chase:210766000": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696865+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Analyst - Alternatives Investment Specialist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766000"
     },
     "JPMorgan Chase:210766001": {
       "alerted": false,
@@ -141854,13 +141824,6 @@
       "location": "Mumbai, Maharashtra, India",
       "title": "Alternative Fund Services - Hedge Fund Services - Financial Reporting - Team Leader - Mumbai",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766018"
-    },
-    "JPMorgan Chase:210766020": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696905+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Associate - Alternatives Investment Specialist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766020"
     },
     "JPMorgan Chase:210766021": {
       "alerted": false,
@@ -142541,13 +142504,6 @@
       "title": "Equity Derivatives Deal Review Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766279"
     },
-    "JPMorgan Chase:210766280": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194665+00:00",
-      "location": "New York, NY, United States",
-      "title": "2027 Marketing Leadership Development Program - Summer Analyst Opportunity",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766280"
-    },
     "JPMorgan Chase:210766281": {
       "alerted": false,
       "first_seen": "2026-08-07T00:29:59.559955+00:00",
@@ -143024,13 +142980,6 @@
       "title": "Equities Market Risk - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766469"
     },
-    "JPMorgan Chase:210766470": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194717+00:00",
-      "location": "Kwun Tong, Kowloon, Hong Kong",
-      "title": "International Private Bank - Client Service \u2013 Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766470"
-    },
     "JPMorgan Chase:210766471": {
       "alerted": false,
       "first_seen": "2026-07-07T13:08:29.411571+00:00",
@@ -143044,13 +142993,6 @@
       "location": "Jersey City, NJ, United States",
       "title": "Sr Lead Cybersecurity Architect",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766474"
-    },
-    "JPMorgan Chase:210766475": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194762+00:00",
-      "location": "Central and Western, Hong Kong Island, Hong Kong",
-      "title": "Cash Equity Sales, Vice President (Korean Client Coverage)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766475"
     },
     "JPMorgan Chase:210766476": {
       "alerted": false,
@@ -143086,27 +143028,6 @@
       "location": "Philippines",
       "title": "2027 Asia Analyst Development Program - Summer Analyst - Philippines",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766489"
-    },
-    "JPMorgan Chase:210766493": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194807+00:00",
-      "location": "Central and Western, Hong Kong Island, Hong Kong",
-      "title": "Global Investment Banking - Associate/ Analyst, Thailand",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766493"
-    },
-    "JPMorgan Chase:210766494": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696951+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Senior Associate \u2014 Data Scientist, Applied AI/ML",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766494"
-    },
-    "JPMorgan Chase:210766496": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194841+00:00",
-      "location": "Mumbai, Maharashtra, India",
-      "title": "Reference Data Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766496"
     },
     "JPMorgan Chase:210766498": {
       "alerted": false,
@@ -143507,13 +143428,6 @@
       "title": "Lead Software Engineer - Python, AWS, Big Data",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766662"
     },
-    "JPMorgan Chase:210766664": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.696994+00:00",
-      "location": "Taipei, Taiwan",
-      "title": "Asset Management - Taiwan Sales Support - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766664"
-    },
     "JPMorgan Chase:210766665": {
       "alerted": false,
       "first_seen": "2026-07-09T20:15:31.303455+00:00",
@@ -143611,13 +143525,6 @@
       "location": "Columbus, OH, United States",
       "title": "Finance Control Manager - Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766696"
-    },
-    "JPMorgan Chase:210766699": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697032+00:00",
-      "location": "Bengaluru, Karnataka, India",
-      "title": "Associate - Valuation Controller",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766699"
     },
     "JPMorgan Chase:210766700": {
       "alerted": false,
@@ -143843,13 +143750,6 @@
       "title": "Associate Relationship Banker - SE Hawthorne and 39th Branch - Portland, OR",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766811"
     },
-    "JPMorgan Chase:210766813": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194903+00:00",
-      "location": "Jersey City, NJ, United States",
-      "title": "Software Engineer II",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766813"
-    },
     "JPMorgan Chase:210766814": {
       "alerted": false,
       "first_seen": "2026-08-17T17:58:14.208072+00:00",
@@ -143983,13 +143883,6 @@
       "title": "Product Manager - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766858"
     },
-    "JPMorgan Chase:210766862": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697087+00:00",
-      "location": "Seoul, Korea, Republic of",
-      "title": "Global Corporate Banking \u2013 Head of Tech & Innovation Economy, Executive Director, Korea",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766862"
-    },
     "JPMorgan Chase:210766865": {
       "alerted": false,
       "first_seen": "2026-07-06T13:27:27.808299+00:00",
@@ -144024,13 +143917,6 @@
       "location": "Bengaluru, Karnataka, India",
       "title": "Analytics Solutions Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766874"
-    },
-    "JPMorgan Chase:210766877": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697120+00:00",
-      "location": "India",
-      "title": "Trading Services",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210766877"
     },
     "JPMorgan Chase:210766879": {
       "alerted": false,
@@ -183008,6 +182894,13 @@
       "title": "Full Time Associate Banker Foothill and Citrus Branch, Fontana, CA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210781276"
     },
+    "JPMorgan Chase:210781278": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599701+00:00",
+      "location": "Tukwila, WA, United States",
+      "title": "Associate Banker, 30 Hours, South Seattle, WA Area - Multiple Locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210781278"
+    },
     "JPMorgan Chase:210781279": {
       "alerted": false,
       "first_seen": "2026-08-28T01:01:23.800874+00:00",
@@ -183175,6 +183068,13 @@
       "location": "Gilbert, AZ, United States",
       "title": "Associate Banker, 30 Hours, Southeast Valley, AZ Area - Multiple Locations",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210781318"
+    },
+    "JPMorgan Chase:210781319": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599747+00:00",
+      "location": "Avondale, AZ, United States",
+      "title": "Associate Banker, 30 Hours, Southwest Valley, AZ Area - Multiple Locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210781319"
     },
     "JPMorgan Chase:210781320": {
       "alerted": false,
@@ -186430,6 +186330,13 @@
       "location": "New York, NY, United States",
       "title": "Wealth Management, Digital Product - Becoming a Client, Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210782577"
+    },
+    "JPMorgan Chase:210782579": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599794+00:00",
+      "location": "Hoffman Estates, IL, United States",
+      "title": "Associate Banker, 30 Hours, Chicago Elgin and Kane County Area - Multiple locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210782579"
     },
     "JPMorgan Chase:210782580": {
       "alerted": false,
@@ -192219,6 +192126,13 @@
       "location": "San Bruno, CA, United States",
       "title": "Associate Banker, 30 Hours, Peninsula South Area - Multiple locations",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784579"
+    },
+    "JPMorgan Chase:210784584": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599835+00:00",
+      "location": "Chicago, IL, United States",
+      "title": "Fullstack Software Engineer III - JAVA, AWS, React",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210784584"
     },
     "JPMorgan Chase:210784592": {
       "alerted": false,
@@ -199220,6 +199134,13 @@
       "title": "Lead Technical Program Manager",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210787569"
     },
+    "JPMorgan Chase:210787570": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599620+00:00",
+      "location": "Jersey City, NJ, United States",
+      "title": "React/Java Lead Fullstack Engineer - Lead Software Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210787570"
+    },
     "JPMorgan Chase:210787571": {
       "alerted": false,
       "first_seen": "2026-09-10T10:33:00.453967+00:00",
@@ -206178,6 +206099,13 @@
       "title": "Relationship Banker - Union Rahway River Branch - New Jersey Union Essex Market",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210790520"
     },
+    "JPMorgan Chase:210790524": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599655+00:00",
+      "location": "New York, NY, United States",
+      "title": "Lead Data Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210790524"
+    },
     "JPMorgan Chase:210790530": {
       "alerted": false,
       "first_seen": "2026-09-13T22:38:42.593930+00:00",
@@ -206843,6 +206771,13 @@
       "title": "Executive Director, Head of Media Strategy & Investment",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210790838"
     },
+    "JPMorgan Chase:210790842": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599880+00:00",
+      "location": "Swampscott, MA, United States",
+      "title": "Part Time (30 Hours) Associate Banker, Swampscott Branch, Swampscott, MA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210790842"
+    },
     "JPMorgan Chase:210790855": {
       "alerted": false,
       "first_seen": "2026-09-24T17:59:38.571671+00:00",
@@ -207066,6 +207001,13 @@
       "location": "Plano, TX, United States",
       "title": "Director of Software Engineering- Core Global WAN",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210790946"
+    },
+    "JPMorgan Chase:210790947": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599915+00:00",
+      "location": "Jersey City, NJ, United States",
+      "title": "Lead Technical Program Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210790947"
     },
     "JPMorgan Chase:210790949": {
       "alerted": false,
@@ -208152,6 +208094,13 @@
       "title": "Java AWS AI Lead Software Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791503"
     },
+    "JPMorgan Chase:210791506": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.599960+00:00",
+      "location": "Mohave Valley, AZ, United States",
+      "title": "Associate Banker, 20 Hours, Mohave Valley, AZ - Mohave Valley Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791506"
+    },
     "JPMorgan Chase:210791508": {
       "alerted": false,
       "first_seen": "2026-09-16T14:51:27.049296+00:00",
@@ -208544,6 +208493,13 @@
       "title": "Applied AI ML Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791714"
     },
+    "JPMorgan Chase:210791715": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600007+00:00",
+      "location": "Bonita Springs, FL, United States",
+      "title": "Associate Banker, 30 Hours, Bonita Springs, FL - US 41 and Bonita Beach Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791715"
+    },
     "JPMorgan Chase:210791717": {
       "alerted": false,
       "first_seen": "2026-09-16T14:51:27.049601+00:00",
@@ -208915,6 +208871,13 @@
       "title": "Part Time (20 Hours) Associate Banker, Villa Point Branch, Owensboro, KY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791920"
     },
+    "JPMorgan Chase:210791921": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600051+00:00",
+      "location": "Plano, TX, United States",
+      "title": "Chase Home Lending Correspondent Client Management Support Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791921"
+    },
     "JPMorgan Chase:210791922": {
       "alerted": false,
       "first_seen": "2026-09-28T06:14:18.830275+00:00",
@@ -209103,6 +209066,13 @@
       "location": "Mumbai, Maharashtra, India",
       "title": "Lead Software Engineer Java Spring boor Gen AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210792019"
+    },
+    "JPMorgan Chase:210792020": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600095+00:00",
+      "location": "Mansfield, OH, United States",
+      "title": "Part Time (30 hours) Associate Banker, Ashland Rd, Mansfield, OH",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210792020"
     },
     "JPMorgan Chase:210792025": {
       "alerted": false,
@@ -209572,6 +209542,13 @@
       "location": "Staten Island, NY, United States",
       "title": "Relationship Banker - Arden Heights - Staten Island, NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210792314"
+    },
+    "JPMorgan Chase:210792318": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600134+00:00",
+      "location": "Plano, TX, United States",
+      "title": "Lead Software Engineer - Fullstack Java, Springboot +AI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210792318"
     },
     "JPMorgan Chase:210792322": {
       "alerted": false,
@@ -210784,6 +210761,13 @@
       "title": "Lead Software Engineer - Go / Kubernetes / Python - Public Cloud Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210793046"
     },
+    "JPMorgan Chase:210793048": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600178+00:00",
+      "location": "Hyannis, MA, United States",
+      "title": "Full Time (40 Hours) Associate Banker, Hyannis Branch, Hyannis, MA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210793048"
+    },
     "JPMorgan Chase:210793049": {
       "alerted": false,
       "first_seen": "2026-09-22T15:25:10.729676+00:00",
@@ -210895,6 +210879,13 @@
       "location": "San Francisco, CA, United States",
       "title": "Global Security - Vulnerable Adult Investigations Manager",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210793120"
+    },
+    "JPMorgan Chase:210793130": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600209+00:00",
+      "location": "NY, United States",
+      "title": "Trade Support Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210793130"
     },
     "JPMorgan Chase:210793137": {
       "alerted": false,
@@ -211112,6 +211103,13 @@
       "location": "Monticello, NY, United States",
       "title": "Part Time (30 Hours) Associate Banker, Monticello Branch, Monticello, NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210793345"
+    },
+    "JPMorgan Chase:210793348": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600251+00:00",
+      "location": "Columbus, OH, United States",
+      "title": "Branch Operations Lead - Columbus Central West - Columbus, OH",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210793348"
     },
     "JPMorgan Chase:210793357": {
       "alerted": false,
@@ -212086,6 +212084,13 @@
       "title": "Lead Technical Program Manager",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210794121"
     },
+    "JPMorgan Chase:210794129": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600288+00:00",
+      "location": "Medina, OH, United States",
+      "title": "Relationship Banker - Medina - Medina, OH",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210794129"
+    },
     "JPMorgan Chase:210794136": {
       "alerted": false,
       "first_seen": "2026-09-28T20:29:20.594770+00:00",
@@ -212099,6 +212104,13 @@
       "location": "Columbus, OH, United States",
       "title": "Principal Software Engineer - Security Platforms",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210794140"
+    },
+    "JPMorgan Chase:210794142": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600331+00:00",
+      "location": "Boulder, CO, United States",
+      "title": "Part Time (20 Hours) Associate Banker, Gunbarrel Branch, Boulder, CO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210794142"
     },
     "JPMorgan Chase:210794147": {
       "alerted": false,
@@ -215166,13 +215178,6 @@
       "title": "Managing Consultant, Advisors & Consulting Services, Strategy & Transformation",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Hyderabad-India/Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-270117"
     },
-    "Mastercard:R-270125": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694786+00:00",
-      "location": "Cairo, Egypt",
-      "title": "Senior Managing Consultant \u2013 Strategy & Transformation, Advisors & Consulting Services",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Senior-Managing-Consultant---Strategy---Transformation--Advisors---Consulting-Services_R-270125"
-    },
     "Mastercard:R-270159": {
       "alerted": false,
       "first_seen": "2026-08-24T09:11:32.685591+00:00",
@@ -215600,6 +215605,13 @@
       "title": "Senior Software Engineer - Android",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Vadodara-India/Senior-Software-Engineer---Android_R-274233-1"
     },
+    "Mastercard:R-274320": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598160+00:00",
+      "location": "O'Fallon, Missouri",
+      "title": "Senior Software Engineer",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-274320"
+    },
     "Mastercard:R-274347": {
       "alerted": false,
       "first_seen": "2026-07-20T16:10:16.091639+00:00",
@@ -215921,6 +215933,13 @@
       "location": "Vadodara, India",
       "title": "Information Security Engineer II",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Vadodara-India/Information-Security-Engineer-II_R-275571"
+    },
+    "Mastercard:R-275650": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598194+00:00",
+      "location": "O'Fallon, Missouri",
+      "title": "Senior Software Engineer",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-275650"
     },
     "Mastercard:R-275667": {
       "alerted": false,
@@ -216460,13 +216479,6 @@
       "location": "3 Locations",
       "title": "Manager, Global Product Solutions",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Salt-Lake-City-Utah-Holladay/Manager--Global-Product-Solutions_R-277538"
-    },
-    "Mastercard:R-277591": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694583+00:00",
-      "location": "Dublin, Ireland",
-      "title": "Principal, Enterprise Operations",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Principal--Enterprise-Operations_R-277591"
     },
     "Mastercard:R-277616": {
       "alerted": false,
@@ -217252,13 +217264,6 @@
       "title": "Director, Account Management",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Santiago-Chile/Director--Account-Management_R-279722"
     },
-    "Mastercard:R-279736": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694908+00:00",
-      "location": "",
-      "title": "",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers"
-    },
     "Mastercard:R-279757": {
       "alerted": false,
       "first_seen": "2026-08-25T09:56:12.797899+00:00",
@@ -217413,13 +217418,6 @@
       "title": "Director, Product Experience Design",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Director--Product-Experience-Design_R-280164"
     },
-    "Mastercard:R-280167": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695048+00:00",
-      "location": "Pune, India",
-      "title": "Lead Software Engineer",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-280167-2"
-    },
     "Mastercard:R-280168": {
       "alerted": false,
       "first_seen": "2026-09-15T22:32:57.118831+00:00",
@@ -217545,13 +217543,6 @@
       "location": "Frankfurt, Germany",
       "title": "Senior Sales Representative, Specialist Sales",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Frankfurt-Germany/Senior-Sales-Representative--Specialist-Sales_R-280526-1"
-    },
-    "Mastercard:R-280547": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694981+00:00",
-      "location": "Singapore",
-      "title": "Senior Analyst, Franchise Network Standards",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Singapore/Senior-Analyst--Franchise-Network-Standards_R-280547"
     },
     "Mastercard:R-280580": {
       "alerted": false,
@@ -217720,13 +217711,6 @@
       "location": "O'Fallon, Missouri",
       "title": "Lead Software Engineer",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Lead-Software-Engineer_R-280823"
-    },
-    "Mastercard:R-280826": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694647+00:00",
-      "location": "Pune, India",
-      "title": "Data Scientist II",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Data-Scientist-II_R-280826"
     },
     "Mastercard:R-280832": {
       "alerted": false,
@@ -218554,13 +218538,6 @@
       "title": "Director, Product Management",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Director--Product-Management_R-281497"
     },
-    "Mastercard:R-281507": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694510+00:00",
-      "location": "London, England (Angel Lane)",
-      "title": "Director, SME Channel Partner Sales, Europe",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/London-England-Angel-Lane/Director--SME-Channel-Partner-Sales--Europe_R-281507"
-    },
     "Mastercard:R-281522": {
       "alerted": false,
       "first_seen": "2026-08-12T14:52:32.985645+00:00",
@@ -218805,13 +218782,6 @@
       "location": "Mexico City, Mexico",
       "title": "Manager, Product Management - AI",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Manager--Product-Management---AI_R-281769"
-    },
-    "Mastercard:R-281770": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694861+00:00",
-      "location": "Besiktas, Istanbul Turkey",
-      "title": "Director, Specialist Sales - SME",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Director--Specialist-Sales---SME_R-281770"
     },
     "Mastercard:R-281771": {
       "alerted": false,
@@ -219064,13 +219034,6 @@
       "location": "2 Locations",
       "title": "Manager, Employee Relation Services",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Manila-Philippines/Manager--Employee-Relation-Services_R-281981"
-    },
-    "Mastercard:R-281982": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.695119+00:00",
-      "location": "4 Locations",
-      "title": "Manager, Employee Relations Services",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Employee-Relations-Services_R-281982"
     },
     "Mastercard:R-281993": {
       "alerted": false,
@@ -230811,6 +230774,13 @@
       "title": "Senior Software Engineer",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-291613"
     },
+    "Mastercard:R-291630": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598227+00:00",
+      "location": "O'Fallon, Missouri",
+      "title": "Senior Software Engineer",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-291630"
+    },
     "Mastercard:R-291634": {
       "alerted": false,
       "first_seen": "2026-09-25T21:51:20.744054+00:00",
@@ -232364,13 +232334,6 @@
       "location": "Mumbai, India",
       "title": "US STIRT Trading Assistant, Associate/ Senior Associate, Fixed Income  Division",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/US-STIRT-Trading-Assistant_JR039364-1"
-    },
-    "Morgan Stanley:JR039365": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693409+00:00",
-      "location": "Mumbai, India",
-      "title": "ISO Power Flow,  Senior Associate/Manager, Fixed income Division",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/ISO-Power-Flow---Senior-Associate-Manager--Fixed-income-Division_JR039365"
     },
     "Morgan Stanley:JR039370": {
       "alerted": false,
@@ -236712,6 +236675,13 @@
       "title": "Trading Strategy & Research Associate",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Trading-Strategy---Research-Associate_JR044482-1"
     },
+    "Morgan Stanley:JR044490": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.592019+00:00",
+      "location": "",
+      "title": "",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External"
+    },
     "Morgan Stanley:JR044498": {
       "alerted": false,
       "first_seen": "2026-09-24T13:48:23.262609+00:00",
@@ -237307,13 +237277,6 @@
       "title": "Estate Planning Strategist, Vice President",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia-United-States-of-America/Estate-Planning-Strategist--VP_PT-JR036539"
     },
-    "Morgan Stanley:PT-JR036602": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693450+00:00",
-      "location": "Mumbai, India",
-      "title": "Capital & Data Risk - Executive Director - FRM",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Capital---Data-Risk--Executive-Director--FRM_PT-JR036602"
-    },
     "Morgan Stanley:PT-JR036630": {
       "alerted": false,
       "first_seen": "2026-07-21T20:16:54.496303+00:00",
@@ -237629,6 +237592,13 @@
       "title": "Java Tech Lead - Commodities Technology (Hybrid)",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Java-Tech-Lead---Commodities-Technology--Hybrid-_PT-JR039072"
     },
+    "Morgan Stanley:PT-JR039107": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.592103+00:00",
+      "location": "Budapest, Hungary",
+      "title": "Model Oversight Associate",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Model-Oversight-Associate_PT-JR039107"
+    },
     "Morgan Stanley:PT-JR039174": {
       "alerted": false,
       "first_seen": "2026-08-31T18:14:11.427347+00:00",
@@ -237936,13 +237906,6 @@
       "location": "Bengaluru, India",
       "title": "Java Developer_Director_Software Engineering",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Bengaluru-India/Dir--P4--Lead-Software-Eng---Job-Level---Director_PT-JR040005-1"
-    },
-    "Morgan Stanley:PT-JR040007": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693493+00:00",
-      "location": "Bengaluru, India",
-      "title": "Lead Data & Analytics -Vice President-Software Engineer",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Bengaluru-India/Lead-Data---Analytics--Vice-President-Software-Engineer_PT-JR040007-1"
     },
     "Morgan Stanley:PT-JR040053": {
       "alerted": false,
@@ -240835,6 +240798,13 @@
       "title": "Non-financial risk assessment - Director",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Non-financial-risk-assessment---Director_PT-JR042466"
     },
+    "Morgan Stanley:PT-JR042467": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.592068+00:00",
+      "location": "New York, New York, United States of America",
+      "title": "Capital & Data Risk / IM Risk (Risk Management) : Job Level - Vice President",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Capital---Data-Risk---IM-Risk--Risk-Management----Job-Level---Vice-President_PT-JR042467-1"
+    },
     "Morgan Stanley:PT-JR042477": {
       "alerted": false,
       "first_seen": "2026-08-20T20:35:58.990126+00:00",
@@ -242010,6 +241980,13 @@
       "location": "Purchase, New York, United States of America",
       "title": "GIMA Operational Due Diligence (OpDD) Vice President",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/GIMA-Operational-Due-Diligence--OpDD--Vice-President_PT-JR044478"
+    },
+    "Morgan Stanley:PT-JR044484": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.592141+00:00",
+      "location": "Montreal, Canada",
+      "title": "Data Governance & Quality Lead (Hybrid)",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/HR-Data-Governance---Quality-Lead--Hybrid-_PT-JR044484"
     },
     "Morgan Stanley:PT-JR044487": {
       "alerted": false,
@@ -245084,6 +245061,13 @@
       "title": "Software Engineer, SPE",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--SPE_JR2015623"
     },
+    "NVIDIA:JR2015633": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596131+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer \u2013 Networking Platforms, Diagnostics Tools and Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2015633"
+    },
     "NVIDIA:JR2015659": {
       "alerted": false,
       "first_seen": "2026-09-22T15:25:10.723636+00:00",
@@ -247408,6 +247392,13 @@
       "title": "Senior DL Compiler Engineer -CUDA Tile",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DL-Compiler-Engineer--CUDA-Tile_JR2019999"
     },
+    "NVIDIA:JR2020003": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596280+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director, Developer Marketing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003"
+    },
     "NVIDIA:JR2020007": {
       "alerted": false,
       "first_seen": "2026-09-09T21:12:45.201407+00:00",
@@ -247715,13 +247706,6 @@
       "location": "4 Locations",
       "title": "Principal Software Engineer, E2E Performance and Goodput \u2014 CSP Engagements",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer--E2E-Performance-and-Goodput---CSP-Engagements_JR2020321"
-    },
-    "NVIDIA:JR2020323": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694430+00:00",
-      "location": "4 Locations",
-      "title": "Solutions Architect, AI Factory Infrastructure",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Solutions-Architect--AI-Factory-Infrastructure_JR2020323"
     },
     "NVIDIA:JR2020330": {
       "alerted": false,
@@ -248164,20 +248148,6 @@
       "title": "Software QA Engineer, Switch BMC",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-QA-Engineer--Switch-BMC_JR2020681"
     },
-    "NVIDIA:JR2020683": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694241+00:00",
-      "location": "Vietnam, Ho Chi Minh City",
-      "title": "SWQA Test Developer, SDET",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/SWQA-Test-Developer--SDET_JR2020683"
-    },
-    "NVIDIA:JR2020684": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694157+00:00",
-      "location": "2 Locations",
-      "title": "DevOps Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Ukraine-Remote/DevOps-Engineer_JR2020684"
-    },
     "NVIDIA:JR2020693": {
       "alerted": false,
       "first_seen": "2026-07-08T21:01:29.718883+00:00",
@@ -248471,13 +248441,6 @@
       "location": "US, CA, Santa Clara",
       "title": "Site Reliability Engineer, Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Site-Reliability-Engineer--Cloud_JR2020831"
-    },
-    "NVIDIA:JR2020834": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.694343+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Senior Software Test Developer \u2013 DriveOS",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Test-Developer---DriveOS_JR2020834"
     },
     "NVIDIA:JR2020836": {
       "alerted": false,
@@ -254659,6 +254622,13 @@
       "location": "2 Locations",
       "title": "Senior Software Engineer, DGX Cloud Orchestration",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Orchestration_JR2022921"
+    },
+    "NVIDIA:JR2022922": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596244+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior High Speed SerDes Validation Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Speed-SerDes-Validation-Engineer_JR2022922"
     },
     "NVIDIA:JR2022928": {
       "alerted": false,
@@ -261338,6 +261308,13 @@
       "title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Engineer--Cosmo-3D-Spatial_JR2025745"
     },
+    "NVIDIA:JR2025747": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596316+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior Analog Layout Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Analog-Layout-Design-Engineer_JR2025747"
+    },
     "NVIDIA:JR2025748": {
       "alerted": false,
       "first_seen": "2026-09-16T23:48:32.453932+00:00",
@@ -261351,6 +261328,13 @@
       "location": "3 Locations",
       "title": "Networking QA and Automation Engineer, Network Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Networking-QA-and-Automation-Engineer--Network-Systems_JR2025751"
+    },
+    "NVIDIA:JR2025753": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596170+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, NeMo Core Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--NeMo-Core-Platform_JR2025753-1"
     },
     "NVIDIA:JR2025757": {
       "alerted": false,
@@ -261659,6 +261643,13 @@
       "location": "Israel, Yokneam",
       "title": "Software QA Engineer, Host BMC",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-QA-Engineer--Host-BMC_JR2025936"
+    },
+    "NVIDIA:JR2025937": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596205+00:00",
+      "location": "2 Locations",
+      "title": "Senior DFT Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DFT-Verification-Engineer_JR2025937"
     },
     "NVIDIA:JR2025956": {
       "alerted": false,
@@ -261995,6 +261986,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218"
+    },
+    "NVIDIA:JR2026227": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596076+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Product Marketing Manager, AI and Marketing Operations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager--AI-and-Marketing-Operations_JR2026227"
     },
     "NVIDIA:JR2026229": {
       "alerted": false,
@@ -262430,6 +262428,13 @@
       "title": "Growth Marketing, Creative System and Optimization",
       "url": "https://jobs.ashbyhq.com/openai/02ee1352-9c8f-4efc-8127-d8f4eaed4474"
     },
+    "OpenAI:0320cd25-ede1-4d25-8a61-65d801f1726e": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.593067+00:00",
+      "location": "San Francisco",
+      "title": "Research Lead, Policy Communications",
+      "url": "https://jobs.ashbyhq.com/openai/0320cd25-ede1-4d25-8a61-65d801f1726e"
+    },
     "OpenAI:0322d6d8-6588-4209-a304-83e768063a25": {
       "alerted": false,
       "first_seen": "2026-08-12T11:31:53.828646+00:00",
@@ -262667,13 +262672,6 @@
       "location": "San Francisco",
       "title": "Machine Learning Data Scientist, Forecasting",
       "url": "https://jobs.ashbyhq.com/openai/0b57e309-426d-4f5c-a28c-6dd941b84703"
-    },
-    "OpenAI:0b80474f-6438-4b41-94e4-0e653c7e3457": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693927+00:00",
-      "location": "Dublin, Ireland",
-      "title": "Customer Success Manager - Ads Solutions",
-      "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457"
     },
     "OpenAI:0b9e565a-ae5f-40fc-8350-b59f71f76df1": {
       "alerted": false,
@@ -262996,6 +262994,13 @@
       "location": "San Francisco",
       "title": "Software Engineer, Productivity - Networking",
       "url": "https://jobs.ashbyhq.com/openai/17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5"
+    },
+    "OpenAI:186bf7d1-0531-47fc-8e81-4429cbd3b5cb": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.596031+00:00",
+      "location": "Ontario - Remote",
+      "title": "AI Support Engineer - Toronto (Weekend Shift) ",
+      "url": "https://jobs.ashbyhq.com/openai/186bf7d1-0531-47fc-8e81-4429cbd3b5cb"
     },
     "OpenAI:18a60850-cf8b-4374-a214-ef78b9712deb": {
       "alerted": false,
@@ -263934,6 +263939,13 @@
       "location": "San Francisco",
       "title": "Platform Product Partnerships Lead",
       "url": "https://jobs.ashbyhq.com/openai/32a314f3-17d6-4f94-ba1b-88076d9ac4f4"
+    },
+    "OpenAI:32ca0028-c12d-4def-a200-946ec8d4ea5f": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.593529+00:00",
+      "location": "San Francisco",
+      "title": "Technical Program Manager, Hardware Systems",
+      "url": "https://jobs.ashbyhq.com/openai/32ca0028-c12d-4def-a200-946ec8d4ea5f"
     },
     "OpenAI:3302ceaf-f6ca-4803-9846-7fff7ad48a0d": {
       "alerted": true,
@@ -266140,6 +266152,13 @@
       "title": "Applied Risk Standards Specialist",
       "url": "https://jobs.ashbyhq.com/openai/74b9aa04-0b9d-459a-9e2d-0e43fae67a79"
     },
+    "OpenAI:74be2291-5744-40fd-9c65-7a4a516ebd48": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.594020+00:00",
+      "location": "Dublin, Ireland",
+      "title": "Integrated Marketing Manager, EMEA",
+      "url": "https://jobs.ashbyhq.com/openai/74be2291-5744-40fd-9c65-7a4a516ebd48"
+    },
     "OpenAI:74dfcc9f-f15b-43cf-bf60-bb03690c238e": {
       "alerted": false,
       "first_seen": "2026-08-25T21:34:30.432176+00:00",
@@ -267393,6 +267412,13 @@
       "title": "Software Engineer, API Safety",
       "url": "https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145"
     },
+    "OpenAI:9909555b-3dc4-4ba2-859e-43eae7c97a34": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.594489+00:00",
+      "location": "San Francisco",
+      "title": "Software Engineer, Product Velocity",
+      "url": "https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34"
+    },
     "OpenAI:991948b7-0305-4125-bb9a-625f5bc24189": {
       "alerted": false,
       "first_seen": "2026-08-12T11:31:53.829064+00:00",
@@ -268148,6 +268174,13 @@
       "location": "San Francisco",
       "title": "Lead, Incidents & Escalations, User Operations",
       "url": "https://jobs.ashbyhq.com/openai/b0729478-f363-498e-a088-b659c40d4580"
+    },
+    "OpenAI:b073abb1-cf6c-4fd9-a318-732fdd2f1408": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.592655+00:00",
+      "location": "San Francisco",
+      "title": "Platform Engineering Manager, Forward Deployed Engineering (FDE)",
+      "url": "https://jobs.ashbyhq.com/openai/b073abb1-cf6c-4fd9-a318-732fdd2f1408"
     },
     "OpenAI:b08126cc-8134-45f0-aeb3-4b00e96547de": {
       "alerted": false,
@@ -269240,6 +269273,13 @@
       "location": "Poland - Remote",
       "title": "Policy and Partnerships Lead CEE and Baltics, Global Affairs",
       "url": "https://jobs.ashbyhq.com/openai/d1a10222-51ae-4fa4-9581-e4586917c024"
+    },
+    "OpenAI:d1a1ab49-399f-42a4-b12c-bb7047b7cdd9": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.595535+00:00",
+      "location": "San Francisco",
+      "title": "Product Marketing Manager",
+      "url": "https://jobs.ashbyhq.com/openai/d1a1ab49-399f-42a4-b12c-bb7047b7cdd9"
     },
     "OpenAI:d1c6cb87-a44d-4d04-92a8-dc40eccd090e": {
       "alerted": false,
@@ -270570,6 +270610,13 @@
       "location": "San Francisco",
       "title": "RE/RS, Data Understanding - Foundations",
       "url": "https://jobs.ashbyhq.com/openai/f9731ef2-9b8a-49ec-95ca-ecef35fa996a"
+    },
+    "OpenAI:f9c64ecf-d52a-44f0-9d9f-99575ae80d7f": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.595016+00:00",
+      "location": "Washington, DC",
+      "title": "Program Manager, Government Trusted Access",
+      "url": "https://jobs.ashbyhq.com/openai/f9c64ecf-d52a-44f0-9d9f-99575ae80d7f"
     },
     "OpenAI:f9da623f-b16e-496d-ae06-056132b01ff7": {
       "alerted": false,
@@ -274071,6 +274118,13 @@
       "title": "",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
     },
+    "PayPal:R0138171": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.598267+00:00",
+      "location": "4 Locations",
+      "title": "Director, Debit & Money Management Engineering",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Debit---Money-Management-Engineering_R0138171-1"
+    },
     "PayPal:R0138181": {
       "alerted": false,
       "first_seen": "2026-09-18T00:49:02.429554+00:00",
@@ -277193,6 +277247,27 @@
       "title": "TLS | Beca Fiscal TRS Santander",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Santander/TLS---Beca-Fiscal-TRS-Santander_742100WD"
     },
+    "PwC (Campus):742239WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600368+00:00",
+      "location": "Prague",
+      "title": "Data analyst - Technology Consulting",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Prague/Junior-BI-Data-analyst---Technology-Consulting_742239WD"
+    },
+    "PwC (Campus):742242WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600400+00:00",
+      "location": "Prague",
+      "title": "Data Engineer Intern",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Prague/Datov-internship-v-Technology-Consultingu_742242WD-1"
+    },
+    "PwC (Campus):742247WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600437+00:00",
+      "location": "Prague",
+      "title": "Data engineer - Technology consulting",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Prague/Data-engineer---Technology-consulting_742247WD"
+    },
     "PwC (Campus):742250WD": {
       "alerted": false,
       "first_seen": "2026-09-24T13:48:23.269375+00:00",
@@ -277200,61 +277275,12 @@
       "title": "Senior Data Analyst",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Prague/Senior-Data-Analyst_742250WD"
     },
-    "PwC (Campus):742311WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195229+00:00",
-      "location": "Singapore",
-      "title": "Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD"
-    },
-    "PwC (Campus):742320WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195186+00:00",
-      "location": "Singapore",
-      "title": "Finance - Record-to-Report Off-Cycle Internship (Jan - Jun 27)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Finance---Record-to-Report-Off-Cycle-Internship--Jan---Jun-27-_742320WD"
-    },
-    "PwC (Campus):742321WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195141+00:00",
-      "location": "Singapore",
-      "title": "Finance - Procure-to-Pay Off-Cycle Internship (Jan - Jun 27)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Finance---Procure-to-Pay-Off-Cycle-Internship--Jan---Jun-27-_742321WD"
-    },
-    "PwC (Campus):742322WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195098+00:00",
-      "location": "Singapore - Marina One",
-      "title": "Finance - Finance Data & Systems Off-Cycle Internship (Jan - Jun 27)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore---Marina-One/Finance---Finance-Data---Systems-Off-Cycle-Internship--Jan---Jun-27-_742322WD"
-    },
-    "PwC (Campus):742323WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195051+00:00",
-      "location": "Singapore",
-      "title": "Finance - Order-to-Cash Off-Cycle Internship (Jan - Jun 27)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Finance---Order-to-Cash-Off-Cycle-Internship--Jan---Jun-27-_742323WD"
-    },
     "PwC (Campus):742325WD": {
       "alerted": false,
       "first_seen": "2026-07-14T05:53:46.172283+00:00",
       "location": "Penang",
       "title": "Intern - Assurance (January - April 2027 intake)",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Penang/Intern---Assurance--January---April-2027-intake-_742325WD-1"
-    },
-    "PwC (Campus):742326WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195008+00:00",
-      "location": "Singapore",
-      "title": "Global Technology Solutions - Business Solutions (ServiceNow) Off-Cycle Internship (Jan - Jun 27)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Global-Technology-Solutions---Business-Solutions--ServiceNow--Off-Cycle-Internship--Jan---Jun-27-_742326WD"
-    },
-    "PwC (Campus):742329WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.194955+00:00",
-      "location": "Singapore",
-      "title": "Global Technology Solutions - End User Device Management Poly Internship (Mar - Aug 27)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Singapore/Global-Technology-Solutions---End-User-Device-Management-Poly-Internship--Mar---Aug-27-_742329WD"
     },
     "PwC (Campus):742349WD": {
       "alerted": false,
@@ -284172,13 +284198,6 @@
       "title": "Manager/Sr. Manager - SAP - Consulting",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Manager-Sr-Manager---SAP---Consulting_520023WD"
     },
-    "PwC (Experienced):522467WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195530+00:00",
-      "location": "Tainan",
-      "title": "\u5be9\u8a08\u985e(\u53f0\u5357)-\u5be9\u8a08\u54e1/\u8cc7\u6df1\u5be9\u8a08\u54e1",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Tainan/A-----ST-_522467WD"
-    },
     "PwC (Experienced):523796WD": {
       "alerted": false,
       "first_seen": "2026-09-24T13:48:23.270006+00:00",
@@ -284577,27 +284596,6 @@
       "location": "Taipei",
       "title": "\u8cc7\u8a0a\u985e-\u9867\u554f/\u8cc7\u6df1\u9867\u554f(\u7cfb\u7d71\u5168\u7aef\u5de5\u7a0b\u5e2b)",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Taipei/---_644334WD"
-    },
-    "PwC (Experienced):644498WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195415+00:00",
-      "location": "Singapore",
-      "title": "General Assurance - Experience Associate",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Singapore/General-Assurance---Experience-Associate_644498WD"
-    },
-    "PwC (Experienced):644509WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195457+00:00",
-      "location": "Singapore - Marina One",
-      "title": "General Assurance \u2013 Senior Associate",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Singapore---Marina-One/General-Assurance---Senior-Associate_644509WD"
-    },
-    "PwC (Experienced):644524WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195495+00:00",
-      "location": "Singapore - Marina One",
-      "title": "General Assurance - Assistant Manager",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Singapore---Marina-One/General-Assurance---Assistant-Manager_644524WD"
     },
     "PwC (Experienced):644754WD": {
       "alerted": false,
@@ -286699,6 +286697,13 @@
       "title": "IN_Senior Associate_Azure DE_Data & Analytics_Advisory_PAN India",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-Azure-DE-Data---Analytics-Advisory-PAN-India_714931WD-1"
     },
+    "PwC (Experienced):715046WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600801+00:00",
+      "location": "S\u00e3o Paulo",
+      "title": "Consultor S\u00eanior de Riscos | Senior Associate",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/So-Paulo/Consultor-Snior-de-Riscos---Senior-Associate_715046WD"
+    },
     "PwC (Experienced):715054WD": {
       "alerted": false,
       "first_seen": "2026-08-19T14:38:48.654021+00:00",
@@ -287595,26 +287600,12 @@
       "title": "IN_Senior Associate_ SAP CPI_SAP_Advisory_Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Manager-SAP-EWM-SAP-Advisory-Mumbai_721656WD-1"
     },
-    "PwC (Experienced):721701WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697300+00:00",
-      "location": "Gurugram 10 C",
-      "title": "IN_Senior Associate_Azure DevOps  _Digital Integration_Advisory_Gurgaon",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-Azure-DevOps---Digital-Integration-Advisory-Kolkata_721701WD-2"
-    },
     "PwC (Experienced):721704WD": {
       "alerted": false,
       "first_seen": "2026-08-28T22:38:54.444061+00:00",
       "location": "Prague",
       "title": "SOC Analyst",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Prague/SOC-Analyst_721704WD-2"
-    },
-    "PwC (Experienced):721706WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697256+00:00",
-      "location": "Bengaluru Millenia",
-      "title": "IN_Senior Associate_Azure DevOps  _Digital Integration_Advisory_Bangalore",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-DevOps---Digital-Integration-Advisory-Kolkata_721706WD-1"
     },
     "PwC (Experienced):721707WD": {
       "alerted": false,
@@ -287714,20 +287705,6 @@
       "title": "Government and Public Sector Operations, Associate",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Ottawa/Government-and-Public-Sector--Digital-Operations--Associate_722071WD-3"
     },
-    "PwC (Experienced):722153WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697380+00:00",
-      "location": "Bengaluru Millenia",
-      "title": "IN-Sr Associate _SAP IBP _Enterprise APP SAP  - Advisory -Pan India",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate--SAP-IBP--Enterprise-APP-SAP----Advisory--Pan-India_722153WD-1"
-    },
-    "PwC (Experienced):722154WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697422+00:00",
-      "location": "Bengaluru Millenia",
-      "title": "IN-Sr Associate _SAP IBP _Enterprise APP SAP  - Advisory -Pan India",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate--SAP-IBP--Enterprise-APP-SAP----Advisory--Pan-India_722154WD-1"
-    },
     "PwC (Experienced):722156WD": {
       "alerted": false,
       "first_seen": "2026-07-22T11:27:21.189359+00:00",
@@ -287741,13 +287718,6 @@
       "location": "Bengaluru Millenia",
       "title": "IN-Senior Associate _ SAP CPI  _Enterprise APP SAP  - Advisory_Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate--SAP-IBP--Enterprise-APP-SAP----Advisory--Pan-India_722157WD-1"
-    },
-    "PwC (Experienced):722206WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697209+00:00",
-      "location": "Bengaluru Millenia",
-      "title": "IN_Associate_SAP TM_Enterprise Apps-SAP_Advisory_Banagalore",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Manager-SAP-TM-Enterprise-Apps-SAP-Advisory-Banagalore_722206WD-1"
     },
     "PwC (Experienced):722217WD": {
       "alerted": false,
@@ -288218,13 +288188,6 @@
       "title": "IN_ Senior Associate_ MERN Developer ( React&Node) _GCC_Advisory_ Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_724040WD-1"
     },
-    "PwC (Experienced):724041WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195278+00:00",
-      "location": "Bengaluru Millenia",
-      "title": "IN_ Senior Associate_ MERN Developer ( React&Node) _GCC_Advisory_ Bangalore",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN--Senior-Associate--MERN-Developer---React-Node---GCC-Advisory--Bangalore_724041WD-1"
-    },
     "PwC (Experienced):724048WD": {
       "alerted": false,
       "first_seen": "2026-07-17T12:51:49.832389+00:00",
@@ -288308,13 +288271,6 @@
       "location": "Bengaluru Millenia",
       "title": "IN_Senior Associate_Lending, Digital transformation_FS Tech_Advisory_Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Lending--Digital-transformation-FS-Tech-Advisory-Mumbai_724553WD-2"
-    },
-    "PwC (Experienced):724554WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195326+00:00",
-      "location": "Mumbai Shivaji Park",
-      "title": "IN_Senior Associate_Lending, Digital transformation_FS Tech_Advisory_Mumbai",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-Lending--Digital-transformation-FS-Tech-Advisory-Mumbai_724554WD-1"
     },
     "PwC (Experienced):724555WD": {
       "alerted": false,
@@ -288631,13 +288587,6 @@
       "title": "IN_Senior Associate_Oracle Fusion Technical_Oracle_Advisory_Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Oracle-Apex-Oracle-Advisory-Bangalore_725881WD-1"
     },
-    "PwC (Experienced):725890WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697477+00:00",
-      "location": "Gurugram 8 B",
-      "title": "IN_Sr Associate_Business Analyst/PMO \u2013 Consumer Packaged Goods (CPG)_D&A_Advisory_Gurgaon",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Python-Data-and-Analytics-Advisory-Bangalore_725890WD-1"
-    },
     "PwC (Experienced):725892WD": {
       "alerted": false,
       "first_seen": "2026-09-18T09:52:14.443322+00:00",
@@ -288651,6 +288600,13 @@
       "location": "Ribeir\u00e3o Preto",
       "title": "Assistente de Auditoria | Associate 2",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Ribeiro-Preto/Assistente-de-Auditoria---Associate-2_725905WD-1"
+    },
+    "PwC (Experienced):725910WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600676+00:00",
+      "location": "BA - Rio de Janeiro",
+      "title": "Auditor S\u00eanior | Senior Associate",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/BA---Rio-de-Janeiro/Auditor-Snior---Senior-Associate_725910WD-1"
     },
     "PwC (Experienced):725935WD": {
       "alerted": false,
@@ -288700,13 +288656,6 @@
       "location": "Kingston",
       "title": "Assurance Intern",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Kingston/Assurance-Intern_726009WD"
-    },
-    "PwC (Experienced):726111WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195377+00:00",
-      "location": "Noida",
-      "title": "IN_Senior Associate_Junior Data Engineer\u202f_Data& Analytics_Advisory_Noida",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Noida/IN-Manager-QA-Automation-Lead--Data--Analytics-Advisory-Bangalore_726111WD-1"
     },
     "PwC (Experienced):726113WD": {
       "alerted": false,
@@ -288840,13 +288789,6 @@
       "location": "Bengaluru Millenia",
       "title": "IN-Senior Associate_Industrial Decarbonisation_Decarbonization_Advisory_Bangalore",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Manager-Industrial-Decarbonisation-Decarbonization-Advisory-Gurgaon_726810WD-1"
-    },
-    "PwC (Experienced):726931WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T05:36:01.195573+00:00",
-      "location": "Wellington - NZL",
-      "title": "Assurance \u2013 Wellington \u2013 Senior Manager",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Wellington---NZL/Assurance---Wellington---Senior-Manager_726931WD"
     },
     "PwC (Experienced):726962WD": {
       "alerted": false,
@@ -291417,6 +291359,13 @@
       "title": "Consulting - Finance, Economics and Analytics - Manager",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Wellington---NZL/Consulting---Finance--Economics-and-Analytics---Manager_740224WD"
     },
+    "PwC (Experienced):740235WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600884+00:00",
+      "location": "Bengaluru Millenia",
+      "title": "IN_Senior Associate_Financial Due Diligence_Transaction Services_Advisory_Bangalore",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---Financial-Due-Diligence-Transaction-Services-Advisory-Gurgaon_740235WD-1"
+    },
     "PwC (Experienced):740363WD": {
       "alerted": false,
       "first_seen": "2026-07-07T04:18:44.866811+00:00",
@@ -291816,13 +291765,6 @@
       "title": "QA Engineer",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Tunis---Immeuble-The-Screen/QA-Engineer_742128WD"
     },
-    "PwC (Experienced):742153WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697165+00:00",
-      "location": "Barcelona",
-      "title": "Conusltor\u00eda | Senior Associate - IA & Analytics Barcelona",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Barcelona/Conusltora---Senior-Associate---IA---Analytics-Barcelona_742153WD"
-    },
     "PwC (Experienced):742194WD": {
       "alerted": false,
       "first_seen": "2026-07-06T09:38:48.697914+00:00",
@@ -292116,13 +292058,6 @@
       "location": "Gurugram Downtown 4",
       "title": "IN_Senior Associate_Internal Audit_Internal audit services_Advisory_Gurgaon",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-Internal-Audit-Internal-audit-services-Advisory-Gurgaon_742407WD-1"
-    },
-    "PwC (Experienced):742413WD": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.697334+00:00",
-      "location": "Athens",
-      "title": "Data Business Analyst",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Athens/Data-Business-Analyst_742413WD"
     },
     "PwC (Experienced):742417WD": {
       "alerted": false,
@@ -312375,6 +312310,13 @@
       "title": "Senior de Auditor\u00eda Financiera",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Quito/Senior-de-Auditora-Financiera_754028WD"
     },
+    "PwC (Experienced):754043WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600490+00:00",
+      "location": "Campinas",
+      "title": "Assistente de Riscos e Controles Internos J\u00fanior - Campinas / Ribeir\u00e3o Preto\u00a0 | Associate 2",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Campinas/Assistente-de-Riscos-e-Controles-Internos-Jnior---Campinas---Ribeiro-Preto----Associate-2_754043WD-1"
+    },
     "PwC (Experienced):754046WD": {
       "alerted": false,
       "first_seen": "2026-09-13T15:04:35.785788+00:00",
@@ -322707,6 +322649,34 @@
       "title": "Test Manager \u2013 Technology Consulting (German Projects) (m/f)",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bratislava/Test-Manager---Technology-Consulting--German-Projects---m-f-_764394WD-1"
     },
+    "PwC (Experienced):764476WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600636+00:00",
+      "location": "S\u00e3o Paulo",
+      "title": "Assistente de Auditoria Externa - Rio de Janeiro | Associate",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/So-Paulo/Assistente-de-Auditoria-Externa---Rio-de-Janeiro---Associate_764476WD-1"
+    },
+    "PwC (Experienced):764477WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600526+00:00",
+      "location": "S\u00e3o Paulo",
+      "title": "Auditor Externo - S\u00e3o Paulo",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/So-Paulo/Auditor-Externo---So-Paulo_764477WD-1"
+    },
+    "PwC (Experienced):764484WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600720+00:00",
+      "location": "BA - Rio de Janeiro",
+      "title": "Assistente de Auditoria - Rio de Janeiro | Senior Associate",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/BA---Rio-de-Janeiro/Assistente-de-Auditoria---Rio-de-Janeiro---Senior-Associate_764484WD-1"
+    },
+    "PwC (Experienced):764485WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600761+00:00",
+      "location": "BA - Rio de Janeiro",
+      "title": "Auditor Externo - Rio de Janeiro | Senior Associate",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/BA---Rio-de-Janeiro/Auditor-Externo---Rio-de-Janeiro---Senior-Associate_764485WD-1"
+    },
     "PwC (Experienced):764520WD": {
       "alerted": false,
       "first_seen": "2026-09-28T06:14:18.830707+00:00",
@@ -322748,6 +322718,20 @@
       "location": "Patras - 11 Othonos Amalias & 2A, Karolou",
       "title": "Delivery Lead in Patras Office",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Patras---11-Othonos-Amalias--2A-Karolou/Delivery-Lead-in-Patras-Office_764668WD"
+    },
+    "PwC (Experienced):764714WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600835+00:00",
+      "location": "Guayaquil",
+      "title": "Gerente Auditor\u00eda Interna",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Guayaquil/Gerente-Auditora-Interna_764714WD"
+    },
+    "PwC (Experienced):764787WD": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.600563+00:00",
+      "location": "Lima",
+      "title": "Asistente de Auditor\u00eda Financiera",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Lima/Asistente-de-Auditora-Financiera_764787WD"
     },
     "PwC (Experienced):98730WD": {
       "alerted": false,
@@ -324632,13 +324616,6 @@
       "title": "Mid-Market Account Executive - Sweden",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Sweden---Stockholm/Mid-Market-Account-Executive---Sweden_JR342421"
     },
-    "Salesforce:JR342424": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693130+00:00",
-      "location": "United Kingdom - London",
-      "title": "Enterprise Account Executive - Aerospace & Defence",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Enterprise-Account-Executive---Automotive---Aerospace---Defence_JR342424-1"
-    },
     "Salesforce:JR342481": {
       "alerted": false,
       "first_seen": "2026-07-10T15:32:13.150048+00:00",
@@ -324736,13 +324713,6 @@
       "location": "Ireland - Dublin",
       "title": "Account Executive - SMB Eastern Europe - Lithuanian, Latvian or Estonian speaker",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Account-Executive---SMB-Eastern-Europe---Russian--Lithuanian--Latvian-or-Estonian-speaker_JR342886"
-    },
-    "Salesforce:JR342888": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.692926+00:00",
-      "location": "Ireland - Dublin",
-      "title": "Account Executive - SMB Eastern Europe - Lithuanian, Latvian or Estonian speaker",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Account-Executive---SMB-Eastern-Europe---Russian--Lithuanian--Latvian-or-Estonian-speaker_JR342888"
     },
     "Salesforce:JR342975": {
       "alerted": false,
@@ -325766,13 +325736,6 @@
       "title": "Director, Corporate Strategy",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Director--Corporate-Strategy_JR347724"
     },
-    "Salesforce:JR347741": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693007+00:00",
-      "location": "India - Mumbai - Remote",
-      "title": "Territory Account Executive - SMB",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Mumbai---Remote/Territory-Account-Executive---SMB_JR347741"
-    },
     "Salesforce:JR347761": {
       "alerted": false,
       "first_seen": "2026-09-02T11:19:11.942161+00:00",
@@ -325905,6 +325868,13 @@
       "location": "Colombia - Bogota",
       "title": "Senior Manager, Solutions Builder",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Colombia---Bogota/Senior-Manager--Solutions-Builder_JR348355"
+    },
+    "Salesforce:JR348387": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591849+00:00",
+      "location": "Chile - Santiago",
+      "title": "Portfolio Leader",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Chile---Santiago/Portfolio-Leader_JR348387"
     },
     "Salesforce:JR348408": {
       "alerted": false,
@@ -326374,13 +326344,6 @@
       "location": "India - Hyderabad",
       "title": "Manager, Accounting",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Manager--Accounting_JR349529"
-    },
-    "Salesforce:JR349533": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693046+00:00",
-      "location": "India - Mumbai",
-      "title": "Specialist Account Executive",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Mumbai/Specialist-Account-Executive_JR349533"
     },
     "Salesforce:JR349577": {
       "alerted": false,
@@ -326921,13 +326884,6 @@
       "title": "Solution Engineer Support Specialist - [\uc7a5\uc560\uc778\ucc44\uc6a9]",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Korea-Republic-of---Seoul/Solution-Engineer-Support-Specialist-----_JR350202"
     },
-    "Salesforce:JR350207": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693250+00:00",
-      "location": "Japan - Tokyo",
-      "title": "Regional Sales Director, Tableau",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Japan---Tokyo/Regional-Sales-Director--Tableau_JR350207"
-    },
     "Salesforce:JR350220": {
       "alerted": false,
       "first_seen": "2026-07-07T15:49:52.099448+00:00",
@@ -326962,13 +326918,6 @@
       "location": "Singapore - Singapore",
       "title": "Agentforce and Data 360 Account Executive",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Singapore---Singapore/Agentforce-and-Data-360-Account-Executive_JR350258"
-    },
-    "Salesforce:JR350260": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693292+00:00",
-      "location": "India - Bangalore",
-      "title": "Software Engineering SMTS- LLM Model building",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering-SMTS--LLM-Model-building_JR350260"
     },
     "Salesforce:JR350261": {
       "alerted": false,
@@ -327138,13 +327087,6 @@
       "title": "Named Account Executive",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Remote/Named-Account-Executive_JR350369"
     },
-    "Salesforce:JR350379": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693325+00:00",
-      "location": "2 Locations",
-      "title": "Account Executive",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Mumbai/Account-Executive_JR350379"
-    },
     "Salesforce:JR350380": {
       "alerted": false,
       "first_seen": "2026-07-06T23:01:14.086490+00:00",
@@ -327193,13 +327135,6 @@
       "location": "Denmark - Copenhagen",
       "title": "Sr Account Executive -  Manufacturing/Automotive/Energy - DK",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Denmark---Copenhagen/Sr-Account-Executive----Manufacturing-Automotive-Energy---DK_JR350423"
-    },
-    "Salesforce:JR350424": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.692967+00:00",
-      "location": "France - Remote",
-      "title": "Named Account Executive - Marseille",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Remote/Named-Account-Executive---Marseille_JR350424"
     },
     "Salesforce:JR350428": {
       "alerted": false,
@@ -327264,13 +327199,6 @@
       "title": "Informatica Account Executive",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/Informatica-Account-Executive_JR350465-1"
     },
-    "Salesforce:JR350467": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693363+00:00",
-      "location": "Japan - Tokyo",
-      "title": "Senior Lead - Workforce Intelligence",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Japan---Tokyo/Senior-Lead---Workforce-Intelligence_JR350467"
-    },
     "Salesforce:JR350468": {
       "alerted": false,
       "first_seen": "2026-07-10T04:10:25.747852+00:00",
@@ -327305,27 +327233,6 @@
       "location": "Netherlands - Amsterdam",
       "title": "Account Executive - Enterprise - Commerce Cloud - Netherlands",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Netherlands---Amsterdam/Account-Executive---Enterprise---Commerce-Cloud---Netherlands_JR350501"
-    },
-    "Salesforce:JR350507": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693212+00:00",
-      "location": "United Kingdom - London",
-      "title": "Enterprise Account Executive - Manufacturing",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Enterprise-Account-Executive---Manufacturing_JR350507"
-    },
-    "Salesforce:JR350508": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693172+00:00",
-      "location": "United Kingdom - London",
-      "title": "Enterprise Account Executive - Energy & Utilities",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Enterprise-Account-Executive---Energy---Utilities_JR350508"
-    },
-    "Salesforce:JR350510": {
-      "alerted": false,
-      "first_seen": "2026-07-06T09:38:48.693088+00:00",
-      "location": "United Kingdom - London",
-      "title": "Enterprise Account Executive - Automotive",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Enterprise-Account-Executive---Automotive_JR350510"
     },
     "Salesforce:JR350519": {
       "alerted": false,
@@ -332037,6 +331944,13 @@
       "location": "2 Locations",
       "title": "Software Engineering SMTS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS_JR354590"
+    },
+    "Salesforce:JR354592": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591817+00:00",
+      "location": "California - San Francisco",
+      "title": "Software Engineering MTS",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592"
     },
     "Salesforce:JR354598": {
       "alerted": false,
@@ -336917,6 +336831,13 @@
       "title": "Vice President, International Compensation",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Vice-President--International-Compensation_JR358452"
     },
+    "Salesforce:JR358458": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591527+00:00",
+      "location": "California - San Francisco",
+      "title": "Software Engineer- Infrastructure/Service Mesh",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--Infrastructure-Service-Mesh_JR358458"
+    },
     "Salesforce:JR358466": {
       "alerted": false,
       "first_seen": "2026-09-01T06:41:24.734369+00:00",
@@ -338982,6 +338903,13 @@
       "title": "Software Engineer II (Full-Stack)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1"
     },
+    "Salesforce:JR359981": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591888+00:00",
+      "location": "2 Locations",
+      "title": "Senior Director, Product Design - Ecosystem",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Director--Product-Design---Ecosystem_JR359981-1"
+    },
     "Salesforce:JR359983": {
       "alerted": false,
       "first_seen": "2026-09-15T16:52:50.370410+00:00",
@@ -340445,6 +340373,13 @@
       "title": "Named Account Executive (Enterprise) - Travel, Transport and Hospitality",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Named-Account-Executive--Enteprise----Travel--Transport-and-Hospitality_JR361222"
     },
+    "Salesforce:JR361226": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591924+00:00",
+      "location": "2 Locations",
+      "title": "Product Manager, Salesforce Platform",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Product-Manager--Salesforce-Platform_JR361226"
+    },
     "Salesforce:JR361238": {
       "alerted": false,
       "first_seen": "2026-09-28T20:29:20.575045+00:00",
@@ -340578,6 +340513,13 @@
       "title": "Senior Director, Integrated Campaigns Creative - Apps Creative",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Senior-Director--Integrated-Campaigns-Creative---Apps-Creative_JR361483"
     },
+    "Salesforce:JR361594": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591995+00:00",
+      "location": "Mexico - Mexico City",
+      "title": "Customer Success Manager, Senior Manager",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/Customer-Success-Manager--Senior-Manager_JR361594"
+    },
     "Salesforce:JR361618": {
       "alerted": false,
       "first_seen": "2026-09-25T08:56:28.890432+00:00",
@@ -340697,12 +340639,26 @@
       "title": "Sr Solution Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Remote/Sr-Solution-Engineer_JR361902-1"
     },
+    "Salesforce:JR361924": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591958+00:00",
+      "location": "Mexico - Mexico City",
+      "title": "Customer Success Manager",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/Customer-Success-Manager_JR361924"
+    },
     "Salesforce:JR361950": {
       "alerted": false,
       "first_seen": "2026-09-28T14:00:01.734049+00:00",
       "location": "4 Locations",
       "title": "Senior Technical Consultant - Revenue Cloud  / Consumer Goods (Open)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Revenue-Cloud----Consumer-Goods--Open-_JR361950"
+    },
+    "Salesforce:JR361961": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591652+00:00",
+      "location": "Ireland - Dublin",
+      "title": "Territory Account Executive - The Netherlands",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Territory-Account-Executive---The-Netherlands_JR361961"
     },
     "Salesforce:JR361967": {
       "alerted": false,
@@ -340738,6 +340694,34 @@
       "location": "Ireland - Dublin",
       "title": "Lead Incident Responder",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Lead-Incident-Responder_JR361983"
+    },
+    "Salesforce:JR362006": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591564+00:00",
+      "location": "United Kingdom - London",
+      "title": "Success Architect, Marketing Cloud",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Success-Architect--Marketing-Cloud_JR362006"
+    },
+    "Salesforce:JR362044": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591713+00:00",
+      "location": "Illinois - Chicago",
+      "title": "Small Business & Growth Business - Account Executive - Chicago",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Small-Business---Growth-Business---Account-Executive---Chicago_JR362044"
+    },
+    "Salesforce:JR362047": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591783+00:00",
+      "location": "Mexico - Mexico City",
+      "title": "Senior Technical Consultant",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/Senior-Technical-Consultant_JR362047"
+    },
+    "Salesforce:JR362050": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.591748+00:00",
+      "location": "Mexico - Mexico City",
+      "title": "Technical Architect",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/Technical-Architect_JR362050-1"
     },
     "Scale AI:4282118005": {
       "alerted": false,
@@ -349195,6 +349179,13 @@
       "title": "Account Executive, Product Sales, Metronome",
       "url": "https://stripe.com/jobs/search?gh_jid=8190042"
     },
+    "Stripe:8190044": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.589527+00:00",
+      "location": "US-San Francisco, US- New York, US-Remote",
+      "title": "Account Executive, Product - Issuing & Treasury (Grower)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8190044"
+    },
     "Stripe:8190046": {
       "alerted": false,
       "first_seen": "2026-09-26T04:58:04.185369+00:00",
@@ -349860,6 +349851,13 @@
       "title": "Data Scientist",
       "url": "https://stripe.com/jobs/search?gh_jid=8222149"
     },
+    "Stripe:8222219": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.590235+00:00",
+      "location": "South San Francisco",
+      "title": "Americas Field Marketing, AI",
+      "url": "https://stripe.com/jobs/search?gh_jid=8222219"
+    },
     "Stripe:8223719": {
       "alerted": false,
       "first_seen": "2026-09-22T19:01:10.229500+00:00",
@@ -350034,6 +350032,13 @@
       "location": "New York, San Francisco",
       "title": "Product Support Specialist",
       "url": "https://stripe.com/jobs/search?gh_jid=8236757"
+    },
+    "Stripe:8238098": {
+      "alerted": false,
+      "first_seen": "2026-09-29T00:29:25.589948+00:00",
+      "location": "US-San Francisco, US-New York, US-Remote",
+      "title": "Account Executive, Product - Issuing & Treasury (Hunter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8238098"
     },
     "Visa:744000129971988": {
       "alerted": false,
