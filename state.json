@@ -21462,6 +21462,20 @@
       "title": "Software Development Manager, AWS Just Walk Out",
       "url": "https://www.amazon.jobs/en/jobs/10575334/software-development-manager-aws-just-walk-out"
     },
+    "Amazon:10575340": {
+      "alerted": false,
+      "first_seen": "2026-10-10T08:33:39.225296+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10575340/software-development-engineer"
+    },
+    "Amazon:10575341": {
+      "alerted": false,
+      "first_seen": "2026-10-10T08:33:39.225354+00:00",
+      "location": "Sydney, New South Wales, AUS",
+      "title": "Delivery Consultant -Mainframe, AWS Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10575341/delivery-consultant-mainframe-aws-professional-services"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -118649,6 +118663,13 @@
       "location": "United States",
       "title": "Delivery Solutions Architect - High-Tech & Manufacturing",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549046002"
+    },
+    "Databricks:8549248002": {
+      "alerted": false,
+      "first_seen": "2026-10-10T08:33:39.224868+00:00",
+      "location": "Remote - California; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - New York; Remote - Oregon; Remote - Texas; Remote - Washington",
+      "title": "Delivery Solutions Architect - Startups & Emerging Enterprise",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549248002"
     },
     "Databricks:8549259002": {
       "alerted": false,
@@ -217406,13 +217427,6 @@
       "title": "Principal Software Engineer/Solution Architect",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Principal-Software-Engineer-Solution-Architect_R-278568-1"
     },
-    "Mastercard:R-278575": {
-      "alerted": false,
-      "first_seen": "2026-07-15T16:42:37.867453+00:00",
-      "location": "Oslo, Norway",
-      "title": "Manager, Product Manager \u2013 Technical",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Oslo-Norway/Manager--Product-Manager---Technical_R-278575"
-    },
     "Mastercard:R-278633": {
       "alerted": false,
       "first_seen": "2026-07-15T20:16:27.001040+00:00",
@@ -242683,6 +242697,13 @@
       "title": "Agentic AI Developer, Cybersecurity",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Agentic-AI-Developer--Cybersecurity_PT-JR044035"
     },
+    "Morgan Stanley:PT-JR044047": {
+      "alerted": false,
+      "first_seen": "2026-10-10T08:33:39.225404+00:00",
+      "location": "Greenwood Village, Colorado, United States of America",
+      "title": "Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR044047"
+    },
     "Morgan Stanley:PT-JR044048": {
       "alerted": false,
       "first_seen": "2026-10-01T23:28:16.806350+00:00",
@@ -248080,13 +248101,6 @@
       "title": "Senior Math Libraries Engineer - LLM Integration and Developer Experience",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Math-Libraries-Engineer---LLM-Integration-and-Developer-Experience_JR2019752-1"
     },
-    "NVIDIA:JR2019789": {
-      "alerted": false,
-      "first_seen": "2026-07-15T16:42:37.867349+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Foundry Development Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Foundry-Development-Engineer_JR2019789"
-    },
     "NVIDIA:JR2019791": {
       "alerted": false,
       "first_seen": "2026-09-11T22:01:13.852669+00:00",
@@ -248247,13 +248261,6 @@
       "location": "3 Locations",
       "title": "Senior Solution Engineer, Switch Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Solution-Engineer--Switch-Networking_JR2020027-1"
-    },
-    "NVIDIA:JR2020052": {
-      "alerted": false,
-      "first_seen": "2026-07-15T16:42:37.867313+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Senior IC Packaging Development Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-IC-Packaging-Development-Engineer_JR2020052"
     },
     "NVIDIA:JR2020068": {
       "alerted": false,
@@ -248416,13 +248423,6 @@
       "title": "Senior Mixed Signal Circuit Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Circuit-Design-Engineer_JR2020356"
     },
-    "NVIDIA:JR2020368": {
-      "alerted": false,
-      "first_seen": "2026-07-15T16:42:37.867375+00:00",
-      "location": "",
-      "title": "",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
-    },
     "NVIDIA:JR2020387": {
       "alerted": false,
       "first_seen": "2026-09-30T18:24:52.519553+00:00",
@@ -248436,13 +248436,6 @@
       "location": "China, Shenzhen",
       "title": "Senior PCB Fab Supplier and Quality Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-PCB-Fab-Supplier-and-Quality-Engineer_JR2020407"
-    },
-    "NVIDIA:JR2020414": {
-      "alerted": false,
-      "first_seen": "2026-07-15T16:42:37.867409+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Senior SMTA Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SMTA-Engineer_JR2020414"
     },
     "NVIDIA:JR2020416": {
       "alerted": false,
@@ -248541,13 +248534,6 @@
       "location": "US, CA, Santa Clara",
       "title": "Principal Software Engineer, Vehicle Dynamics Simulation - AV",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer--Vehicle-Dynamics-Simulation---AV_JR2020644-1"
-    },
-    "NVIDIA:JR2020648": {
-      "alerted": false,
-      "first_seen": "2026-07-15T16:42:37.867274+00:00",
-      "location": "2 Locations",
-      "title": "Senior Customer Program Manager - Software Platforms",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Program-Manager---Software-Platforms_JR2020648"
     },
     "NVIDIA:JR2020678": {
       "alerted": false,
@@ -248877,13 +248863,6 @@
       "location": "5 Locations",
       "title": "Senior Product Manager, AI Physics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Product-Manager--AI-Physics_JR2021069"
-    },
-    "NVIDIA:JR2021073": {
-      "alerted": false,
-      "first_seen": "2026-07-15T16:42:37.867231+00:00",
-      "location": "US, MI, Remote",
-      "title": "Senior Account Manager, Ford and Rivian",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/Senior-Account-Manager--Ford-and-Rivian_JR2021073"
     },
     "NVIDIA:JR2021077": {
       "alerted": false,
@@ -275099,6 +275078,13 @@
       "location": "Austin, Texas, United States of America",
       "title": "Insurance Risk Sr Analyst",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Insurance-Risk-Sr-Analyst_R0137944"
+    },
+    "PayPal:R0137949": {
+      "alerted": false,
+      "first_seen": "2026-10-10T08:33:39.225857+00:00",
+      "location": "Central Singapore, Singapore",
+      "title": "Staff Cybersecurity Threat Analyst",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Staff-Cybersecurity-Threat-Analyst_R0137949"
     },
     "PayPal:R0137954": {
       "alerted": false,
@@ -341215,6 +341201,13 @@
       "title": "Machine Learning Engineer, Platform",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711544005"
     },
+    "Scale AI:4711898005": {
+      "alerted": false,
+      "first_seen": "2026-10-10T08:33:39.225831+00:00",
+      "location": "San Francisco, CA; New York, NY; Washington, DC",
+      "title": "Senior Software Engineer, Identity",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005"
+    },
     "Scale AI:4712145005": {
       "alerted": false,
       "first_seen": "2026-09-30T13:04:23.625007+00:00",
@@ -345148,6 +345141,13 @@
       "location": "LOCATION",
       "title": "Solutions Architect, Enterprise (German fluency) ",
       "url": "https://stripe.com/jobs/search?gh_jid=8066953"
+    },
+    "Stripe:8067276": {
+      "alerted": false,
+      "first_seen": "2026-10-10T08:33:39.225243+00:00",
+      "location": "US, Remote",
+      "title": "Integrated Campaigns Manager - Stablecoins, Crypto, and Bridge",
+      "url": "https://stripe.com/jobs/search?gh_jid=8067276"
     },
     "Stripe:8068521": {
       "alerted": false,
