@@ -868,34 +868,6 @@
       "title": "Associate, ML Data Operations, GO-AI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10480127/associate-ml-data-operations-go-ai-operations"
     },
-    "Amazon:10480660": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.495520+00:00",
-      "location": "Minneapolis, Minnesota, USA",
-      "title": "Sr. Delivery Practice Manager - Application Modernization, AWS Professional Services",
-      "url": "https://www.amazon.jobs/en/jobs/10480660/sr-delivery-practice-manager-application-modernization-aws-professional-services"
-    },
-    "Amazon:10480677": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.495454+00:00",
-      "location": "London, England, GBR",
-      "title": "Applied Scientist, AWS Automated Reasoning",
-      "url": "https://www.amazon.jobs/en/jobs/10480677/applied-scientist-aws-automated-reasoning"
-    },
-    "Amazon:10480702": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.495584+00:00",
-      "location": "Palo Alto, California, USA",
-      "title": "Sr. Principal Applied Scientist, Advertising Full Funnel Agentic Intelligence",
-      "url": "https://www.amazon.jobs/en/jobs/10480702/sr-principal-applied-scientist-advertising-full-funnel-agentic-intelligence"
-    },
-    "Amazon:10480752": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.495393+00:00",
-      "location": "Seattle, Washington, USA",
-      "title": "Senior Software Eng, Amazon Robotics",
-      "url": "https://www.amazon.jobs/en/jobs/10480752/senior-software-eng-amazon-robotics"
-    },
     "Amazon:10480763": {
       "alerted": false,
       "first_seen": "2026-07-21T21:34:57.521363+00:00",
@@ -21931,6 +21903,13 @@
       "title": "Software Development Engineer - Amazon LEO Network Services, LEO Pop",
       "url": "https://www.amazon.jobs/en/jobs/10582047/software-development-engineer-amazon-leo-network-services-leo-pop"
     },
+    "Amazon:10582049": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.853933+00:00",
+      "location": "Irvine, California, USA",
+      "title": "Solutions Architect, Greenfield HCLS",
+      "url": "https://www.amazon.jobs/en/jobs/10582049/solutions-architect-greenfield-hcls"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -28769,6 +28748,13 @@
       "location": "San Francisco, CA | New York City, NY",
       "title": "Technical Program Manager, SOX Compliance",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453550008"
+    },
+    "Anthropic:5453573008": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.854835+00:00",
+      "location": "San Francisco, CA | New York City, NY | Washington, DC",
+      "title": "Policy Design Manager, Integrity and Authenticity",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453573008"
     },
     "Anthropic:5453809008": {
       "alerted": false,
@@ -119420,13 +119406,6 @@
       "title": "Sr. Forward Deployed Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002"
     },
-    "Databricks:8632282002": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.494862+00:00",
-      "location": "London, United Kingdom",
-      "title": "Director, International Communications",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632282002"
-    },
     "Databricks:8632383002": {
       "alerted": false,
       "first_seen": "2026-10-16T05:07:56.838573+00:00",
@@ -119678,13 +119657,6 @@
       "location": "United States",
       "title": "Geo Core Account Executive - Digital Natives",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641168002"
-    },
-    "Databricks:8641242002": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.495331+00:00",
-      "location": "Madrid",
-      "title": "Sr. Solutions Architect Madrid Spain",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641242002"
     },
     "Databricks:8641388002": {
       "alerted": false,
@@ -212212,6 +212184,20 @@
       "title": "Credit Ops Analyst I - Commercial Credit Card Lending",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800350"
     },
+    "JPMorgan Chase:210800351": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.854894+00:00",
+      "location": "Centennial, CO, United States",
+      "title": "Associate Relationship Banker - Metro Southwest Market - Centennial, CO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800351"
+    },
+    "JPMorgan Chase:210800353": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.854942+00:00",
+      "location": "Lakewood, CO, United States",
+      "title": "Branch Operations Lead - Metro Southwest Market - Lakewood, CO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800353"
+    },
     "JPMorgan Chase:210800354": {
       "alerted": false,
       "first_seen": "2026-10-14T17:10:09.145214+00:00",
@@ -212267,6 +212253,13 @@
       "location": "Casa Grande, AZ, United States",
       "title": "Branch Manager, Southeast Valley, AZ; Casa Grande/Eloy/Maricopa/Arizona City areas",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800410"
+    },
+    "JPMorgan Chase:210800411": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.854990+00:00",
+      "location": "Silverthorne, CO, United States",
+      "title": "Associate Relationship Banker - Silverthorne/Vail/Avon - CO METRO NORTH",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800411"
     },
     "JPMorgan Chase:210800414": {
       "alerted": false,
@@ -212548,6 +212541,13 @@
       "title": "J.P. Morgan Wealth Management - Private Client Investment Associate - Warren, MI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800621"
     },
+    "JPMorgan Chase:210800622": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.855038+00:00",
+      "location": "South Ogden, UT, United States",
+      "title": "Associate Relationship Banker - South Ogden - South Ogden, UT",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800622"
+    },
     "JPMorgan Chase:210800630": {
       "alerted": false,
       "first_seen": "2026-10-15T15:59:50.834084+00:00",
@@ -212694,6 +212694,13 @@
       "location": "Columbus, OH, United States",
       "title": "Product Manager, Vice President - Deposits 2.0 AI Enablement",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800768"
+    },
+    "JPMorgan Chase:210800789": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.855084+00:00",
+      "location": "Denver, CO, United States",
+      "title": "Associate Relationship Banker - Broadway & Dakota - Denver, CO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800789"
     },
     "JPMorgan Chase:210800802": {
       "alerted": false,
@@ -212905,6 +212912,13 @@
       "title": "Trade Support Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800964"
     },
+    "JPMorgan Chase:210800967": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.855129+00:00",
+      "location": "Highlands Ranch, CO, United States",
+      "title": "Private Client Banker - Highlands Ranch - Highlands Ranch, CO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800967"
+    },
     "JPMorgan Chase:210800971": {
       "alerted": false,
       "first_seen": "2026-10-16T14:17:24.205929+00:00",
@@ -212919,6 +212933,13 @@
       "title": "Associate- Dining Manager",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800984"
     },
+    "JPMorgan Chase:210800996": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.855175+00:00",
+      "location": "Lone Tree, CO, United States",
+      "title": "Branch Operations Lead - Metro Southeast Market - Lone Tree, CO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800996"
+    },
     "JPMorgan Chase:210801004": {
       "alerted": false,
       "first_seen": "2026-10-16T18:08:55.904284+00:00",
@@ -212932,6 +212953,13 @@
       "location": "Brooklyn, NY, United States",
       "title": "Global Clearing Product Control \u2013 Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210801005"
+    },
+    "JPMorgan Chase:210801008": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.855218+00:00",
+      "location": "Lakewood, CO, United States",
+      "title": "Private Client Banker - Metro Southwest - Lakewood, CO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210801008"
     },
     "JPMorgan Chase:210801009": {
       "alerted": false,
@@ -213107,6 +213135,13 @@
       "location": "Region Metropolitana de Santiago, Chile",
       "title": "Finance Capital, Liquidity and Product Legal Entity Controller - Associate - Chile Branch",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210801333"
+    },
+    "JPMorgan Chase:210801555": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.855258+00:00",
+      "location": "Los Angeles, CA, United States",
+      "title": "Senior Home Lending Advisor - Los Angeles CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210801555"
     },
     "Jane Street:4273643002": {
       "alerted": false,
@@ -231476,6 +231511,13 @@
       "title": "Analyst, Product Delivery",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Analyst--Product-Delivery_R-293369"
     },
+    "Mastercard:R-293374": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.854054+00:00",
+      "location": "2 Locations",
+      "title": "Director, Center for Inclusive Growth - Tech for Good",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Director--Center-for-Inclusive-Growth---Tech-for-Good_R-293374-1"
+    },
     "Mastercard:R-293375": {
       "alerted": false,
       "first_seen": "2026-10-14T17:10:09.146605+00:00",
@@ -244950,6 +244992,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Solutions Architect, Inference Deployments",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Inference-Deployments_JR2014105"
+    },
+    "NVIDIA:JR2014127": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.854005+00:00",
+      "location": "4 Locations",
+      "title": "Senior HPC and LSF Operations Engineer - EDA Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-and-LSF-Operations-Engineer_JR2014127"
     },
     "NVIDIA:JR2014130": {
       "alerted": false,
@@ -289590,13 +289639,6 @@
       "title": "Tax Corporate Senior Associate - Milano [TAX]",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Milan/Tax-Corporate-Manager---Milano--TAX-_723505WD"
     },
-    "PwC (Experienced):723553WD": {
-      "alerted": false,
-      "first_seen": "2026-07-21T18:55:50.764547+00:00",
-      "location": "Cairo - ETIC",
-      "title": "ETIC, Account Manager - Manager",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Account-Manager---Manager_723553WD"
-    },
     "PwC (Experienced):723663WD": {
       "alerted": false,
       "first_seen": "2026-09-22T15:25:10.730561+00:00",
@@ -293405,34 +293447,6 @@
       "title": "People Ops - Recruitment Services - Specialist",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Buenos-Aires/People-Ops---Recruitment-Services---Specialist_745413WD-1"
     },
-    "PwC (Experienced):745464WD": {
-      "alerted": false,
-      "first_seen": "2026-07-21T18:55:50.764490+00:00",
-      "location": "Gurugram 8 B",
-      "title": "IN_Senior Associate_SAP FICO_SAP_Advisory_Gurgaon",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-SAP-FICO-SAP-Advisory-Gurgaon_745464WD-1"
-    },
-    "PwC (Experienced):745467WD": {
-      "alerted": false,
-      "first_seen": "2026-07-21T18:55:50.764518+00:00",
-      "location": "Gurugram 8 B",
-      "title": "IN_Senior Associate_SAP FICO_SAP_Advisory_Gurgaon",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-SAP-FICO-SAP-Advisory-Gurgaon_745467WD-1"
-    },
-    "PwC (Experienced):745468WD": {
-      "alerted": false,
-      "first_seen": "2026-07-21T18:55:50.764461+00:00",
-      "location": "Gurugram 8 B",
-      "title": "IN_Senior Associate_SAP FICO_SAP_Advisory_Gurgaon",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-SAP-FICO-SAP-Advisory-Gurgaon_745468WD-1"
-    },
-    "PwC (Experienced):745473WD": {
-      "alerted": false,
-      "first_seen": "2026-07-21T18:55:50.764432+00:00",
-      "location": "Gurugram 8 B",
-      "title": "IN_Senior Associate_SAP FICO_SAP_Advisory_Gurgaon",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-SAP-FICO-SAP-Advisory-Gurgaon_745473WD-1"
-    },
     "PwC (Experienced):745474WD": {
       "alerted": false,
       "first_seen": "2026-07-21T20:16:54.500450+00:00",
@@ -293691,13 +293705,6 @@
       "location": "Airoli",
       "title": "IN_Associate_SOC_Managed Services_Advisory_Pan India",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Airoli/IN-Associate-SOC-Managed-Services-Advisory-Pan-India_745698WD"
-    },
-    "PwC (Experienced):745763WD": {
-      "alerted": false,
-      "first_seen": "2026-07-21T18:55:50.764575+00:00",
-      "location": "Rosario",
-      "title": "Data Analyst - Semi Senior",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Rosario/Data-Analyst---Semi-Senior_745763WD"
     },
     "PwC (Experienced):745766WD": {
       "alerted": false,
@@ -297695,6 +297702,13 @@
       "location": "Gurugram 8 B",
       "title": "IN_Senior Associate_SAP FICO_SAP_Advisory_Gurgaon",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-SAP-FICO-SAP-Advisory-Gurgaon_747985WD-1"
+    },
+    "PwC (Experienced):747991WD": {
+      "alerted": false,
+      "first_seen": "2026-10-17T05:52:50.855300+00:00",
+      "location": "Ho Chi Minh City",
+      "title": "Associate - Strategy & Transformation (HCMC)",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Ho-Chi-Minh-City/Associate---Strategy---Transformation--HCMC-_747991WD"
     },
     "PwC (Experienced):747994WD": {
       "alerted": false,
@@ -324520,13 +324534,6 @@
       "title": "Product Management Director - Agentic B2B Marketing",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Product-Management-Director---Agentic-B2B-Marketing_JR351305-1"
     },
-    "Salesforce:JR351307": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.495619+00:00",
-      "location": "Indiana - Indianapolis",
-      "title": "Licensing Consultant",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Licensing-Consultant_JR351307"
-    },
     "Salesforce:JR351324": {
       "alerted": false,
       "first_seen": "2026-10-16T18:08:55.895074+00:00",
@@ -325429,13 +325436,6 @@
       "location": "North Carolina - Raleigh",
       "title": "Software Engineering MTS/SMTS (Salesforce Core Platform)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineering-MTS-SMTS--Salesforce-Core-Platform-_JR352953"
-    },
-    "Salesforce:JR352955": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.495669+00:00",
-      "location": "Virginia - Washington DC Metro - Remote",
-      "title": "Senior Experience Architect Business Strategist - Public Sector",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Washington-DC-Metro---Remote/Senior-Experience-Architect-Business-Strategist---Public-Sector_JR352955"
     },
     "Salesforce:JR352960": {
       "alerted": false,
