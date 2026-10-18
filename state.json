@@ -21903,6 +21903,34 @@
       "title": "Solutions Architect, Greenfield HCLS",
       "url": "https://www.amazon.jobs/en/jobs/10582049/solutions-architect-greenfield-hcls"
     },
+    "Amazon:10582194": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.065499+00:00",
+      "location": "Courbevoie, Ile-de-France, FRA",
+      "title": "Senior Engagement Manager, AWS ProServe, France",
+      "url": "https://www.amazon.jobs/en/jobs/10582194/senior-engagement-manager-aws-proserve-france"
+    },
+    "Amazon:10582196": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.065443+00:00",
+      "location": "Amsterdam, North Holland, NLD",
+      "title": "Senior Delivery Consultant - Migrations, Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10582196/senior-delivery-consultant-migrations-professional-services"
+    },
+    "Amazon:10582197": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.065295+00:00",
+      "location": "Seoul, KOR",
+      "title": "Delivery Consultant, AIML, Professional Services Korea",
+      "url": "https://www.amazon.jobs/en/jobs/10582197/delivery-consultant-aiml-professional-services-korea"
+    },
+    "Amazon:10582198": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.065379+00:00",
+      "location": "Seoul, KOR",
+      "title": "AI Application Architect, Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10582198/ai-application-architect-professional-services"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -28762,6 +28790,13 @@
       "location": "Remote-Friendly, United States",
       "title": "Community Engagement Manager, Data Centers (Montana & Utah)",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454315008"
+    },
+    "Anthropic:5454535008": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.066258+00:00",
+      "location": "Remote-Friendly, United States",
+      "title": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454535008"
     },
     "Anthropic:5454650008": {
       "alerted": false,
@@ -130137,13 +130172,6 @@
       "title": "Software Engineer III - Java",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210746847"
     },
-    "JPMorgan Chase:210746855": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.498753+00:00",
-      "location": "Jersey City, NJ, United States",
-      "title": "Lead Cybersecurity Architect- Data",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210746855"
-    },
     "JPMorgan Chase:210746871": {
       "alerted": false,
       "first_seen": "2026-09-02T06:13:16.785579+00:00",
@@ -131313,13 +131341,6 @@
       "title": "J.P. Morgan Wealth Management \u2013 Private Client Advisor - Murrells Inlet, SC",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210751851"
     },
-    "JPMorgan Chase:210751862": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.498789+00:00",
-      "location": "Columbus, OH, United States",
-      "title": "Data Platforms - Junior Product Owner",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210751862"
-    },
     "JPMorgan Chase:210751873": {
       "alerted": false,
       "first_seen": "2026-08-12T16:39:20.503862+00:00",
@@ -131795,13 +131816,6 @@
       "location": "Jersey City, NJ, United States",
       "title": "Lead Software Engineer - Data Platform Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210754163"
-    },
-    "JPMorgan Chase:210754184": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.498841+00:00",
-      "location": "Las Vegas, NV, United States",
-      "title": "Part Time (20 Hours) Associate Banker, Lake Mead and Torrey Pines Branch, Las Vegas, NV",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210754184"
     },
     "JPMorgan Chase:210754241": {
       "alerted": false,
@@ -133308,13 +133322,6 @@
       "title": "Lead Software Engineer - Agentic AI Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760189"
     },
-    "JPMorgan Chase:210760197": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.498881+00:00",
-      "location": "Plano, TX, United States",
-      "title": "Senior Lead Software Engineer - Agentic AI/Java/Python",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760197"
-    },
     "JPMorgan Chase:210760210": {
       "alerted": false,
       "first_seen": "2026-08-05T18:18:30.803666+00:00",
@@ -133426,13 +133433,6 @@
       "location": "Seattle, WA, United States",
       "title": "Sr Lead Security Infrastructure Engineer - HSM Management",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760407"
-    },
-    "JPMorgan Chase:210760413": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.498923+00:00",
-      "location": "Seattle, WA, United States",
-      "title": "Sr. Lead Security Infrastructure Engineer - HSM Management",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210760413"
     },
     "JPMorgan Chase:210760455": {
       "alerted": false,
@@ -134952,13 +134952,6 @@
       "location": "Plano, TX, United States",
       "title": "Senior Lead Software Engineer- Java Full Stack",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764465"
-    },
-    "JPMorgan Chase:210764479": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.498964+00:00",
-      "location": "Sao Paulo, SP, Brazil",
-      "title": "Latam Payments Rails Product Delivery Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210764479"
     },
     "JPMorgan Chase:210764525": {
       "alerted": false,
@@ -136486,13 +136479,6 @@
       "title": "Lead Software Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210767085"
     },
-    "JPMorgan Chase:210767091": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.499010+00:00",
-      "location": "Buenos Aires, Argentina",
-      "title": "Associate \u2014 Control Manager \u2013 Governance",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210767091"
-    },
     "JPMorgan Chase:210767096": {
       "alerted": false,
       "first_seen": "2026-07-30T10:52:56.852321+00:00",
@@ -136513,13 +136499,6 @@
       "location": "Newark, DE, United States",
       "title": "Finance Project Team - Project Manager - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210767103"
-    },
-    "JPMorgan Chase:210767115": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.499053+00:00",
-      "location": "Jersey City, NJ, United States",
-      "title": "Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210767115"
     },
     "JPMorgan Chase:210767140": {
       "alerted": false,
@@ -137220,13 +137199,6 @@
       "location": "Jersey City, NJ, United States",
       "title": "Applied AI ML Lead - Agent Builder Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210768256"
-    },
-    "JPMorgan Chase:210768277": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.499094+00:00",
-      "location": "GA, United States",
-      "title": "Credit Officer, Vice Present - Asset Based Lending",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210768277"
     },
     "JPMorgan Chase:210768286": {
       "alerted": false,
@@ -138880,13 +138852,6 @@
       "title": "Director of Data Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210770145"
     },
-    "JPMorgan Chase:210770166": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.499151+00:00",
-      "location": "New York, NY, United States",
-      "title": "Experience Design Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210770166"
-    },
     "JPMorgan Chase:210770177": {
       "alerted": false,
       "first_seen": "2026-07-29T15:22:51.879619+00:00",
@@ -138991,13 +138956,6 @@
       "location": "Mexico",
       "title": "Drive the Future Program for Students - Finance (Part-time)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210770249"
-    },
-    "JPMorgan Chase:210770252": {
-      "alerted": false,
-      "first_seen": "2026-07-21T20:16:54.499203+00:00",
-      "location": "Morro Bay, CA, United States",
-      "title": "Relationship Banker - San Luis Obispo Market - San Luis Obispo, CA and Surrounding Areas",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210770252"
     },
     "JPMorgan Chase:210770259": {
       "alerted": false,
@@ -210987,6 +210945,13 @@
       "title": "Asset Wealth Management -  Insurance Risk Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799455"
     },
+    "JPMorgan Chase:210799456": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.066317+00:00",
+      "location": "Nashville, TN, United States",
+      "title": "Private Client Banker - Nolensville Pike and Old Hickory Blvd - Nashville, TN",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799456"
+    },
     "JPMorgan Chase:210799461": {
       "alerted": false,
       "first_seen": "2026-10-13T18:11:11.093336+00:00",
@@ -211119,6 +211084,13 @@
       "location": "Central and Western, Hong Kong Island, Hong Kong",
       "title": "International Private Bank, Banker Team Lead, Taiwan Market, Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799530"
+    },
+    "JPMorgan Chase:210799532": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.066366+00:00",
+      "location": "Hendersonville, TN, United States",
+      "title": "Associate Relationship Banker - Hendersonville - Hendersonville, TN",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799532"
     },
     "JPMorgan Chase:210799533": {
       "alerted": false,
@@ -211519,6 +211491,13 @@
       "title": "Branch Manager - Paramus, NJ",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799783"
     },
+    "JPMorgan Chase:210799785": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.066414+00:00",
+      "location": "Seminole, FL, United States",
+      "title": "Branch Manager - Tampa Bay Southwest/Southeast Markets - Saint Petersburg, FL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799785"
+    },
     "JPMorgan Chase:210799788": {
       "alerted": false,
       "first_seen": "2026-10-14T17:10:09.144689+00:00",
@@ -211553,6 +211532,13 @@
       "location": "Jersey City, NJ, United States",
       "title": "Product Delivery Manager - Threat Detection & Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799802"
+    },
+    "JPMorgan Chase:210799817": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.066455+00:00",
+      "location": "Largo, FL, United States",
+      "title": "Branch Operations Lead - TBSW Market - Largo, FL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210799817"
     },
     "JPMorgan Chase:210799821": {
       "alerted": true,
@@ -211952,6 +211938,13 @@
       "location": "Plano, TX, United States",
       "title": "Lead Software Engineer - Backend/Java/Cloud",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800092"
+    },
+    "JPMorgan Chase:210800104": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.066496+00:00",
+      "location": "Sarasota, FL, United States",
+      "title": "Branch Operations Lead - Lockwood Ridge - Sarasota, FL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210800104"
     },
     "JPMorgan Chase:210800110": {
       "alerted": false,
@@ -237355,6 +237348,13 @@
       "location": "2 Locations",
       "title": "Institutional Client Specialist, Associate/AVP - New York / Purchase",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Institutional-Client-Specialist--Associate-AVP---New-York---Purchase_JR045140"
+    },
+    "Morgan Stanley:JR045142": {
+      "alerted": false,
+      "first_seen": "2026-10-18T23:23:51.065545+00:00",
+      "location": "Sydney, Australia",
+      "title": "Equity Research - Vice President, Mining Research (Sydney)",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Sydney-Australia/Equity-Research---Vice-President--Mining-Research--Sydney-_JR045142-1"
     },
     "Morgan Stanley:JR045162": {
       "alerted": false,
