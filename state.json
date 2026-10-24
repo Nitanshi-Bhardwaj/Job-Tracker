@@ -22155,6 +22155,13 @@
       "title": "SAP Full Stack Developer, Amazon Leo",
       "url": "https://www.amazon.jobs/en/jobs/10588071/sap-full-stack-developer-amazon-leo"
     },
+    "Amazon:10588096": {
+      "alerted": false,
+      "first_seen": "2026-10-24T06:27:08.638978+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Senior Solutions Architect, Fintech, Fintech",
+      "url": "https://www.amazon.jobs/en/jobs/10588096/senior-solutions-architect-fintech-fintech"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -28784,6 +28791,13 @@
       "title": "Head of Digital Natives & Startups, ANZ",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448360008"
     },
+    "Anthropic:5448366008": {
+      "alerted": false,
+      "first_seen": "2026-10-24T06:27:08.640514+00:00",
+      "location": "Singapore",
+      "title": "Enterprise Account Executive - Manufacturing Industries, Taiwan",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448366008"
+    },
     "Anthropic:5448481008": {
       "alerted": false,
       "first_seen": "2026-10-09T18:56:31.987487+00:00",
@@ -29343,6 +29357,20 @@
       "location": "Remote-Friendly, United States",
       "title": "Data Center Facility Operations Lead - Commissioning & Delivery",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462718008"
+    },
+    "Anthropic:5462761008": {
+      "alerted": false,
+      "first_seen": "2026-10-24T06:27:08.641721+00:00",
+      "location": "San Francisco, CA",
+      "title": "Product Counsel",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462761008"
+    },
+    "Anthropic:5462881008": {
+      "alerted": false,
+      "first_seen": "2026-10-24T06:27:08.641152+00:00",
+      "location": "San Francisco, CA | New York City, NY | Washington, DC",
+      "title": "Incident Manager, Safeguards",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462881008"
     },
     "Bank of America:25014629": {
       "alerted": false,
@@ -246211,13 +246239,6 @@
       "title": "Senior Data Engineer - EDA Datacenter Analytics and Observability",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---EDA-Datacenter-Analytics-and-Observability_JR2013973"
     },
-    "NVIDIA:JR2013978": {
-      "alerted": false,
-      "first_seen": "2026-07-28T06:11:46.531727+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Manager, Workplace Planning",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Workplace-Planning---Real-Estate-Site-Services_JR2013978"
-    },
     "NVIDIA:JR2014015": {
       "alerted": false,
       "first_seen": "2026-10-21T20:41:56.200693+00:00",
@@ -249473,13 +249494,6 @@
       "title": "Principal Product Manager, NVIDIA Trust Services \u2013 DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager--NVIDIA-Trust-Services---DGX-Cloud_JR2021455"
     },
-    "NVIDIA:JR2021465": {
-      "alerted": false,
-      "first_seen": "2026-07-28T06:11:46.531653+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Senior Speed Characterization Engineer - Silicon Co-Design Group",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Speed-Characterization-Engineer---Silicon-Co-Design-Group_JR2021465"
-    },
     "NVIDIA:JR2021467": {
       "alerted": false,
       "first_seen": "2026-07-31T19:40:08.444435+00:00",
@@ -249563,20 +249577,6 @@
       "location": "4 Locations",
       "title": "Senior Systems Software Engineer, Compute Stack Acceleration",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Compute-Stack-Acceleration_JR2021549"
-    },
-    "NVIDIA:JR2021555": {
-      "alerted": false,
-      "first_seen": "2026-07-28T06:11:46.531608+00:00",
-      "location": "India, Bengaluru",
-      "title": "Physical Design Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Physical-Design-Engineer_JR2021555"
-    },
-    "NVIDIA:JR2021574": {
-      "alerted": false,
-      "first_seen": "2026-07-28T06:11:46.531531+00:00",
-      "location": "2 Locations",
-      "title": "System Software Engineer - Performance Verification Infrastructure",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574"
     },
     "NVIDIA:JR2021575": {
       "alerted": false,
@@ -250047,13 +250047,6 @@
       "title": "ATE Test Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2021950"
     },
-    "NVIDIA:JR2021952": {
-      "alerted": false,
-      "first_seen": "2026-07-28T06:11:46.531692+00:00",
-      "location": "Taiwan, Taipei",
-      "title": "System Design Intern, LDE - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952"
-    },
     "NVIDIA:JR2021955": {
       "alerted": false,
       "first_seen": "2026-07-29T21:15:11.269962+00:00",
@@ -250081,13 +250074,6 @@
       "location": "Israel, Yokneam",
       "title": "Design Automation Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Design-Automation-Engineer_JR2021967"
-    },
-    "NVIDIA:JR2021971": {
-      "alerted": false,
-      "first_seen": "2026-07-28T06:11:46.531573+00:00",
-      "location": "India, Bengaluru",
-      "title": "Senior Architect, GPU and SoC Modelling",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Architect--GPU-and-SoC-Modelling_JR2021971"
     },
     "NVIDIA:JR2021975": {
       "alerted": false,
@@ -271257,6 +271243,13 @@
       "title": "Data Engineer, Hardware & Consumer Devices",
       "url": "https://jobs.ashbyhq.com/openai/c25fd30e-056e-4a26-af80-7ea1074fc56e"
     },
+    "OpenAI:c2921990-3fff-469a-a117-f6a8f2a3d50c": {
+      "alerted": false,
+      "first_seen": "2026-10-24T06:27:08.639898+00:00",
+      "location": "San Francisco",
+      "title": "Community Communications Lead",
+      "url": "https://jobs.ashbyhq.com/openai/c2921990-3fff-469a-a117-f6a8f2a3d50c"
+    },
     "OpenAI:c2aeb70d-3eca-4c4f-a414-6394b30fea80": {
       "alerted": false,
       "first_seen": "2026-08-12T14:52:32.975622+00:00",
@@ -278032,6 +278025,13 @@
       "location": "San Francisco",
       "title": "Member of Technical Staff (Software Engineer, AI Systems)",
       "url": "https://jobs.ashbyhq.com/perplexity/7dedcdea-42be-4bb0-b603-791146ff73f0"
+    },
+    "Perplexity AI:7e4a95c3-6322-4300-9455-96c511ab2621": {
+      "alerted": false,
+      "first_seen": "2026-10-24T06:27:08.639265+00:00",
+      "location": "San Francisco",
+      "title": "Member of Technical Staff (AI Policy and Strategic Initiatives)",
+      "url": "https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621"
     },
     "Perplexity AI:7f2b3619-5ffa-467b-be6f-7a6b7d487892": {
       "alerted": false,
