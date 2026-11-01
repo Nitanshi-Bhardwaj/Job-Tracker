@@ -119133,13 +119133,6 @@
       "title": "Solutions Architect - Strategic High Tech",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8563159002"
     },
-    "Databricks:8563181002": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.990691+00:00",
-      "location": "Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington",
-      "title": "Solutions Architect - AI Natives Business, Strategic",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8563181002"
-    },
     "Databricks:8563185002": {
       "alerted": false,
       "first_seen": "2026-09-02T15:08:50.866882+00:00",
@@ -121127,20 +121120,6 @@
       "location": "Bellevue, Washington; Seattle, Washington",
       "title": "Staff Software Engineer - Streaming",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002"
-    },
-    "Databricks:8672336002": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.991283+00:00",
-      "location": "United States",
-      "title": "Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8672336002"
-    },
-    "Databricks:8672373002": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.991869+00:00",
-      "location": "United States",
-      "title": "Specialist Solutions Architect - Cloud Platform & Infrastructure (GCP)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8672373002"
     },
     "Databricks:8672712002": {
       "alerted": false,
@@ -184940,6 +184919,13 @@
       "title": "Part Time (20 Hours) Associate Banker, Shadeland and 75th Branch, Indianapolis, IN",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791976"
     },
+    "JPMorgan Chase:210791978": {
+      "alerted": false,
+      "first_seen": "2026-11-01T22:45:08.377709+00:00",
+      "location": "Atlanta, GA, United States",
+      "title": "AI Site Lead Executive Director - Director of Software Engineering",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210791978"
+    },
     "JPMorgan Chase:210791979": {
       "alerted": false,
       "first_seen": "2026-10-19T19:31:52.693466+00:00",
@@ -213514,6 +213500,13 @@
       "title": "Payments-Digital & Design-Search-Product Manager-Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210804391"
     },
+    "JPMorgan Chase:210804397": {
+      "alerted": false,
+      "first_seen": "2026-11-01T22:45:08.377793+00:00",
+      "location": "Heathrow, FL, United States",
+      "title": "Retail: Customer Service Account Specialist I Bilingual English and Spanish Required",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210804397"
+    },
     "JPMorgan Chase:210804449": {
       "alerted": false,
       "first_seen": "2026-10-29T19:30:39.695332+00:00",
@@ -214122,6 +214115,13 @@
       "location": "New York, NY, United States",
       "title": "Relationship Banker - Abingdon Square - New York, NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210805288"
+    },
+    "JPMorgan Chase:210805314": {
+      "alerted": false,
+      "first_seen": "2026-11-01T22:45:08.377759+00:00",
+      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer III - iOS",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210805314"
     },
     "JPMorgan Chase:210805320": {
       "alerted": false,
@@ -296422,13 +296422,6 @@
       "title": "IN_Senior Manager_SAP CPI_Enterprise APP SAP_Advisory_Pan India",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Manager-SAP-CPI-Enterprise-APP-SAP-Advisory-Pan-India_749254WD-1"
     },
-    "PwC (Experienced):749269WD": {
-      "alerted": false,
-      "first_seen": "2026-08-03T16:34:12.963868+00:00",
-      "location": "Gurugram 8 B",
-      "title": "IN_Senior Associate_Governance GRC_Managed Services_Advisory_Gurgaon",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-8-B/IN-Senior-Associate-Governance-GRC-Managed-Services-Advisory-Gurgaon_749269WD-1"
-    },
     "PwC (Experienced):749275WD": {
       "alerted": false,
       "first_seen": "2026-08-04T07:06:10.199737+00:00",
@@ -319486,6 +319479,13 @@
       "location": "Gurugram Downtown 4",
       "title": "IN_Specialist 3_Python developer_GCC_Advisory_Gurgaon",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Specialist-3-Python-developer-GCC-Advisory-Gurgaon_DB_007735-1"
+    },
+    "PwC (Experienced):DB_007749": {
+      "alerted": false,
+      "first_seen": "2026-11-01T22:45:08.377823+00:00",
+      "location": "Bhopal",
+      "title": "Sustainability - Social Sustainability - Specialist 2 - CS - G",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Bhopal/Sustainability---Social-Sustainability---Specialist-2---CS---G_DB_007749"
     },
     "PwC (Experienced):DB_007750": {
       "alerted": false,
