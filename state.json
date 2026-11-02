@@ -1176,13 +1176,6 @@
       "title": "Forward Deployed Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Forward-Deployed-Engineer_R173252"
     },
-    "Amazon:10490604": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.993429+00:00",
-      "location": "New York, New York, USA",
-      "title": "Software Development Engineer, Conversational Ads Experience",
-      "url": "https://www.amazon.jobs/en/jobs/10490604/software-development-engineer-conversational-ads-experience"
-    },
     "Amazon:10490605": {
       "alerted": false,
       "first_seen": "2026-08-03T18:21:41.993619+00:00",
@@ -1190,40 +1183,12 @@
       "title": "Software Development Engineer, Conversational Ads Experience",
       "url": "https://www.amazon.jobs/en/jobs/10490605/software-development-engineer-conversational-ads-experience"
     },
-    "Amazon:10490704": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.993501+00:00",
-      "location": "Atlanta, Georgia, USA",
-      "title": "Principal Worldwide Specialist Solutions Architect, Amazon Bedrock, AgentCore, Data & AI GTM ",
-      "url": "https://www.amazon.jobs/en/jobs/10490704/principal-worldwide-specialist-solutions-architect-amazon-bedrock-agentcore-data-ai-gtm"
-    },
-    "Amazon:10490705": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.993562+00:00",
-      "location": "Seattle, Washington, USA",
-      "title": "Software Development Engineer II, AWS Healthcare AI",
-      "url": "https://www.amazon.jobs/en/jobs/10490705/software-development-engineer-ii-aws-healthcare-ai"
-    },
-    "Amazon:10490738": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.993364+00:00",
-      "location": "Seattle, Washington, USA",
-      "title": "Sr. Software Development Engineer, Kiro",
-      "url": "https://www.amazon.jobs/en/jobs/10490738/sr-software-development-engineer-kiro"
-    },
     "Amazon:10490739": {
       "alerted": false,
       "first_seen": "2026-08-03T18:21:41.993668+00:00",
       "location": "Seattle, Washington, USA",
       "title": "Software Development Engineer, Kiro",
       "url": "https://www.amazon.jobs/en/jobs/10490739/software-development-engineer-kiro"
-    },
-    "Amazon:10490741": {
-      "alerted": true,
-      "first_seen": "2026-08-03T18:21:41.993304+00:00",
-      "location": "Cupertino, California, USA",
-      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
-      "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
     },
     "Amazon:10490784": {
       "alerted": false,
@@ -22329,6 +22294,13 @@
       "location": "Haifa, Haifa, ISR",
       "title": "Chip Validation Software Student ",
       "url": "https://www.amazon.jobs/en/jobs/10594018/chip-validation-software-student"
+    },
+    "Amazon:10594100": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.845852+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Software Development Engineer, Ads AI Core Infra (ACI)",
+      "url": "https://www.amazon.jobs/en/jobs/10594100/software-development-engineer-ads-ai-core-infra-aci"
     },
     "Anthropic:4017331008": {
       "alerted": false,
@@ -120085,13 +120057,6 @@
       "title": "Field Technical Program Manager",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8598531002"
     },
-    "Databricks:8599138002": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.992772+00:00",
-      "location": "Northeast - United States",
-      "title": "Strategic Enterprise Account Executive, Life Sciences",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8599138002"
-    },
     "Databricks:8602402002": {
       "alerted": false,
       "first_seen": "2026-09-10T22:31:08.141861+00:00",
@@ -120820,13 +120785,6 @@
       "title": "Sr. Counsel, Privacy Compliance",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645429002"
     },
-    "Databricks:8645718002": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.992346+00:00",
-      "location": "West Coast - United States",
-      "title": "Strategic Enterprise Account Executive, Life Sciences",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645718002"
-    },
     "Databricks:8646549002": {
       "alerted": false,
       "first_seen": "2026-08-10T20:09:41.413055+00:00",
@@ -120903,13 +120861,6 @@
       "location": "Amsterdam, Netherlands",
       "title": "AI Engineer - FDE (Forward Deployed Engineer)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648669002"
-    },
-    "Databricks:8648999002": {
-      "alerted": false,
-      "first_seen": "2026-08-03T18:21:41.993227+00:00",
-      "location": "Chicago, Illinois; Indiana",
-      "title": "Strategic Enterprise Account Executive, Life Sciences",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648999002"
     },
     "Databricks:8649279002": {
       "alerted": false,
@@ -210140,6 +210091,13 @@
       "title": "Software Engineer II",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210802407"
     },
+    "JPMorgan Chase:210802409": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.846892+00:00",
+      "location": "Hong Kong",
+      "title": "Digital Markets - Digital Product for Neovest - Analyst/Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210802409"
+    },
     "JPMorgan Chase:210802415": {
       "alerted": false,
       "first_seen": "2026-10-29T06:59:04.031329+00:00",
@@ -233442,6 +233400,13 @@
       "location": "Pune, India",
       "title": "Manager, Accounting",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Accounting_R-294898"
+    },
+    "Mastercard:R-294946": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.846860+00:00",
+      "location": "Taipei, Taiwan",
+      "title": "Managing Consultant, Client Deployment, Merchant Partnerships & Loyalty",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Taipei-Taiwan/Managing-Consultant--Client-Deployment--Merchant-Partnerships---Loyalty_R-294946"
     },
     "Morgan Stanley:JR000042": {
       "alerted": false,
@@ -267659,6 +267624,13 @@
       "title": "Corporate Security GSOC Operator",
       "url": "https://jobs.ashbyhq.com/openai/5d37e9c8-f9f0-46b6-ba6d-ee6e6ead8d17"
     },
+    "OpenAI:5d40f698-176e-455f-a4fd-de2d8cfec044": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.846826+00:00",
+      "location": "US - Remote",
+      "title": "Controls Engineer: Power Generation",
+      "url": "https://jobs.ashbyhq.com/openai/5d40f698-176e-455f-a4fd-de2d8cfec044"
+    },
     "OpenAI:5d5a4116-b409-4676-b357-7094ad87d15d": {
       "alerted": false,
       "first_seen": "2026-10-06T01:26:58.574013+00:00",
@@ -270304,6 +270276,13 @@
       "location": "San Francisco",
       "title": " Demo Studio Lead",
       "url": "https://jobs.ashbyhq.com/openai/a452882b-bb56-4a99-83e6-b8b5d21db3ee"
+    },
+    "OpenAI:a46ffc60-39c6-4b1e-bd0f-9c33a8b06703": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.846475+00:00",
+      "location": "San Francisco",
+      "title": "Data Center Controls Engineer (BMS / EPMS)",
+      "url": "https://jobs.ashbyhq.com/openai/a46ffc60-39c6-4b1e-bd0f-9c33a8b06703"
     },
     "OpenAI:a4981ed2-331a-4927-a95f-fabb64c9c799": {
       "alerted": false,
@@ -321468,6 +321447,13 @@
       "title": "Senior Product Manager, Scale Test",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Sr-Product-Manager--Customer-Health-Platform_JR342997"
     },
+    "Salesforce:JR343084": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.845904+00:00",
+      "location": "Japan - Tokyo",
+      "title": "Partner Account Manager",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Japan---Tokyo/Partner-Account-Manager_JR343084-1"
+    },
     "Salesforce:JR343171": {
       "alerted": false,
       "first_seen": "2026-08-14T11:11:36.443799+00:00",
@@ -334586,6 +334572,13 @@
       "title": "Summer 2027 Intern - Product GTM Strategy",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1"
     },
+    "Salesforce:JR362218": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.845943+00:00",
+      "location": "Japan - Tokyo",
+      "title": "Account Executive, General Business Sales (BTC\u696d\u754c)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Japan---Tokyo/Account-Executive--General-Business-Sales--BTC-_JR362218"
+    },
     "Salesforce:JR362219": {
       "alerted": false,
       "first_seen": "2026-10-08T14:41:53.512557+00:00",
@@ -338890,6 +338883,13 @@
       "location": "Canada - Toronto",
       "title": "Regional Sales Director",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Regional-Sales-Director_JR365774"
+    },
+    "Salesforce:JR365776": {
+      "alerted": false,
+      "first_seen": "2026-11-02T01:52:27.845984+00:00",
+      "location": "France - Paris",
+      "title": "Enterprise Account Executive \u2013 Data & Integration (MuleSoft & Informatica) - Public Sector France",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Senior-Account-Executive--Tableau---Public-Sector-France_JR365776"
     },
     "Salesforce:JR365778": {
       "alerted": false,
