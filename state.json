@@ -1337,13 +1337,6 @@
       "title": "Product Manager - Observability",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/Product-Manager---Observability_R173454"
     },
-    "Amazon:10496497": {
-      "alerted": false,
-      "first_seen": "2026-08-08T19:03:18.399939+00:00",
-      "location": "Bellevue, Washington, USA",
-      "title": "Senior Machine Learning Engineer, Alexa-Conv A Modeling&Learning",
-      "url": "https://www.amazon.jobs/en/jobs/10496497/senior-machine-learning-engineer-alexa-conv-a-modeling-learning"
-    },
     "Amazon:10496508": {
       "alerted": false,
       "first_seen": "2026-08-09T09:06:03.336862+00:00",
@@ -22749,6 +22742,13 @@
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "title": "Data Engineer",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008"
+    },
+    "Anthropic:4970314008": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.095616+00:00",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "Staff+ Software Engineer, Infrastructure (Distributed Systems)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008"
     },
     "Anthropic:4973067008": {
       "alerted": false,
@@ -82488,13 +82488,6 @@
       "title": "Data Governance Foundation Senior Lead Analyst Senior Vice President",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Data-Governance-Foundation-Senior-Lead-Analyst-Senior-Vice-President_26985321-1"
     },
-    "Citi:26985322": {
-      "alerted": false,
-      "first_seen": "2026-08-08T21:39:21.778675+00:00",
-      "location": "3 Locations",
-      "title": "Branch Services Lead Analyst - On-Boarding & Servicing, VP",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Branch-Services-Lead-Analyst---On-Boarding---Servicing--VP_26985322"
-    },
     "Citi:26985323": {
       "alerted": false,
       "first_seen": "2026-08-12T05:54:55.543657+00:00",
@@ -116326,6 +116319,13 @@
       "title": "Software Engineer - New Grad (2027 Start) - Berlin",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002"
     },
+    "Databricks:6918763002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.090843+00:00",
+      "location": "Bengaluru, India; Mumbai, India",
+      "title": "Account Executive ",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6918763002"
+    },
     "Databricks:6936994002": {
       "alerted": false,
       "first_seen": "2026-08-10T09:16:08.537965+00:00",
@@ -118244,6 +118244,13 @@
       "title": "Senior Manager, Global Premier Support",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422798002"
     },
+    "Databricks:8423165002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.091643+00:00",
+      "location": "Chicago, Illinois",
+      "title": "Business Development Representative",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002"
+    },
     "Databricks:8423167002": {
       "alerted": false,
       "first_seen": "2026-10-29T06:59:04.022732+00:00",
@@ -118475,6 +118482,13 @@
       "title": "Enterprise Hunter Account Executive - FSI South",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438960002"
     },
+    "Databricks:8439047002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.094238+00:00",
+      "location": "London, United Kingdom",
+      "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002"
+    },
     "Databricks:8439078002": {
       "alerted": false,
       "first_seen": "2026-08-10T04:37:05.962649+00:00",
@@ -118544,6 +118558,13 @@
       "location": "Western Australia, Australia",
       "title": "Geo Core Account Executive",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441857002"
+    },
+    "Databricks:8441865002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.091976+00:00",
+      "location": "Melbourne, Australia",
+      "title": "Core Account Executive - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441865002"
     },
     "Databricks:8441884002": {
       "alerted": false,
@@ -118762,19 +118783,19 @@
       "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461321002"
     },
+    "Databricks:8462016002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.093809+00:00",
+      "location": "Amsterdam, Netherlands",
+      "title": "Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002"
+    },
     "Databricks:8462811002": {
       "alerted": false,
       "first_seen": "2026-08-10T13:53:13.932758+00:00",
       "location": "Bengaluru, India",
       "title": "Sr.Staff Software Engineer- Network Platform",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462811002"
-    },
-    "Databricks:8463063002": {
-      "alerted": false,
-      "first_seen": "2026-08-08T19:59:28.453040+00:00",
-      "location": "United States",
-      "title": "Deployment Strategist",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463063002"
     },
     "Databricks:8463065002": {
       "alerted": false,
@@ -118846,19 +118867,19 @@
       "title": "Sr. Solutions Architect",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476064002"
     },
-    "Databricks:8476399002": {
-      "alerted": false,
-      "first_seen": "2026-08-08T17:21:28.661959+00:00",
-      "location": "United States",
-      "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476399002"
-    },
     "Databricks:8476403002": {
       "alerted": false,
       "first_seen": "2026-08-10T12:25:21.822905+00:00",
       "location": "Remote - Georgia; Remote - Texas",
       "title": "Sr. Solutions Architect - Global Telecommunications ",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476403002"
+    },
+    "Databricks:8476496002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.092887+00:00",
+      "location": "Brisbane, Australia; Melbourne, Australia; Western Australia, Australia",
+      "title": "Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476496002"
     },
     "Databricks:8476582002": {
       "alerted": false,
@@ -119189,6 +119210,13 @@
       "title": "EMEA Energy Industry Go-To-Market (GTM) Leader",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8495059002"
     },
+    "Databricks:8495065002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.091288+00:00",
+      "location": "Seoul, South Korea; Singapore; Tokyo, Japan",
+      "title": "APJ Manufacturing & Automotive Industry GTM Leader",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8495065002"
+    },
     "Databricks:8495067002": {
       "alerted": false,
       "first_seen": "2026-08-10T09:16:08.526042+00:00",
@@ -119335,13 +119363,6 @@
       "location": "Melbourne, Australia; Sydney, Australia",
       "title": "Sr. Forward Deployed Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516116002"
-    },
-    "Databricks:8516118002": {
-      "alerted": false,
-      "first_seen": "2026-08-08T19:59:28.452545+00:00",
-      "location": "Sydney, Australia",
-      "title": "Deployment Strategist",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516118002"
     },
     "Databricks:8517065002": {
       "alerted": false,
@@ -119637,6 +119658,13 @@
       "title": "Lead GTM Enablement & Scale Architect, Product Enablement",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548502002"
     },
+    "Databricks:8548986002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.093403+00:00",
+      "location": "Remote - California; Remote - Oregon; Remote - Washington",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548986002"
+    },
     "Databricks:8549044002": {
       "alerted": false,
       "first_seen": "2026-08-18T16:41:39.344623+00:00",
@@ -119671,6 +119699,13 @@
       "location": "Sydney, Australia",
       "title": "Strategic Core Account Executive - Digital Native",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549330002"
+    },
+    "Databricks:8549681002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.092453+00:00",
+      "location": "London, United Kingdom",
+      "title": "Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002"
     },
     "Databricks:8552484002": {
       "alerted": false,
@@ -119748,13 +119783,6 @@
       "location": "Mountain View, California; San Francisco, California",
       "title": "Principal AI Research Scientist, Research Director - AI Scaling",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8557780002"
-    },
-    "Databricks:8559315002": {
-      "alerted": false,
-      "first_seen": "2026-08-08T17:21:28.662457+00:00",
-      "location": "Charlotte, North Carolina; Delaware; Maryland; New Jersey; New York City, New York; Philadelphia, Pennsylvania; Remote - Virginia; Remote - Washington D.C.; West Coast - United States; West Virginia",
-      "title": "Delivery Solutions Architect - Public Sector",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8559315002"
     },
     "Databricks:8560496002": {
       "alerted": false,
@@ -123612,6 +123640,13 @@
       "location": "Tokyo, Japan",
       "title": "Enterprise Account Executive - Telecommunications",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8808527002"
+    },
+    "Databricks:8811059002": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.094584+00:00",
+      "location": "Bengaluru, India",
+      "title": "Tech Sourcer (Contract)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811059002"
     },
     "Databricks:8811265002": {
       "alerted": false,
@@ -130172,13 +130207,6 @@
       "title": "Marketing Manager - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210735041"
     },
-    "JPMorgan Chase:210735244": {
-      "alerted": false,
-      "first_seen": "2026-08-08T16:54:08.096971+00:00",
-      "location": "Bend, OR, United States",
-      "title": "Part Time Associate Banker South Central OR \u2013 Bend/Redmond (30 Hours)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210735244"
-    },
     "JPMorgan Chase:210735375": {
       "alerted": false,
       "first_seen": "2026-09-17T12:08:37.986804+00:00",
@@ -134679,13 +134707,6 @@
       "location": "Columbus, OH, United States",
       "title": "Lead Software Engineer - Data Engineering | Data Technology",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765842"
-    },
-    "JPMorgan Chase:210765849": {
-      "alerted": false,
-      "first_seen": "2026-08-08T21:02:32.084100+00:00",
-      "location": "Jersey City, NJ, United States",
-      "title": "Full stack Java React Software Engineer II",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210765849"
     },
     "JPMorgan Chase:210765880": {
       "alerted": false,
@@ -141134,13 +141155,6 @@
       "title": "Cloud Software Engineer II",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777210"
     },
-    "JPMorgan Chase:210777211": {
-      "alerted": false,
-      "first_seen": "2026-08-08T20:36:42.844670+00:00",
-      "location": "NY, United States",
-      "title": "DOI Communications Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777211"
-    },
     "JPMorgan Chase:210777213": {
       "alerted": false,
       "first_seen": "2026-08-25T19:39:11.566318+00:00",
@@ -141378,13 +141392,6 @@
       "location": "Metro Manila, National Capital Region, Philippines",
       "title": "Equipment Finance - Quality Control Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777388"
-    },
-    "JPMorgan Chase:210777389": {
-      "alerted": false,
-      "first_seen": "2026-08-08T16:54:08.097022+00:00",
-      "location": "Evendale, OH, United States",
-      "title": "Part Time (20 Hours) Associate Banker, Evendale Branch, Evendale, OH",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777389"
     },
     "JPMorgan Chase:210777390": {
       "alerted": false,
@@ -142330,13 +142337,6 @@
       "location": "Zionsville, IN, United States",
       "title": "Part Time (20 Hours) Associate Banker, Zionsville Branch, Zionsville, IN",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777886"
-    },
-    "JPMorgan Chase:210777888": {
-      "alerted": false,
-      "first_seen": "2026-08-08T20:36:42.844735+00:00",
-      "location": "New York, NY, United States",
-      "title": "Social Media Content Producer, Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210777888"
     },
     "JPMorgan Chase:210777889": {
       "alerted": false,
@@ -144759,13 +144759,6 @@
       "location": "Newark, DE, United States",
       "title": "Trade Lifecycle Associate I",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778928"
-    },
-    "JPMorgan Chase:210778934": {
-      "alerted": false,
-      "first_seen": "2026-08-08T19:37:58.540830+00:00",
-      "location": "New York, NY, United States",
-      "title": "Lead Software Engineer, Platform & Experience Journeys",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778934"
     },
     "JPMorgan Chase:210778938": {
       "alerted": false,
@@ -212219,6 +212212,13 @@
       "title": "SONIC Product Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210805139"
     },
+    "JPMorgan Chase:210805146": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.095664+00:00",
+      "location": "Santa Cruz, CA, United States",
+      "title": "Branch Operations Lead - Santa Cruz Branch - Santa Cruz, CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210805146"
+    },
     "JPMorgan Chase:210805153": {
       "alerted": false,
       "first_seen": "2026-11-03T16:01:20.508552+00:00",
@@ -213688,6 +213688,13 @@
       "location": "San Jose, CA, United States",
       "title": "Branch Manager - San Jose Markets - San Jose, CA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210806159"
+    },
+    "JPMorgan Chase:210806162": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.095705+00:00",
+      "location": "Oakdale, CA, United States",
+      "title": "Branch Manager - East F St Branch - Oakdale, CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210806162"
     },
     "JPMorgan Chase:210806164": {
       "alerted": false,
@@ -215165,6 +215172,20 @@
       "location": "Pasadena, CA, United States",
       "title": "Relationship Banker - Fair Oaks and California - Pasadena, CA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210807583"
+    },
+    "JPMorgan Chase:210807721": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.095748+00:00",
+      "location": "Chicago, IL, United States",
+      "title": "J.P. Morgan Advisors - Senior Client Associate - Chicago, IL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210807721"
+    },
+    "JPMorgan Chase:210807763": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.095782+00:00",
+      "location": "Newark, DE, United States",
+      "title": "Margin & Collateral Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210807763"
     },
     "Jane Street:4273643002": {
       "alerted": false,
@@ -267981,13 +268002,6 @@
       "title": "Researcher, Synthetic RL",
       "url": "https://jobs.ashbyhq.com/openai/60d3700b-ba82-4fa6-a6bb-7b2b67070510"
     },
-    "OpenAI:61171d99-747f-441e-985d-20c010112ad8": {
-      "alerted": false,
-      "first_seen": "2026-08-09T02:11:55.034598+00:00",
-      "location": "San Francisco",
-      "title": "Strategic Sourcing Manager, Data Center Infrastructure: Mechanical",
-      "url": "https://jobs.ashbyhq.com/openai/61171d99-747f-441e-985d-20c010112ad8"
-    },
     "OpenAI:616ef2ce-3790-432d-9a6d-32abb2f52ff9": {
       "alerted": false,
       "first_seen": "2026-10-15T19:48:32.639468+00:00",
@@ -268162,6 +268176,13 @@
       "location": "San Francisco",
       "title": "Strategy and Operations Lead, Hardware",
       "url": "https://jobs.ashbyhq.com/openai/669e43f3-4236-41ab-be78-d6fb9179fee4"
+    },
+    "OpenAI:66b7c776-aa50-4e86-aec1-5c8e07868522": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.095030+00:00",
+      "location": "San Francisco",
+      "title": "Support Program Manager, Partnerships",
+      "url": "https://jobs.ashbyhq.com/openai/66b7c776-aa50-4e86-aec1-5c8e07868522"
     },
     "OpenAI:66e76c14-bb6e-4e26-a333-744bbe35abbb": {
       "alerted": false,
@@ -268428,13 +268449,6 @@
       "location": "San Francisco",
       "title": "Model Policy, Chemical & Biological Risk",
       "url": "https://jobs.ashbyhq.com/openai/6df6a3d8-c72b-4e65-acf8-a5d91559533c"
-    },
-    "OpenAI:6e20368e-d51e-4562-8b94-0166317d52c7": {
-      "alerted": false,
-      "first_seen": "2026-08-09T02:11:55.035519+00:00",
-      "location": "US - Remote",
-      "title": "Power Trading Lead",
-      "url": "https://jobs.ashbyhq.com/openai/6e20368e-d51e-4562-8b94-0166317d52c7"
     },
     "OpenAI:6e9ac42a-c42a-46e0-98fe-ba00c9cb5455": {
       "alerted": false,
@@ -269352,13 +269366,6 @@
       "location": "San Francisco",
       "title": "Support Program Manager, Support Delivery",
       "url": "https://jobs.ashbyhq.com/openai/862ffe2a-8261-4c46-8ed4-5178567ac7e0"
-    },
-    "OpenAI:86c04f38-1938-4e95-a43c-502fc79ff60c": {
-      "alerted": false,
-      "first_seen": "2026-08-09T02:11:55.035075+00:00",
-      "location": "US - Remote",
-      "title": "New Geography and International Growth Lead",
-      "url": "https://jobs.ashbyhq.com/openai/86c04f38-1938-4e95-a43c-502fc79ff60c"
     },
     "OpenAI:86ef6da0-5d05-46a5-9059-f4f94beab013": {
       "alerted": false,
@@ -323575,13 +323582,6 @@
       "title": "Senior Engineering Manager, AgentExchange Go To Market App",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Engineering-Manager--AgentExchange-Go-To-Market-App_JR355324-1"
     },
-    "Salesforce:JR355327": {
-      "alerted": false,
-      "first_seen": "2026-08-08T17:52:16.379188+00:00",
-      "location": "2 Locations",
-      "title": "Senior Product Manager, Revenue Cloud - Configurator",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager--Revenue-Cloud---Configurator_JR355327"
-    },
     "Salesforce:JR355332": {
       "alerted": false,
       "first_seen": "2026-08-14T11:56:27.109510+00:00",
@@ -323770,13 +323770,6 @@
       "location": "California - San Francisco",
       "title": "Manager, M&A Tax and Controversies",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Manager--M-A-Tax-and-Controversies_JR355452"
-    },
-    "Salesforce:JR355457": {
-      "alerted": false,
-      "first_seen": "2026-08-08T19:37:58.540759+00:00",
-      "location": "2 Locations",
-      "title": "Spiff - Onboarding Specialist",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Customer-Facing-Spiff-Onboarding-Specialist_JR355457"
     },
     "Salesforce:JR355463": {
       "alerted": false,
@@ -337099,6 +337092,13 @@
       "title": "Enterprise Account Executive - Manufacturing",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Belgium---Brussels/Enterprise-Account-Executive---Manufacturing_JR365363"
     },
+    "Salesforce:JR365379": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.094630+00:00",
+      "location": "8 Locations",
+      "title": "Senior Manager, Competitive Intelligence PACE & Agentforce",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Senior-Manager--Competitive-Intelligence-PACE---Agentforce_JR365379"
+    },
     "Salesforce:JR365380": {
       "alerted": false,
       "first_seen": "2026-10-26T16:54:56.348678+00:00",
@@ -339100,6 +339100,13 @@
       "location": "Sweden - Stockholm",
       "title": "Senior Forward Deployed Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Sweden---Stockholm/Senior-Forward-Deployed-Engineer_JR367438"
+    },
+    "Salesforce:JR367463": {
+      "alerted": false,
+      "first_seen": "2026-11-07T07:47:15.094665+00:00",
+      "location": "Brazil - Remote",
+      "title": "Named Account Executive",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Remote/Named-Account-Executive_JR367463"
     },
     "Salesforce:JR367508": {
       "alerted": false,
@@ -344378,13 +344385,6 @@
       "location": "London",
       "title": "Enterprise Services Sales Executive - Professional Services ",
       "url": "https://stripe.com/jobs/search?gh_jid=8098866"
-    },
-    "Stripe:8102337": {
-      "alerted": false,
-      "first_seen": "2026-08-08T17:21:28.662765+00:00",
-      "location": "Singapore",
-      "title": "Engagement Manager, Professional Services (SEA/GCN)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8102337"
     },
     "Stripe:8102597": {
       "alerted": false,
