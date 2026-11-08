@@ -22491,6 +22491,13 @@
       "title": "Software Dev Engineer II, Finance Technology ",
       "url": "https://www.amazon.jobs/en/jobs/10599171/software-dev-engineer-ii-finance-technology"
     },
+    "Amazon:10599447": {
+      "alerted": false,
+      "first_seen": "2026-11-08T19:20:48.541998+00:00",
+      "location": "Wilmington, Massachusetts, USA",
+      "title": "Senior Software Development Engineer, Robotics Perception",
+      "url": "https://www.amazon.jobs/en/jobs/10599447/senior-software-development-engineer-robotics-perception"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-08-11T10:28:10.059230+00:00",
@@ -29616,6 +29623,13 @@
       "location": "San Francisco, CA",
       "title": "Research Engineer, Chip Design RL",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008"
+    },
+    "Anthropic:5459191008": {
+      "alerted": true,
+      "first_seen": "2026-11-08T19:20:48.542554+00:00",
+      "location": "San Francisco, CA | New York City, NY",
+      "title": "Research Engineer, Cybersecurity RL",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008"
     },
     "Anthropic:5459272008": {
       "alerted": false,
@@ -71316,6 +71330,13 @@
       "title": "Officer, Lifestyle Relationship Management (Affluent Cards), Consumer Bank",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Officer--Lifestyle-Relationship-Management--Affluent-Cards---Consumer-Bank_261005456"
     },
+    "Citi:261005459": {
+      "alerted": false,
+      "first_seen": "2026-11-08T19:20:48.542599+00:00",
+      "location": "Pune Maharashtra India",
+      "title": "Apps Dev Tech Lead Analyst - C13 - PUNE",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Apps-Dev-Tech-Lead-Analyst---C13---PUNE_261005459"
+    },
     "Citi:261005460": {
       "alerted": false,
       "first_seen": "2026-10-27T10:50:50.472376+00:00",
@@ -79121,13 +79142,6 @@
       "title": "Lead Back-End Java Developer \u2013 Credit Risk Technology",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Lead-Back-End-Java-Developer---Credit-Risk-Technology_26982519-1"
     },
-    "Citi:26982542": {
-      "alerted": false,
-      "first_seen": "2026-08-09T18:56:02.610652+00:00",
-      "location": "Mumbai Maharashtra India",
-      "title": "Vice President - Data Governance",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Vice-President---Data-Governance_26982542"
-    },
     "Citi:26982543": {
       "alerted": false,
       "first_seen": "2026-08-11T04:04:58.343371+00:00",
@@ -81073,13 +81087,6 @@
       "location": "Pune Maharashtra India",
       "title": "Java Angular Developer",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Angular-Developer_26984402"
-    },
-    "Citi:26984405": {
-      "alerted": false,
-      "first_seen": "2026-08-09T18:56:02.610616+00:00",
-      "location": "Mumbai Maharashtra India",
-      "title": "Cash & Collateral Management Intermediate Analyst",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Cash---Collateral-Management-Intermediate-Analyst_26984405-1"
     },
     "Citi:26984413": {
       "alerted": false,
@@ -117796,13 +117803,6 @@
       "title": "Strategic Enterprise Hunter Account Executive, Financial Services",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8346287002"
     },
-    "Databricks:8349331002": {
-      "alerted": false,
-      "first_seen": "2026-08-09T19:30:23.760241+00:00",
-      "location": "Mumbai, India",
-      "title": "Enterprise Hunter Account Executive - FSI West",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8349331002"
-    },
     "Databricks:8353049002": {
       "alerted": false,
       "first_seen": "2026-08-10T12:25:21.823646+00:00",
@@ -118468,20 +118468,6 @@
       "title": "Core Account Executive - Vietnam",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438948002"
     },
-    "Databricks:8438954002": {
-      "alerted": false,
-      "first_seen": "2026-08-09T19:59:43.258884+00:00",
-      "location": "Mumbai, India",
-      "title": "Enterprise Hunter Account Executive - West",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438954002"
-    },
-    "Databricks:8438960002": {
-      "alerted": false,
-      "first_seen": "2026-08-09T19:30:23.759816+00:00",
-      "location": "Bengaluru, India",
-      "title": "Enterprise Hunter Account Executive - FSI South",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438960002"
-    },
     "Databricks:8439047002": {
       "alerted": false,
       "first_seen": "2026-11-07T07:47:15.094238+00:00",
@@ -118530,6 +118516,13 @@
       "location": "Tokyo, Japan",
       "title": "Enterprise Account Executive - FSI",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440900002"
+    },
+    "Databricks:8440922002": {
+      "alerted": false,
+      "first_seen": "2026-11-08T19:20:48.541913+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Enterprise Account Executive - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440922002"
     },
     "Databricks:8440940002": {
       "alerted": false,
@@ -244860,13 +244853,6 @@
       "title": "CAD Tools Developer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Tools-Developer_JR2007175"
     },
-    "NVIDIA:JR2007263": {
-      "alerted": false,
-      "first_seen": "2026-08-09T19:30:23.760296+00:00",
-      "location": "Israel, Raanana",
-      "title": "Infiniband Network Software Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Infiniband-Network-Software-Engineer_JR2007263"
-    },
     "NVIDIA:JR2007277": {
       "alerted": false,
       "first_seen": "2026-08-30T21:59:40.000836+00:00",
@@ -264452,6 +264438,13 @@
       "location": "Taiwan, Taipei",
       "title": "System Application Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Application-Engineer_JR2029384-1"
+    },
+    "NVIDIA:JR2029386": {
+      "alerted": false,
+      "first_seen": "2026-11-08T19:20:48.542046+00:00",
+      "location": "2 Locations",
+      "title": "Senior Firmware Application Engineer - System Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Firmware-Application-Engineer---System-Software_JR2029386"
     },
     "NVIDIA:JR2029400": {
       "alerted": false,
@@ -313942,6 +313935,13 @@
       "location": "Ottawa",
       "title": "Data Risk Management, Associate",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Ottawa/Data-and-Analytics-Engineering---Data-and-Automation---Associate-2---CS---G_766921WD"
+    },
+    "PwC (Experienced):766923WD": {
+      "alerted": false,
+      "first_seen": "2026-11-08T19:20:48.542650+00:00",
+      "location": "Gen\u00e8ve",
+      "title": "FY27 - ASR - ASR TIS GE - Gen\u00e8ve - Manager - Start 01.12.2026",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Genve/FY27---ASR---ASR-TIS-GE---Genve---Manager---Start-01122026_766923WD"
     },
     "PwC (Experienced):766932WD": {
       "alerted": false,
