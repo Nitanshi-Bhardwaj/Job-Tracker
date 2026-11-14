@@ -1442,27 +1442,6 @@
       "title": "Adobe Intern FY27",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Adobe-Intern-FY27_R173562"
     },
-    "Amazon:10499845": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490545+00:00",
-      "location": "Seattle, Washington, USA",
-      "title": "Software Development Engineer, Elastic Block Store (EBS), AWS (L5), EBS Stats",
-      "url": "https://www.amazon.jobs/en/jobs/10499845/software-development-engineer-elastic-block-store-ebs-aws-l5-ebs-stats"
-    },
-    "Amazon:10499850": {
-      "alerted": true,
-      "first_seen": "2026-08-12T16:39:20.490625+00:00",
-      "location": "Tempe, Arizona, USA",
-      "title": "Business Intelligence Engineer, NA Supply Chain Execution- Production Planning Team",
-      "url": "https://www.amazon.jobs/en/jobs/10499850/business-intelligence-engineer-na-supply-chain-execution-production-planning-team"
-    },
-    "Amazon:10499898": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490688+00:00",
-      "location": "Arlington, Virginia, USA",
-      "title": "Solutions Architect - AWS WWPS DoW, US Navy Solutions Architecture",
-      "url": "https://www.amazon.jobs/en/jobs/10499898/solutions-architect-aws-wwps-dow-us-navy-solutions-architecture"
-    },
     "Amazon:10499912": {
       "alerted": false,
       "first_seen": "2026-08-12T17:39:30.268159+00:00",
@@ -23128,6 +23107,13 @@
       "title": "Sr. Software Development Engineer, Amazon Quick",
       "url": "https://www.amazon.jobs/en/jobs/10604744/sr-software-development-engineer-amazon-quick"
     },
+    "Amazon:10604759": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.776165+00:00",
+      "location": "Dallas, Texas, USA",
+      "title": "TAM, AWS Enterprise Support, Strategic Industries, AutoMfg",
+      "url": "https://www.amazon.jobs/en/jobs/10604759/tam-aws-enterprise-support-strategic-industries-automfg"
+    },
     "Amazon:10604778": {
       "alerted": false,
       "first_seen": "2026-11-13T22:11:50.215423+00:00",
@@ -29827,6 +29813,13 @@
       "title": "Customer Success Manager, Beneficial Deployments EMEA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462040008"
     },
+    "Anthropic:5462511008": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.785049+00:00",
+      "location": "San Francisco, CA | New York City, NY",
+      "title": "Corporate Counsel, Public Reporting",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462511008"
+    },
     "Anthropic:5462557008": {
       "alerted": false,
       "first_seen": "2026-10-24T01:38:48.651447+00:00",
@@ -30309,6 +30302,13 @@
       "location": "San Francisco, CA | New York City, NY",
       "title": "Scaled Account Manager, Beneficial Deployments",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473216008"
+    },
+    "Anthropic:5473344008": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.785701+00:00",
+      "location": "Sydney, Australia",
+      "title": "Manager, Enterprise Sales - Industries, ANZ",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473344008"
     },
     "Anthropic:5473362008": {
       "alerted": false,
@@ -121828,6 +121828,13 @@
       "title": "Sr. Technical Program Manager, FDE - LATAM",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8684079002"
     },
+    "Databricks:8686919002": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.776076+00:00",
+      "location": "London, United Kingdom",
+      "title": "Pre-sales Engineering Manager (Retail & CPG) x2 New roles",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8686919002"
+    },
     "Databricks:8687483002": {
       "alerted": false,
       "first_seen": "2026-11-06T02:37:22.032529+00:00",
@@ -200592,6 +200599,13 @@
       "title": "U.S. Private Bank - AWM Program Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210801277"
     },
+    "JPMorgan Chase:210801278": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.785738+00:00",
+      "location": "Plano, TX, United States",
+      "title": "Director of Software Engineering",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210801278"
+    },
     "JPMorgan Chase:210801280": {
       "alerted": false,
       "first_seen": "2026-10-27T05:30:27.057642+00:00",
@@ -216110,6 +216124,13 @@
       "location": "New York, NY, United States",
       "title": "Senior Executive Administrative Assistant",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210808585"
+    },
+    "JPMorgan Chase:210808587": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.785788+00:00",
+      "location": "Newnan, GA, United States",
+      "title": "Associate Banker, 30 Hours, Newnan, GA - Bullsboro and Newnan Crossing Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210808587"
     },
     "JPMorgan Chase:210808593": {
       "alerted": false,
@@ -235795,13 +235816,6 @@
       "title": "Technical Leader, Executive Director, Finance Operations Risk Tech",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Bengaluru-India/Technical-Leader--Executive-Director--Finance-Operations-Risk-Tech_JR042114-2"
     },
-    "Morgan Stanley:JR042141": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490875+00:00",
-      "location": "Pittsburgh, Pennsylvania, United States of America",
-      "title": "Registered Client Relationship Analyst",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-Pennsylvania-United-States-of-America/Registered-Client-Relationship-Analyst_JR042141"
-    },
     "Morgan Stanley:JR042180": {
       "alerted": false,
       "first_seen": "2026-08-19T09:38:31.450397+00:00",
@@ -249585,13 +249599,6 @@
       "title": "Package Design Methodology Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Package-Design-Methodology-Engineer_JR2021653"
     },
-    "NVIDIA:JR2021687": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490917+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Manager, Strategic Sourcing - Professional Services",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Strategic-Sourcing---Professional-Services_JR2021687"
-    },
     "NVIDIA:JR2021689": {
       "alerted": false,
       "first_seen": "2026-11-10T02:54:33.414170+00:00",
@@ -250257,13 +250264,6 @@
       "title": "Demand Planning Analyst",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Demand-Planning-Analyst_JR2022819"
     },
-    "NVIDIA:JR2022821": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490965+00:00",
-      "location": "4 Locations",
-      "title": "Solutions Architect - NVIDIA AI Cloud Partners and Datacentre Infrastructure",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Solutions-Architect---NVIDIA-AI-Cloud-Partners-and-Datacentre-Infrastructure_JR2022821"
-    },
     "NVIDIA:JR2022832": {
       "alerted": false,
       "first_seen": "2026-08-29T03:51:49.314093+00:00",
@@ -250495,13 +250495,6 @@
       "title": "Senior Test Developer \u2013 Automotive Simulation Testing & Failure-Triage Lead",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-Test-Developer---Automotive-Simulation-Testing---Failure-Triage-Lead_JR2022975-1"
     },
-    "NVIDIA:JR2022978": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.491158+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Senior Solutions Architect, NVIDIA Cloud Partner Operations",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--NVIDIA-Cloud-Partner-Operations_JR2022978"
-    },
     "NVIDIA:JR2022985": {
       "alerted": false,
       "first_seen": "2026-08-17T08:46:03.622788+00:00",
@@ -250557,20 +250550,6 @@
       "location": "2 Locations",
       "title": "Senior Signal and Power Integrity Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Signal-and-Power-Integrity-Engineer_JR2023011"
-    },
-    "NVIDIA:JR2023029": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.491036+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Director, IP Licensing",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--IP-Licensing_JR2023029"
-    },
-    "NVIDIA:JR2023030": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.491117+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "U.S. and Global Employment Litigation and Compliance Counsel",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/US-and-Global-Employment-Litigation-and-Compliance-Counsel_JR2023030-1"
     },
     "NVIDIA:JR2023042": {
       "alerted": false,
@@ -250852,13 +250831,6 @@
       "title": "Senior Executive Events Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Executive-Events-Manager_JR2023151-1"
     },
-    "NVIDIA:JR2023166": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.491002+00:00",
-      "location": "US, CA, Santa Clara",
-      "title": "Audio Visual Technical Producer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Audio-Visual-Technical-Producer_JR2023166"
-    },
     "NVIDIA:JR2023167": {
       "alerted": false,
       "first_seen": "2026-08-19T08:59:13.994411+00:00",
@@ -251033,13 +251005,6 @@
       "location": "3 Locations",
       "title": "Senior Solutions Architect, Financial Services Banking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Solutions-Architect--Financial-Services-Banking_JR2023237"
-    },
-    "NVIDIA:JR2023238": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.491074+00:00",
-      "location": "2 Locations",
-      "title": "Senior Account Manager, CSP - Networking",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Account-Manager--CSP---Networking_JR2023238"
     },
     "NVIDIA:JR2023239": {
       "alerted": false,
@@ -265475,13 +265440,6 @@
       "title": "Forward Deployed Engineer - Munich",
       "url": "https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef"
     },
-    "OpenAI:05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.494898+00:00",
-      "location": "San Francisco",
-      "title": "Product Manager, Sensitive Deployments",
-      "url": "https://jobs.ashbyhq.com/openai/05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d"
-    },
     "OpenAI:063d1957-23f0-4976-b8bd-93a0d4a31cfb": {
       "alerted": false,
       "first_seen": "2026-11-14T02:25:44.958677+00:00",
@@ -265845,6 +265803,13 @@
       "location": "San Francisco",
       "title": "Software Engineer, Private Computing",
       "url": "https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7"
+    },
+    "OpenAI:0fc4742f-21f9-40a3-925e-adeb0a6920c1": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.778940+00:00",
+      "location": "San Francisco",
+      "title": "Training - Runtime Foundations Engineer",
+      "url": "https://jobs.ashbyhq.com/openai/0fc4742f-21f9-40a3-925e-adeb0a6920c1"
     },
     "OpenAI:0fca3b36-8aaa-491a-be87-09efacfeca5e": {
       "alerted": false,
@@ -266216,6 +266181,13 @@
       "location": "San Francisco",
       "title": "Applied AI Architect, Healthcare & Life Sciences",
       "url": "https://jobs.ashbyhq.com/openai/1baad891-43b8-4e2a-9e6c-f68741e718a4"
+    },
+    "OpenAI:1bb1f351-41a2-43a5-bac1-259859886cb3": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.778018+00:00",
+      "location": "San Francisco",
+      "title": "Software Engineer, GTM Growth Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3"
     },
     "OpenAI:1bdc3943-94e8-4479-b1ee-9e2c903a5487": {
       "alerted": false,
@@ -266924,6 +266896,13 @@
       "title": "International Marketing Lead, SMB Ads",
       "url": "https://jobs.ashbyhq.com/openai/2c992fb3-0501-46fc-af5b-76660b4acfeb"
     },
+    "OpenAI:2c9d0566-69b1-435e-bd8f-4eefc04dd076": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.777430+00:00",
+      "location": "San Francisco",
+      "title": "Component and Product Quality Engineer, Interconnects",
+      "url": "https://jobs.ashbyhq.com/openai/2c9d0566-69b1-435e-bd8f-4eefc04dd076"
+    },
     "OpenAI:2cba0d45-7a4f-4f38-ac73-3f8633bf0349": {
       "alerted": false,
       "first_seen": "2026-11-13T22:11:50.228443+00:00",
@@ -267365,13 +267344,6 @@
       "title": "Product Marketing Lead, API Models & Research",
       "url": "https://jobs.ashbyhq.com/openai/38388825-65f9-46c5-b5f4-c783d1fb17d4"
     },
-    "OpenAI:3874db80-f3ec-4dd1-8d56-6441e8f7299d": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.493080+00:00",
-      "location": "San Francisco",
-      "title": "Product Designer, People Innovation Labs",
-      "url": "https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d"
-    },
     "OpenAI:38ddaa2c-a490-427a-8457-0e92bf00138c": {
       "alerted": false,
       "first_seen": "2026-11-13T22:11:50.247012+00:00",
@@ -267553,13 +267525,6 @@
       "location": "Tokyo, Japan",
       "title": "AI Support Engineer - Tokyo (Korean Speaking)",
       "url": "https://jobs.ashbyhq.com/openai/3dcfbfbf-9ac2-46fe-8cce-4e2660d98be4"
-    },
-    "OpenAI:3de4718b-8f4c-4b63-8637-02077a0113aa": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.494042+00:00",
-      "location": "San Francisco",
-      "title": "Security Engineer, Host Assurance",
-      "url": "https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa"
     },
     "OpenAI:3ed37e51-40dc-4d17-8219-d3500af8892c": {
       "alerted": false,
@@ -268212,6 +268177,13 @@
       "title": "Account Associate - SF",
       "url": "https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7"
     },
+    "OpenAI:565c001b-c164-477a-88a9-ce81e5e5480d": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.784385+00:00",
+      "location": "Singapore",
+      "title": "Hardware Exploratory",
+      "url": "https://jobs.ashbyhq.com/openai/565c001b-c164-477a-88a9-ce81e5e5480d"
+    },
     "OpenAI:5664d2d6-639d-4696-9dab-0d703f1d9c5d": {
       "alerted": true,
       "first_seen": "2026-08-12T18:34:36.547517+00:00",
@@ -268288,6 +268260,13 @@
       "location": "San Francisco",
       "title": "Lead HR Business Partner, GTM",
       "url": "https://jobs.ashbyhq.com/openai/57486b6e-0b23-4fec-9c35-5efb63fa521a"
+    },
+    "OpenAI:577e6673-0a4a-491b-9a0d-facbdd3bdf3c": {
+      "alerted": true,
+      "first_seen": "2026-11-14T09:12:58.782647+00:00",
+      "location": "San Francisco",
+      "title": "Applied AI Engineer, Codex Core Agent",
+      "url": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c"
     },
     "OpenAI:579595e5-0b16-485e-b7c5-102fc7467def": {
       "alerted": false,
@@ -268982,13 +268961,6 @@
       "title": "Senior Web Experience Strategist",
       "url": "https://jobs.ashbyhq.com/openai/67eb66cd-d89e-4312-a2cf-59e9a0a5e43f"
     },
-    "OpenAI:67f7347a-9ee9-48b3-9b34-24b717634cf9": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.494545+00:00",
-      "location": "Singapore",
-      "title": "IT Support Singapore, APAC Regional Lead",
-      "url": "https://jobs.ashbyhq.com/openai/67f7347a-9ee9-48b3-9b34-24b717634cf9"
-    },
     "OpenAI:680833a1-01e4-4689-917c-71a4f00ff86c": {
       "alerted": false,
       "first_seen": "2026-11-13T01:28:05.104747+00:00",
@@ -269402,6 +269374,13 @@
       "title": "Legal Discovery Program Manager",
       "url": "https://jobs.ashbyhq.com/openai/73a111f9-e83d-4cce-9148-2a32ccf1d251"
     },
+    "OpenAI:73e56947-5d8b-414d-a0ac-9dc9b04e2406": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.781174+00:00",
+      "location": "Seattle",
+      "title": "Software Engineer, Full-Stack - Core Experimentation",
+      "url": "https://jobs.ashbyhq.com/openai/73e56947-5d8b-414d-a0ac-9dc9b04e2406"
+    },
     "OpenAI:73f27385-2b31-49da-bc57-92e6f194c73e": {
       "alerted": false,
       "first_seen": "2026-08-26T18:22:24.333821+00:00",
@@ -269661,6 +269640,13 @@
       "title": "Project Manager, Design and Construction - R&D/Lab Buildouts",
       "url": "https://jobs.ashbyhq.com/openai/7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9"
     },
+    "OpenAI:7ade7a12-845c-4e3a-af23-c028420bd181": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.782231+00:00",
+      "location": "San Francisco",
+      "title": "Software Engineer, Codex Core Agents",
+      "url": "https://jobs.ashbyhq.com/openai/7ade7a12-845c-4e3a-af23-c028420bd181"
+    },
     "OpenAI:7aee5d38-6543-4fd7-b110-8cdb609c5c9e": {
       "alerted": false,
       "first_seen": "2026-09-22T19:01:10.236379+00:00",
@@ -269702,6 +269688,13 @@
       "location": "San Francisco",
       "title": "Technical Operations Analyst, User Safety & Risk Operations",
       "url": "https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5"
+    },
+    "OpenAI:7b90b83c-ec28-4e65-a235-6675e37b91c3": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.779337+00:00",
+      "location": "Seattle",
+      "title": "Forward Deployed Software Engineer - Seattle",
+      "url": "https://jobs.ashbyhq.com/openai/7b90b83c-ec28-4e65-a235-6675e37b91c3"
     },
     "OpenAI:7ba0b390-b198-4101-80bb-b49a6dd62607": {
       "alerted": false,
@@ -269905,6 +269898,13 @@
       "location": "US - Remote",
       "title": "Senior Global Security Investigator",
       "url": "https://jobs.ashbyhq.com/openai/81864df0-ce84-44af-8aef-e05dc5660793"
+    },
+    "OpenAI:823a05bf-33fb-4d94-9dd8-571723d27b1a": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.781788+00:00",
+      "location": "Seattle",
+      "title": "Software Engineer, Infrastructure - Core Experimentation ",
+      "url": "https://jobs.ashbyhq.com/openai/823a05bf-33fb-4d94-9dd8-571723d27b1a"
     },
     "OpenAI:82492010-ea96-449d-9949-b726b1a22616": {
       "alerted": false,
@@ -270333,6 +270333,13 @@
       "title": "Electrical Engineer, Robotics",
       "url": "https://jobs.ashbyhq.com/openai/8eaa92fb-b908-4624-9b34-1ec7b5aa03d6"
     },
+    "OpenAI:8f1b8c6b-b414-4026-a434-6ca32c3b3e0d": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.783141+00:00",
+      "location": "US - Remote",
+      "title": "Principal Security Engineer, Infrastructure Security",
+      "url": "https://jobs.ashbyhq.com/openai/8f1b8c6b-b414-4026-a434-6ca32c3b3e0d"
+    },
     "OpenAI:8f2d7c1e-7a76-4145-9a9d-b71a12ef9ad4": {
       "alerted": false,
       "first_seen": "2026-11-10T02:54:33.422309+00:00",
@@ -270423,13 +270430,6 @@
       "location": "San Francisco",
       "title": " Value Engineer - San Francisco",
       "url": "https://jobs.ashbyhq.com/openai/916fa6f6-f441-43c6-9769-27e4bf0b2cc9"
-    },
-    "OpenAI:917f8212-faa6-48bd-a83d-497536d4101f": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.493535+00:00",
-      "location": "San Francisco",
-      "title": "Senior Leasing & Strategy Manager, Real Estate & Workplace",
-      "url": "https://jobs.ashbyhq.com/openai/917f8212-faa6-48bd-a83d-497536d4101f"
     },
     "OpenAI:91cf75be-a3c6-4f39-9623-f72186fd8553": {
       "alerted": false,
@@ -270844,6 +270844,13 @@
       "title": "Product Manager, ChatGPT and Codex App Ecosystem",
       "url": "https://jobs.ashbyhq.com/openai/99c80ef6-b5aa-4355-9170-0010151867e6"
     },
+    "OpenAI:99f4a8ea-6bd0-49a3-b90a-5004c8923523": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.780164+00:00",
+      "location": "New York City",
+      "title": "Customer Success Manager, Ads Solutions (New York City)",
+      "url": "https://jobs.ashbyhq.com/openai/99f4a8ea-6bd0-49a3-b90a-5004c8923523"
+    },
     "OpenAI:99f823a1-66ec-44bd-ba30-d3645aa49d74": {
       "alerted": false,
       "first_seen": "2026-08-29T03:51:49.317653+00:00",
@@ -270977,6 +270984,13 @@
       "title": "Full Stack Engineer, Fleet Scheduling",
       "url": "https://jobs.ashbyhq.com/openai/9d11e1d8-af1d-413b-873f-d8fac2bdee99"
     },
+    "OpenAI:9d26d55c-6989-4607-99be-1fa44cb94983": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.784020+00:00",
+      "location": "Singapore",
+      "title": "Operations Exploratory ",
+      "url": "https://jobs.ashbyhq.com/openai/9d26d55c-6989-4607-99be-1fa44cb94983"
+    },
     "OpenAI:9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f": {
       "alerted": false,
       "first_seen": "2026-08-12T18:34:36.548787+00:00",
@@ -271081,13 +271095,6 @@
       "location": "San Francisco",
       "title": "Physical Network & Structured Cabling Engineer",
       "url": "https://jobs.ashbyhq.com/openai/9eb3a6a6-adff-4e82-83b6-97df514ba9bd"
-    },
-    "OpenAI:9efcef02-0515-4672-bace-81329944b38b": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.492753+00:00",
-      "location": "San Francisco",
-      "title": "Software Engineer, Workload Enablement",
-      "url": "https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b"
     },
     "OpenAI:9f586619-7190-4b91-9002-d3826eaed72f": {
       "alerted": false,
@@ -271522,6 +271529,13 @@
       "location": "San Francisco",
       "title": "Data Engineering Manager, Growth & Revenue",
       "url": "https://jobs.ashbyhq.com/openai/acbf80cd-20a7-47fe-aaf9-3e9224d1570c"
+    },
+    "OpenAI:ace42c6d-8663-4b30-9337-ec70cf071d73": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.783634+00:00",
+      "location": "US - Remote",
+      "title": "Principal Software Engineer, Infrastructure Security",
+      "url": "https://jobs.ashbyhq.com/openai/ace42c6d-8663-4b30-9337-ec70cf071d73"
     },
     "OpenAI:ace9f6ba-0448-47ba-83a0-714a59c0dfa9": {
       "alerted": false,
@@ -273287,13 +273301,6 @@
       "title": "Partner Manager, Monetization",
       "url": "https://jobs.ashbyhq.com/openai/ddd35c55-d925-467c-b965-a698e1437d8b"
     },
-    "OpenAI:ddf7e534-0c65-4b7e-b97e-f5dc33fc8bdf": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.491746+00:00",
-      "location": "San Francisco",
-      "title": "AI Deployment Manager - Pilots - San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/ddf7e534-0c65-4b7e-b97e-f5dc33fc8bdf"
-    },
     "OpenAI:de06790a-7243-4e33-a6f1-e7bd34009588": {
       "alerted": false,
       "first_seen": "2026-08-12T18:34:36.553763+00:00",
@@ -273328,6 +273335,13 @@
       "location": "San Francisco",
       "title": "Dedicated Support Engineering Lead",
       "url": "https://jobs.ashbyhq.com/openai/deacd43e-9c1b-467c-96e2-11f4f6bdb139"
+    },
+    "OpenAI:deff9215-217d-4392-825e-7788cb8205f3": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.780552+00:00",
+      "location": "San Francisco",
+      "title": "Software Engineer, Localization",
+      "url": "https://jobs.ashbyhq.com/openai/deff9215-217d-4392-825e-7788cb8205f3"
     },
     "OpenAI:df242b29-6a84-4968-8d57-cbeec20dee67": {
       "alerted": false,
@@ -273391,6 +273405,13 @@
       "location": "London, UK",
       "title": "UK Head of Strategic Engagement & Partnerships",
       "url": "https://jobs.ashbyhq.com/openai/e0f50751-123c-4200-adf2-aada78c3a6bb"
+    },
+    "OpenAI:e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.779728+00:00",
+      "location": "San Francisco",
+      "title": "Software Engineer, Delivery / CD",
+      "url": "https://jobs.ashbyhq.com/openai/e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2"
     },
     "OpenAI:e183d73c-4eeb-4b75-9b69-435591bb535a": {
       "alerted": false,
@@ -273461,13 +273482,6 @@
       "location": "San Francisco",
       "title": "Software Engineer, Plugin Ecosystem",
       "url": "https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495"
-    },
-    "OpenAI:e44bfa94-0b82-4d0c-b224-02155b76eea9": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.492320+00:00",
-      "location": "San Francisco",
-      "title": "Software Engineer, Infrastructure - Analytics Platform",
-      "url": "https://jobs.ashbyhq.com/openai/e44bfa94-0b82-4d0c-b224-02155b76eea9"
     },
     "OpenAI:e45913b7-b84d-49d3-a0b6-c19b55185272": {
       "alerted": false,
@@ -273867,6 +273881,13 @@
       "location": "San Francisco",
       "title": "Software Engineer, Codex Cyber",
       "url": "https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1"
+    },
+    "OpenAI:ef828b89-41ed-4cde-96a9-94ffe5770d4c": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.776810+00:00",
+      "location": "San Francisco",
+      "title": "Product Evals Engineer, ChatGPT Learning",
+      "url": "https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c"
     },
     "OpenAI:efed424b-e025-400f-8ac3-73e962b85751": {
       "alerted": false,
@@ -274273,6 +274294,13 @@
       "location": "San Francisco",
       "title": "Product Manager, Safety Measurement",
       "url": "https://jobs.ashbyhq.com/openai/fbc7ebaf-3a26-406d-9ff6-f166f3e246a2"
+    },
+    "OpenAI:fc38c6bf-5330-435c-99b6-1bcf1f5829a8": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.778405+00:00",
+      "location": "San Francisco",
+      "title": "Product Manager, API Agents",
+      "url": "https://jobs.ashbyhq.com/openai/fc38c6bf-5330-435c-99b6-1bcf1f5829a8"
     },
     "OpenAI:fc5bbc77-a30c-4e7a-9acc-8a2e748545b4": {
       "alerted": false,
@@ -280251,13 +280279,6 @@
       "location": "San Francisco",
       "title": "Technical Recruiter, AI",
       "url": "https://jobs.ashbyhq.com/perplexity/ef269656-94ef-463a-ae0e-6102ca3a94dd"
-    },
-    "Perplexity AI:f05bd47b-bed8-4f00-9d9c-026c72578e82": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.491313+00:00",
-      "location": "San Francisco",
-      "title": "Senior Content Manager",
-      "url": "https://jobs.ashbyhq.com/perplexity/f05bd47b-bed8-4f00-9d9c-026c72578e82"
     },
     "Perplexity AI:f25e190e-0508-4707-b575-fcaed358dc13": {
       "alerted": false,
@@ -320754,13 +320775,6 @@
       "title": "Senior / Lead / Principal Software Engineer - Foundations Team (Infrastructure/Platform)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Remote/Senior---Lead---Principal-Software-Engineer---Foundations-Team--Infrastructure-Platform-_JR343618"
     },
-    "Salesforce:JR343623": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490801+00:00",
-      "location": "",
-      "title": "",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site"
-    },
     "Salesforce:JR343654": {
       "alerted": false,
       "first_seen": "2026-09-30T22:27:23.523692+00:00",
@@ -323183,13 +323197,6 @@
       "title": "Business Operations Manager",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Austin/Business-Operations-Manager_JR354964"
     },
-    "Salesforce:JR354968": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490727+00:00",
-      "location": "Brazil - Sao Paulo",
-      "title": "Cloud Account Executive",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/Cloud-Account-Executive_JR354968"
-    },
     "Salesforce:JR354970": {
       "alerted": false,
       "first_seen": "2026-09-15T22:32:57.116263+00:00",
@@ -323498,13 +323505,6 @@
       "title": "Account Executive, Slack (Taiwan)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Taiwan---Remote/Account-Executive--Slack--Taiwan-_JR355510"
     },
-    "Salesforce:JR355511": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490773+00:00",
-      "location": "California - San Francisco",
-      "title": "Software Architect - AI-Native Developer Platform (Salesforce DX)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Architect---AI-Native-Developer-Platform--Salesforce-DX-_JR355511"
-    },
     "Salesforce:JR355517": {
       "alerted": false,
       "first_seen": "2026-09-08T11:32:00.993315+00:00",
@@ -323616,13 +323616,6 @@
       "location": "8 Locations",
       "title": "Named Account Executive, Federal Civilian (DOI, Bureau of Indian Affairs and Wildland Fires Management)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC---Remote/Named-Account-Executive--Federal-Civilian--DOI--Bureau-of-Indian-Affairs-and-Wildland-Fires-_JR355656"
-    },
-    "Salesforce:JR355662": {
-      "alerted": false,
-      "first_seen": "2026-08-12T16:39:20.490836+00:00",
-      "location": "Mexico - Mexico City",
-      "title": "Manager, Sales",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/Manager--Sales_JR355662"
     },
     "Salesforce:JR355670": {
       "alerted": false,
@@ -339268,6 +339261,13 @@
       "location": "2 Locations",
       "title": "Customer Success Manager - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Singapore---Singapore/Customer-Success-Manager---Slack_JR367442"
+    },
+    "Salesforce:JR367446": {
+      "alerted": false,
+      "first_seen": "2026-11-14T09:12:58.776208+00:00",
+      "location": "Mexico - Mexico City",
+      "title": "Platform & Security Sales Specialist",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/Platform---Security-Sales-Specialist_JR367446"
     },
     "Salesforce:JR367463": {
       "alerted": false,
