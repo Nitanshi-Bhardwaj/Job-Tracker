@@ -23016,6 +23016,13 @@
       "title": "Software Dev Engineer II, Access Management Services, Amazon Foundational Security Services",
       "url": "https://www.amazon.jobs/en/jobs/10604643/software-dev-engineer-ii-access-management-services-amazon-foundational-security-services"
     },
+    "Amazon:10604667": {
+      "alerted": false,
+      "first_seen": "2026-11-15T03:40:20.359123+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Software Dev Engineer II, ECR - Private",
+      "url": "https://www.amazon.jobs/en/jobs/10604667/software-dev-engineer-ii-ecr-private"
+    },
     "Amazon:10604684": {
       "alerted": false,
       "first_seen": "2026-11-13T22:11:50.215531+00:00",
@@ -25683,12 +25690,33 @@
       "title": "AV Engineer, Platform & Automation",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008"
     },
+    "Anthropic:5385256008": {
+      "alerted": false,
+      "first_seen": "2026-11-15T03:40:20.360930+00:00",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "M&A Tax Director",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385256008"
+    },
     "Anthropic:5385586008": {
       "alerted": false,
       "first_seen": "2026-08-12T22:51:39.324136+00:00",
       "location": "San Francisco, CA | New York City, NY",
       "title": "Solutions Marketing Lead, Public Sector",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008"
+    },
+    "Anthropic:5385588008": {
+      "alerted": false,
+      "first_seen": "2026-11-15T03:40:20.359806+00:00",
+      "location": "San Francisco, CA",
+      "title": "AV Engineer, Builds and Design",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008"
+    },
+    "Anthropic:5385590008": {
+      "alerted": false,
+      "first_seen": "2026-11-15T03:40:20.360375+00:00",
+      "location": "London, UK",
+      "title": "AV Engineer, Builds and Design",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385590008"
     },
     "Anthropic:5385602008": {
       "alerted": false,
@@ -58932,6 +58960,13 @@
       "location": "4 Locations",
       "title": "Merrill Advisor Development Program - Financial Advisor: Memphis/Little Rock Market",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Little-Rock/Merrill-Advisor-Development-Program---Financial-Advisor--Memphis-Little-Rock-Market_26042463-2"
+    },
+    "Bank of America:26042492": {
+      "alerted": false,
+      "first_seen": "2026-11-15T03:40:20.361105+00:00",
+      "location": "Panama City",
+      "title": "Merrill Advisor Development Program - Financial Advisor: North Florida Market",
+      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Panama-City/Merrill-Advisor-Development-Program---Financial-Advisor--North-Florida-Market_26042492"
     },
     "BlackRock:R241791": {
       "alerted": false,
@@ -218414,13 +218449,6 @@
       "title": "Consultant, Advisors & Consulting Services, Strategy & Transformation",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Tokyo-Japan/Consultant--Strategy---Transformation_R-269034"
     },
-    "Mastercard:R-269540": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.272206+00:00",
-      "location": "Sao Paulo, Brazil",
-      "title": "Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Sao-Paulo-Brazil/Associate-Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics_R-269540"
-    },
     "Mastercard:R-269619": {
       "alerted": false,
       "first_seen": "2026-09-03T17:59:48.664284+00:00",
@@ -257887,6 +257915,13 @@
       "title": "Senior IT SOX Auditor",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-IT-SOX-Auditor_JR2026125"
     },
+    "NVIDIA:JR2026129": {
+      "alerted": true,
+      "first_seen": "2026-11-15T03:40:20.359259+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1"
+    },
     "NVIDIA:JR2026131": {
       "alerted": false,
       "first_seen": "2026-09-21T22:24:24.450989+00:00",
@@ -264173,6 +264208,13 @@
       "title": "Senior AI Infrastructure Engineer - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-AI-Infrastructure-Engineer---DGX-Cloud_JR2029048-1"
     },
+    "NVIDIA:JR2029049": {
+      "alerted": false,
+      "first_seen": "2026-11-15T03:40:20.359208+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior AI Engineer, Forward Deployed - Palantir Foundry and AIP",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-AI-Engineer--Forward-Deployed---Palantir-Foundry-and-AIP_JR2029049"
+    },
     "NVIDIA:JR2029056": {
       "alerted": false,
       "first_seen": "2026-11-04T21:50:45.608052+00:00",
@@ -265706,13 +265748,6 @@
       "title": "Account Director, Startups",
       "url": "https://jobs.ashbyhq.com/openai/0b428c6d-7c06-4feb-82b6-5bbe5cda2a18"
     },
-    "OpenAI:0b57e309-426d-4f5c-a28c-6dd941b84703": {
-      "alerted": true,
-      "first_seen": "2026-08-12T17:39:30.272683+00:00",
-      "location": "San Francisco",
-      "title": "Machine Learning Data Scientist, Forecasting",
-      "url": "https://jobs.ashbyhq.com/openai/0b57e309-426d-4f5c-a28c-6dd941b84703"
-    },
     "OpenAI:0b80474f-6438-4b41-94e4-0e653c7e3457": {
       "alerted": false,
       "first_seen": "2026-10-21T20:41:56.203406+00:00",
@@ -266063,13 +266098,6 @@
       "title": "Procurement Coordinator",
       "url": "https://jobs.ashbyhq.com/openai/186c3f38-2739-4998-ac8b-c21d237fec72"
     },
-    "OpenAI:18a60850-cf8b-4374-a214-ef78b9712deb": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.274470+00:00",
-      "location": "San Francisco",
-      "title": "CPU Storage Tech Lead",
-      "url": "https://jobs.ashbyhq.com/openai/18a60850-cf8b-4374-a214-ef78b9712deb"
-    },
     "OpenAI:18b4427e-b168-475e-a1e2-92a86c73f0f0": {
       "alerted": false,
       "first_seen": "2026-10-30T20:12:06.361510+00:00",
@@ -266279,13 +266307,6 @@
       "location": "San Francisco",
       "title": "Research Engineer / Research Scientist- Post Training",
       "url": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5"
-    },
-    "OpenAI:1c92378f-c553-4711-8d06-00c9f834c699": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.273515+00:00",
-      "location": "San Francisco",
-      "title": "Optical Network Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/1c92378f-c553-4711-8d06-00c9f834c699"
     },
     "OpenAI:1d386acc-5fe0-44ed-b288-a6b1b891c9a8": {
       "alerted": false,
@@ -270942,13 +270963,6 @@
       "title": "Prototyping Lab Technician, Robotics",
       "url": "https://jobs.ashbyhq.com/openai/9ba938cb-f0c3-4e01-a8ea-1019a8175201"
     },
-    "OpenAI:9bb10253-dd50-41a2-a56e-c9204c32d235": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.274972+00:00",
-      "location": "Sydney, Australia",
-      "title": "AI Success Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/9bb10253-dd50-41a2-a56e-c9204c32d235"
-    },
     "OpenAI:9bfc3ebf-c154-4037-8fef-900d3a49ec89": {
       "alerted": false,
       "first_seen": "2026-08-17T16:59:23.309782+00:00",
@@ -273658,13 +273672,6 @@
       "title": "Senior Counsel, France",
       "url": "https://jobs.ashbyhq.com/openai/e8342a83-0036-438e-807a-6e0865659179"
     },
-    "OpenAI:e8558280-69dc-438a-b905-623f75ae6d62": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.275489+00:00",
-      "location": "San Francisco",
-      "title": "Token-as-a-Service Technical Program Manager",
-      "url": "https://jobs.ashbyhq.com/openai/e8558280-69dc-438a-b905-623f75ae6d62"
-    },
     "OpenAI:e8ab15cc-f1f9-43cd-8658-e51d925af98c": {
       "alerted": false,
       "first_seen": "2026-10-09T18:56:31.992486+00:00",
@@ -273797,13 +273804,6 @@
       "location": "San Francisco",
       "title": "Engineering Manager, Core Services ",
       "url": "https://jobs.ashbyhq.com/openai/ebc65e7d-d86a-4066-aa82-3a7758d97bb6"
-    },
-    "OpenAI:ec0a4e03-bbcc-4c64-813f-b53dabb8f53a": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.273933+00:00",
-      "location": "San Francisco",
-      "title": "Workload Porting & Performance Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a"
     },
     "OpenAI:ec0aa7c7-8995-4e01-9939-594a94549f85": {
       "alerted": false,
@@ -274315,13 +274315,6 @@
       "location": "San Francisco",
       "title": "Account Director, Digital Native Enterprise",
       "url": "https://jobs.ashbyhq.com/openai/fbb68247-eb54-4ad1-94b4-26e0dc24fd23"
-    },
-    "OpenAI:fbc7ebaf-3a26-406d-9ff6-f166f3e246a2": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.273126+00:00",
-      "location": "San Francisco",
-      "title": "Product Manager, Safety Measurement",
-      "url": "https://jobs.ashbyhq.com/openai/fbc7ebaf-3a26-406d-9ff6-f166f3e246a2"
     },
     "OpenAI:fc38c6bf-5330-435c-99b6-1bcf1f5829a8": {
       "alerted": false,
@@ -279194,6 +279187,13 @@
       "location": "San Francisco",
       "title": "Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)",
       "url": "https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9"
+    },
+    "Perplexity AI:10a51134-6741-40ec-8cca-a8ac1534673b": {
+      "alerted": false,
+      "first_seen": "2026-11-15T03:40:20.361062+00:00",
+      "location": "San Francisco",
+      "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+      "url": "https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b"
     },
     "Perplexity AI:1354f2e8-56c8-4a66-81f8-eb5d5b944506": {
       "alerted": false,
