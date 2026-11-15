@@ -22652,6 +22652,13 @@
       "title": "Principal, Senior Principal and Distinguished Engineer, AWS Agentic AI",
       "url": "https://www.amazon.jobs/en/jobs/10602945/principal-senior-principal-and-distinguished-engineer-aws-agentic-ai"
     },
+    "Amazon:10603132": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513232+00:00",
+      "location": "Haifa, Haifa, ISR",
+      "title": "Junior SW Engineer - Virtual Platforms",
+      "url": "https://www.amazon.jobs/en/jobs/10603132/junior-sw-engineer-virtual-platforms"
+    },
     "Amazon:10603210": {
       "alerted": false,
       "first_seen": "2026-11-12T20:39:17.113878+00:00",
@@ -23176,6 +23183,20 @@
       "location": "Bengaluru, Karnataka, IND",
       "title": "Software Development Manager, AWS DynamoDB",
       "url": "https://www.amazon.jobs/en/jobs/10605163/software-development-manager-aws-dynamodb"
+    },
+    "Amazon:10605448": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513137+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Software Development Engineer, Live and Linear Catalog",
+      "url": "https://www.amazon.jobs/en/jobs/10605448/software-development-engineer-live-and-linear-catalog"
+    },
+    "Amazon:10605453": {
+      "alerted": true,
+      "first_seen": "2026-11-15T11:30:05.513187+00:00",
+      "location": "New York, New York, USA",
+      "title": "Machine Learning Engineer, CreativeFlux, AI Studios ",
+      "url": "https://www.amazon.jobs/en/jobs/10605453/machine-learning-engineer-creativeflux-ai-studios"
     },
     "Anthropic:4017331008": {
       "alerted": false,
@@ -125852,6 +125873,13 @@
       "location": "Amsterdam, Netherlands",
       "title": "Sr. Engineering Manager - Developer Ecosystem",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940907002"
+    },
+    "Databricks:8944097002": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513055+00:00",
+      "location": "Bengaluru, India",
+      "title": "Staff Software Engineer (App-Framework)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8944097002"
     },
     "Figma:5364702004": {
       "alerted": false,
@@ -248864,6 +248892,13 @@
       "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870"
     },
+    "NVIDIA:JR2019878": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513670+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Manager, Physical Design Circuit and Signoff CAD",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Manager--Physical-Design-Circuit-and-Signoff-CAD_JR2019878"
+    },
     "NVIDIA:JR2019884": {
       "alerted": false,
       "first_seen": "2026-08-24T16:02:50.085774+00:00",
@@ -249591,6 +249626,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Verification-Engineer_JR2021700-1"
+    },
+    "NVIDIA:JR2021706": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513703+00:00",
+      "location": "2 Locations",
+      "title": "Senior Performance Modeling Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Performance-Modeling-Engineer_JR2021706"
     },
     "NVIDIA:JR2021714": {
       "alerted": false,
@@ -267239,13 +267281,6 @@
       "title": "Service Designer, Intelligence & Investigations",
       "url": "https://jobs.ashbyhq.com/openai/33250b88-936a-4994-950c-fc5fe346446c"
     },
-    "OpenAI:33302907-6876-4629-9bc0-e9c221e61dd5": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.279122+00:00",
-      "location": "S\u00e3o Paulo",
-      "title": "Regional Client Partner, Ads Solutions",
-      "url": "https://jobs.ashbyhq.com/openai/33302907-6876-4629-9bc0-e9c221e61dd5"
-    },
     "OpenAI:333ebd68-cc1d-4706-8d0a-07f3e50d7bfd": {
       "alerted": false,
       "first_seen": "2026-08-26T18:22:24.334859+00:00",
@@ -267890,13 +267925,6 @@
       "title": "Research Program Manager, Safety Measurement ",
       "url": "https://jobs.ashbyhq.com/openai/4bcc25ef-cf03-47db-896c-0fd9122afab1"
     },
-    "OpenAI:4c078f82-93b9-427c-8fd8-95de198884b4": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.277364+00:00",
-      "location": "Singapore",
-      "title": "Forward Deployed Engineer - Singapore",
-      "url": "https://jobs.ashbyhq.com/openai/4c078f82-93b9-427c-8fd8-95de198884b4"
-    },
     "OpenAI:4c0a6cb6-d365-4e5b-bdff-c093d951026d": {
       "alerted": false,
       "first_seen": "2026-11-05T01:51:12.008296+00:00",
@@ -268184,13 +268212,6 @@
       "title": "Business Communications Lead, Product",
       "url": "https://jobs.ashbyhq.com/openai/54d56768-ba4b-4e57-8e3d-6eacd3e88a42"
     },
-    "OpenAI:550d0123-238c-4ad8-aaee-ea4a5a484639": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.278681+00:00",
-      "location": "Washington, DC",
-      "title": "GRC Program Manager, US Government Compliance",
-      "url": "https://jobs.ashbyhq.com/openai/550d0123-238c-4ad8-aaee-ea4a5a484639"
-    },
     "OpenAI:55150071-fce8-48f5-aea4-14ed78b83511": {
       "alerted": true,
       "first_seen": "2026-09-14T23:22:07.380731+00:00",
@@ -268463,13 +268484,6 @@
       "location": "San Francisco",
       "title": "Researcher, Recursive Self-Improvement Safety",
       "url": "https://jobs.ashbyhq.com/openai/5a9e68f6-30b5-40c0-aa8c-c822c59140d0"
-    },
-    "OpenAI:5aaf1e78-c506-480f-91a7-e32092557eb9": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.276967+00:00",
-      "location": "San Francisco",
-      "title": "Procurement Enablement Lead",
-      "url": "https://jobs.ashbyhq.com/openai/5aaf1e78-c506-480f-91a7-e32092557eb9"
     },
     "OpenAI:5acf4854-1d42-40ca-bff8-4f6f04cdce68": {
       "alerted": true,
@@ -269339,13 +269353,6 @@
       "title": "Technical Program Manager, Rack Delivery",
       "url": "https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880"
     },
-    "OpenAI:71508273-13e5-4b77-a675-953ff3d73ca5": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.277772+00:00",
-      "location": "San Francisco",
-      "title": "SOC Architect",
-      "url": "https://jobs.ashbyhq.com/openai/71508273-13e5-4b77-a675-953ff3d73ca5"
-    },
     "OpenAI:71838fdf-4476-490c-81b6-4bf0746f6774": {
       "alerted": false,
       "first_seen": "2026-08-18T19:16:33.969060+00:00",
@@ -269506,13 +269513,6 @@
       "location": "US - Remote",
       "title": "Abuse Investigator - Scams & Fraud",
       "url": "https://jobs.ashbyhq.com/openai/7512a020-2f3c-4f19-921d-b76edaeba5d3"
-    },
-    "OpenAI:7536171d-0f98-4964-8f22-7968db062105": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.275913+00:00",
-      "location": "San Francisco",
-      "title": "Director, Compute & Infrastructure FP&A",
-      "url": "https://jobs.ashbyhq.com/openai/7536171d-0f98-4964-8f22-7968db062105"
     },
     "OpenAI:756d8c20-649a-47f2-8012-553b5f6cb0c5": {
       "alerted": false,
@@ -270052,13 +270052,6 @@
       "location": "Seattle",
       "title": "Editor, Research Team",
       "url": "https://jobs.ashbyhq.com/openai/85d4e269-af3f-4b62-91d3-8ede8361cd16"
-    },
-    "OpenAI:85fceac9-fb8a-4d71-a524-a8e5f1e9b01b": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.279856+00:00",
-      "location": "San Francisco",
-      "title": "Software Engineer, Inference - Performance Optimization",
-      "url": "https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b"
     },
     "OpenAI:85feb543-f234-4db3-9d9c-a6fb195ddc19": {
       "alerted": false,
@@ -271124,6 +271117,13 @@
       "title": "Partner Director - AWS Alliance Partnership, Japan",
       "url": "https://jobs.ashbyhq.com/openai/9ea666f7-9b16-481f-a16d-f533d45ca795"
     },
+    "OpenAI:9eabe3b6-7d42-4bd6-85f5-919117ad8056": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513632+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Business Recruiter",
+      "url": "https://jobs.ashbyhq.com/openai/9eabe3b6-7d42-4bd6-85f5-919117ad8056"
+    },
     "OpenAI:9eb3a6a6-adff-4e82-83b6-97df514ba9bd": {
       "alerted": false,
       "first_seen": "2026-10-01T01:25:01.686668+00:00",
@@ -271221,13 +271221,6 @@
       "location": "London, UK",
       "title": "Head of Community, EMEA",
       "url": "https://jobs.ashbyhq.com/openai/a19c76b4-f4ed-424b-afb0-c711ed7d9e2d"
-    },
-    "OpenAI:a1d8f659-c652-42df-968e-008298b733e5": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.279505+00:00",
-      "location": "San Francisco",
-      "title": "Strategic Finance Lead, Corporate Finance and Capital Strategy",
-      "url": "https://jobs.ashbyhq.com/openai/a1d8f659-c652-42df-968e-008298b733e5"
     },
     "OpenAI:a20b7fc6-6f01-4618-ba35-37b40083f93e": {
       "alerted": false,
@@ -271396,13 +271389,6 @@
       "location": "San Francisco",
       "title": "Software Engineer, Enterprise AI Platform ",
       "url": "https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1"
-    },
-    "OpenAI:a67d16f7-0273-4052-bb48-06bf9c478eb6": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.278221+00:00",
-      "location": "San Francisco",
-      "title": "GPT Infrastructure Lead",
-      "url": "https://jobs.ashbyhq.com/openai/a67d16f7-0273-4052-bb48-06bf9c478eb6"
     },
     "OpenAI:a6815609-594d-4f22-93a2-610a69e861a2": {
       "alerted": false,
@@ -272390,13 +272376,6 @@
       "location": "San Francisco",
       "title": "Product Engineer, Ona",
       "url": "https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a"
-    },
-    "OpenAI:c44a22a3-6d6f-41f3-bd54-3379034f3e59": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.276411+00:00",
-      "location": "San Francisco",
-      "title": "AWS Specialist Seller, Strategic Pursuits",
-      "url": "https://jobs.ashbyhq.com/openai/c44a22a3-6d6f-41f3-bd54-3379034f3e59"
     },
     "OpenAI:c46d8648-b921-4b71-bb9a-f7d5c8e989f4": {
       "alerted": false,
@@ -274028,13 +274007,6 @@
       "location": "San Francisco",
       "title": "Software Engineer, Accelerators",
       "url": "https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b"
-    },
-    "OpenAI:f3ddd41c-541f-485e-90d6-86c26e018e9f": {
-      "alerted": false,
-      "first_seen": "2026-08-12T17:39:30.280437+00:00",
-      "location": "San Francisco",
-      "title": "Software Engineer, GPT Infrastructure",
-      "url": "https://jobs.ashbyhq.com/openai/f3ddd41c-541f-485e-90d6-86c26e018e9f"
     },
     "OpenAI:f42d2e1e-8c2d-47cf-bd29-4b459c06ae1a": {
       "alerted": false,
@@ -277836,6 +277808,13 @@
       "location": "Tel Aviv, Tel Aviv District, Israel",
       "title": "Sr. AI Engineer",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Sr-AI-Engineer_R0138302"
+    },
+    "PayPal:R0138303": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513732+00:00",
+      "location": "Tel Aviv, Tel Aviv District, Israel",
+      "title": "Sr. Backend Developer",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Sr-Backend-Developer_R0138303"
     },
     "PayPal:R0138305": {
       "alerted": false,
@@ -294629,6 +294608,13 @@
       "location": "Gurugram Downtown 4",
       "title": "IN_Manager - GTM Strategy Consulting \u2013 Strategy& -Advisory - Gurgaon",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate---GTM-Strategy-Consulting---Strategy---Advisory---Mumbai_735593WD-1"
+    },
+    "PwC (Experienced):735647WD": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513765+00:00",
+      "location": "Cairo - ETIC",
+      "title": "ETIC, Summer Internship - Quality & Testing",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Summer-Internship---Quality---Testing_735647WD"
     },
     "PwC (Experienced):735673WD": {
       "alerted": false,
@@ -315097,6 +315083,13 @@
       "location": "2 Locations",
       "title": "Audit and Assurance Associate",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Tirana/Audit-and-Assurance-Associate_769426WD"
+    },
+    "PwC (Experienced):769429WD": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513796+00:00",
+      "location": "Cairo - ETIC",
+      "title": "ETIC, Business Analyst - Senior Associate",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Business-Analyst---Senior-Associate_769429WD"
     },
     "PwC (Experienced):769437WD": {
       "alerted": false,
@@ -340115,6 +340108,13 @@
       "location": "California - San Francisco",
       "title": "Executive Assistant/Senior Executive Assistant",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Executive-Assistant-Senior-Executive-Assistant_JR368394"
+    },
+    "Salesforce:JR368441": {
+      "alerted": false,
+      "first_seen": "2026-11-15T11:30:05.513262+00:00",
+      "location": "India - Hyderabad",
+      "title": "Systems Engineering Associate",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Systems-Engineering-Associate_JR368441"
     },
     "Scale AI:4282118005": {
       "alerted": false,
