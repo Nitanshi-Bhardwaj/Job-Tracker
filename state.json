@@ -1484,20 +1484,6 @@
       "title": "Global Alliance Director, AWS",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Global-Alliance-Director--AWS_R173701"
     },
-    "Amazon:10502706": {
-      "alerted": true,
-      "first_seen": "2026-08-14T19:52:07.506749+00:00",
-      "location": "New York, New York, USA",
-      "title": "Applied Scientist, Automated Reasoning",
-      "url": "https://www.amazon.jobs/en/jobs/10502706/applied-scientist-automated-reasoning"
-    },
-    "Amazon:10502721": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:52:07.506692+00:00",
-      "location": "Cambridge, Massachusetts, USA",
-      "title": "Software Development Engineer, Playback Team",
-      "url": "https://www.amazon.jobs/en/jobs/10502721/software-development-engineer-playback-team"
-    },
     "Amazon:10502731": {
       "alerted": false,
       "first_seen": "2026-08-14T20:18:01.595930+00:00",
@@ -23772,6 +23758,13 @@
       "title": "Principal Applied Scientist, Supply Tech - Advertising",
       "url": "https://www.amazon.jobs/en/jobs/10610805/principal-applied-scientist-supply-tech-advertising"
     },
+    "Amazon:10610936": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074285+00:00",
+      "location": "Redmond, Washington, USA",
+      "title": "Embedded Software Engineer, Leo MAC",
+      "url": "https://www.amazon.jobs/en/jobs/10610936/embedded-software-engineer-leo-mac"
+    },
     "Anthropic:4017331008": {
       "alerted": false,
       "first_seen": "2026-11-11T17:51:20.198290+00:00",
@@ -26165,6 +26158,13 @@
       "location": "San Francisco, CA",
       "title": "AV Production Specialist",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379593008"
+    },
+    "Anthropic:5379806008": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074766+00:00",
+      "location": "San Francisco, CA | New York City, NY",
+      "title": "Strategic Account Executive, Industries",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379806008"
     },
     "Anthropic:5380327008": {
       "alerted": false,
@@ -33473,13 +33473,6 @@
       "location": "Naples",
       "title": "Portfolio Manager III",
       "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Naples/Portfolio-Manager-III_26029326"
-    },
-    "Bank of America:26029329": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:04:43.959155+00:00",
-      "location": "San Francisco",
-      "title": "Portfolio Manager III",
-      "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/San-Francisco/Portfolio-Manager-III_26029329"
     },
     "Bank of America:26029332": {
       "alerted": false,
@@ -114954,6 +114947,13 @@
       "title": "Solutions Architect - Digital Native Business",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117719002"
     },
+    "Databricks:6117756002": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074211+00:00",
+      "location": "United States",
+      "title": "Solutions Architect - Communications, Media, Entertainment & Gaming ",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117756002"
+    },
     "Databricks:6318503002": {
       "alerted": false,
       "first_seen": "2026-11-10T02:54:33.366320+00:00",
@@ -119748,13 +119748,6 @@
       "location": "Paris, France",
       "title": "Sr.Manager Field Engineering, Digital Natives & Emerging Enterprise France",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8693190002"
-    },
-    "Databricks:8693555002": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:52:07.506581+00:00",
-      "location": "Calgary, Canada",
-      "title": "Named Core Account Executive ",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8693555002"
     },
     "Databricks:8697067002": {
       "alerted": false,
@@ -134792,6 +134785,13 @@
       "title": "J.P. Morgan Wealth Management - Private Client Advisor - Milwaukee, WI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210774100"
     },
+    "JPMorgan Chase:210774108": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074934+00:00",
+      "location": "Racine, WI, United States",
+      "title": "J.P. Morgan Wealth Management - Private Client Advisor - Racine, WI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210774108"
+    },
     "JPMorgan Chase:210774109": {
       "alerted": false,
       "first_seen": "2026-11-19T23:17:19.725059+00:00",
@@ -135260,6 +135260,13 @@
       "location": "Dublin, Ireland",
       "title": "2027 Commercial & Investment Bank \u2013 Global Payments Analyst Program - Summer Internship \u2013 Dublin",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210774757"
+    },
+    "JPMorgan Chase:210774760": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074796+00:00",
+      "location": "LONDON, LONDON, United Kingdom",
+      "title": "Applied AI & ML Lead \u2013 Markets Operations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210774760"
     },
     "JPMorgan Chase:210774762": {
       "alerted": false,
@@ -137746,6 +137753,13 @@
       "title": "Investments Business Manager-Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778239"
     },
+    "JPMorgan Chase:210778252": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074960+00:00",
+      "location": "Bristol, WI, United States",
+      "title": "J.P. Morgan Wealth Management - Private Client Advisor - Bristol, WI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210778252"
+    },
     "JPMorgan Chase:210778258": {
       "alerted": false,
       "first_seen": "2026-08-24T19:59:53.347164+00:00",
@@ -138935,6 +138949,13 @@
       "location": "Palo Alto, CA, United States",
       "title": "Product Manager [Multiple Positions Available]",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210779263"
+    },
+    "JPMorgan Chase:210779279": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074989+00:00",
+      "location": "Kenosha, WI, United States",
+      "title": "J.P. Morgan Wealth Management - Private Client Advisor (Kenosha South Branch) - Kenosha, WI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210779279"
     },
     "JPMorgan Chase:210779285": {
       "alerted": false,
@@ -217343,6 +217364,13 @@
       "title": "Software Engineer II",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210810481"
     },
+    "JPMorgan Chase:210810483": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074818+00:00",
+      "location": "Livingston, NJ, United States",
+      "title": "Relationship Banker - Livingston, NJ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210810483"
+    },
     "JPMorgan Chase:210810484": {
       "alerted": false,
       "first_seen": "2026-11-18T18:20:23.907881+00:00",
@@ -217454,6 +217482,27 @@
       "location": "Mc Lean, VA, United States",
       "title": "Business Relationship Manager Senior - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210810644"
+    },
+    "JPMorgan Chase:210810654": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074840+00:00",
+      "location": "Kearny, NJ, United States",
+      "title": "Associate Relationship Banker - Kearny, NJ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210810654"
+    },
+    "JPMorgan Chase:210810662": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074860+00:00",
+      "location": "Summit, NJ, United States",
+      "title": "Private Client Banker - Summit NJ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210810662"
+    },
+    "JPMorgan Chase:210810683": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074885+00:00",
+      "location": "Pompton Plains, NJ, United States",
+      "title": "Branch Operations Lead -  New Jersey Sussex County Market",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210810683"
     },
     "JPMorgan Chase:210810711": {
       "alerted": false,
@@ -217657,6 +217706,13 @@
       "location": "New York, NY, United States",
       "title": "Private Client Banker - Columbus Ave and 86th St. - New York, NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210811018"
+    },
+    "JPMorgan Chase:210811038": {
+      "alerted": false,
+      "first_seen": "2026-11-21T08:51:05.074905+00:00",
+      "location": "NY, United States",
+      "title": "Data Management Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002?job=210811038"
     },
     "JPMorgan Chase:210811080": {
       "alerted": false,
@@ -241164,13 +241220,6 @@
       "title": "Operations Senior Analyst - Parametric",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Operations-Senior-Analyst---Parametric_PT-JR041663-1"
     },
-    "Morgan Stanley:PT-JR041755": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:52:07.507146+00:00",
-      "location": "Montreal, Canada",
-      "title": "Senior Security Architect Specialist (Hybrid)",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Senior-Security-Architect-Specialist--Hybrid-_PT-JR041755"
-    },
     "Morgan Stanley:PT-JR041767": {
       "alerted": false,
       "first_seen": "2026-08-24T06:29:56.557686+00:00",
@@ -241310,13 +241359,6 @@
       "location": "New York, New York, United States of America",
       "title": "Lead Equity Flow Derivatives Java Dev - Vice President",
       "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Lead-Equity-Flow-Derivatives-Java-Dev---Vice-President_PT-JR042136"
-    },
-    "Morgan Stanley:PT-JR042137": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:52:07.507190+00:00",
-      "location": "Montreal, Canada",
-      "title": "Lead Workplace Engineering Specialist - Enterprise Content & Survey Solutions (Hybrid)",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Montreal-Canada/Lead-Workplace-Engineering-Specialist---Enterprise-Content---Survey-Solutions--Hybrid-_PT-JR042137"
     },
     "Morgan Stanley:PT-JR042138": {
       "alerted": false,
@@ -280602,13 +280644,6 @@
       "title": "PwC - Cyprus University of Technology Placement Opportunities",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Limassol/PwC---Cyprus-University-of-Technology-Placement-Opportunities_578817WD"
     },
-    "PwC (Campus):586178WD": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:04:43.959273+00:00",
-      "location": "Lviv",
-      "title": "Application to PwC Lviv SDC (Tech Graduate)",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lviv/Application-to-PwC-SDC-2024-2025_586178WD"
-    },
     "PwC (Campus):594400WD": {
       "alerted": false,
       "first_seen": "2026-09-16T21:36:13.587326+00:00",
@@ -283171,13 +283206,6 @@
       "title": "Junior - Auditor\u00eda de Sistemas",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Buenos-Aires/Junior---Auditora-de-Sistemas_752526WD"
     },
-    "PwC (Campus):752535WD": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:04:43.959192+00:00",
-      "location": "Rosario",
-      "title": "Junior - Auditoria Externa Contable",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Rosario/Junior---Auditoria-Externa-Contable_752535WD"
-    },
     "PwC (Campus):752544WD": {
       "alerted": false,
       "first_seen": "2026-08-18T15:04:22.736412+00:00",
@@ -283345,13 +283373,6 @@
       "location": "Ottawa",
       "title": "September 2027 - Tax (CPA) - Full-time - Ottawa",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Ottawa/September-2027---Tax--CPA----Full-time---Ottawa_752647WD"
-    },
-    "PwC (Campus):752648WD": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:04:43.959310+00:00",
-      "location": "2 Locations",
-      "title": "Junior - Precios de Transferencia",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Buenos-Aires/Junior---Precios-de-Transferencia_752648WD"
     },
     "PwC (Campus):752649WD": {
       "alerted": false,
@@ -283583,13 +283604,6 @@
       "location": "Calgary",
       "title": "September 2027 - Finance Managed Services (CPA) - Full-time - Calgary",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Calgary/September-2027---Finance-Managed-Services--CPA----Full-time---Calgary_752880WD-1"
-    },
-    "PwC (Campus):752882WD": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:04:43.959234+00:00",
-      "location": "Lviv",
-      "title": "Junior Financial Data Analyst (Intern) - 6 months",
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lviv/Junior-Financial-Data-Analyst--Intern----6-months_752882WD"
     },
     "PwC (Campus):752884WD": {
       "alerted": false,
@@ -321951,13 +321965,6 @@
       "title": "Principal Data Platform Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Principal-Data-Platform-Engineer_JR354027"
     },
-    "Salesforce:JR354037": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:52:07.507109+00:00",
-      "location": "5 Locations",
-      "title": "Product Manager, Enterprise AI & Portfolio Management Platforms",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Product-Manager--Enterprise-AI---Portfolio-Management-Platforms_JR354037"
-    },
     "Salesforce:JR354072": {
       "alerted": false,
       "first_seen": "2026-08-17T17:58:14.205536+00:00",
@@ -343853,13 +343860,6 @@
       "location": "Dublin",
       "title": "Account Executive, Platforms Hunter (Central Eastern Europe)",
       "url": "https://stripe.com/jobs/search?gh_jid=8121659"
-    },
-    "Stripe:8122188": {
-      "alerted": false,
-      "first_seen": "2026-08-14T19:52:07.507067+00:00",
-      "location": "Seattle",
-      "title": "Staff Product Manager, Strategic Apps",
-      "url": "https://stripe.com/jobs/search?gh_jid=8122188"
     },
     "Stripe:8122192": {
       "alerted": false,
